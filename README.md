@@ -1,4 +1,4 @@
-![Stage](https://img.shields.io/badge/RNCP-Recherche_de_stage_pour_2027-blue?style=for-the-badge&logo=github)
+![Stage](https://img.shields.io/badge/STAGE-Recherche_de_stage_pour_2027-blue?style=for-the-badge&logo=github)
 
 ![Mission](https://img.shields.io/badge/Activité-Freelance_disponible-green?style=for-the-badge)
 
