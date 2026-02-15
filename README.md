@@ -2,7 +2,6 @@
 ![Mission](https://img.shields.io/badge/Activités-Disponible_en_freelance-green?style=for-the-badge)
 ![Structure](https://img.shields.io/badge/R&D_Lab-Sayca_Labs-orange?style=for-the-badge)
 
-## Logiciels & Systèmes Autonomes 🏗️
 **Fondateur de Sayca Labs** - Génie Logiciel & Systèmes Souverains
 
 Développeur en infrastructure IA Modulaire & Souveraine, Logiciels et Systèmes B2B
