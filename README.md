@@ -4,6 +4,8 @@
 
 ![Structure](https://img.shields.io/badge/R&D_Lab-Sayca_Labs-orange?style=for-the-badge)
 
+![Timeline Ingénierie Informatique](assets/timeline.png)
+
 # Génie Logiciel & Systèmes Souverains
 **Fondateur de Sayca Labs R&D**
 
