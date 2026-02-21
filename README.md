@@ -1,8 +1,6 @@
 ![Stage](https://img.shields.io/badge/STAGE-Recherche_de_stage_pour_2027-blue?style=for-the-badge&logo=github)
 
-![Mission](https://img.shields.io/badge/Activité-Freelance_disponible-green?style=for-the-badge)
-
-![Structure](https://img.shields.io/badge/Label-Sayca_Labs-orange?style=for-the-badge)
+![Mission](https://img.shields.io/badge/Activité-Freelance_disponible-green?style=for-the-badge)  ![Structure](https://img.shields.io/badge/Label-Sayca_Labs-orange?style=for-the-badge)
 
 ![Timeline Ingénierie Informatique](assets/timeline.png)
 
