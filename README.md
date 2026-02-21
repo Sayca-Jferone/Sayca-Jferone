@@ -97,4 +97,4 @@ Je suis actuellement à l'écoute d'opportunités stratégiques pour propulser m
 
 1.  **L'Humain pilote :** La machine exécute, l'humain supervise.
 2.  **Souveraineté réelle :** L'utilisateur doit posséder et comprendre ses outils.
-3.  **Durabilité :** Bâtir des architectures faites pour durer 10 ans, pas pour suivre une mode.
+3.  **Durabilité :** Développer des architectures faites pour durer et subir des transformations (traductions, transpositions) liées aux cycles de péremption logiciels.
