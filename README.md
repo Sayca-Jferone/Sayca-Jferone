@@ -6,8 +6,6 @@
 
 ![Timeline Ingénierie Informatique](assets/timeline.png)
 
-# Génie Logiciel & Systèmes Souverains
-
 Développeur en infrastructure IA Modulaire & Souveraine, Logiciels et Systèmes B2B
 
 **Fondateur de Sayca Labs R&D** - Structure juridique d'expérimentation en logiciels informatiques
