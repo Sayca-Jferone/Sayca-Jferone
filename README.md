@@ -26,7 +26,7 @@ Je ne vends pas de "gadgets". Ma mission est de bâtir l'infrastructure invisibl
 ---
 
 <details>
-  <summary>🛠️ Compétences en développement "Tech Stack"</summary>
+  <summary>🛠️ Compétences en dev (Tech Stack)</summary>
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
