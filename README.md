@@ -25,7 +25,6 @@
 | **Infrastructure** | `Docker`, `Linux`, `Git` | Des environnements isolés, sécurisés et souverains. |
 | **Génie Logiciel** | `Modularité`, `Clean Code` | Protocoles d'users-to-LLM pour la facilité de haut-niveau pour utilisateurs non-techniques. |
 
-
 ---
 
 <details>
@@ -36,6 +35,8 @@ Je ne vends pas de "gadgets". Ma mission est de bâtir l'infrastructure invisibl
 * **Souveraineté :** Vos données restent sous votre contrôle, hors des clouds publics.
 * **Performance :** Optimisation bas-niveau pour traiter des volumes massifs avec efficacité.
 * **ROI :** Automatisation critique des flux administratifs et logistiques.
+
+</details>
 
 ---
 
