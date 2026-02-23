@@ -1,4 +1,4 @@
-![Mission](https://img.shields.io/badge/Freelance-Disponible-green?style=for-the-badge) ![Stage](https://img.shields.io/badge/STAGE_ALTERNANCE-Disponible_début_2027-blue?style=for-the-badge&logo=github) ![Structure](https://img.shields.io/badge/Label-Sayca_Labs-orange?style=for-the-badge)
+![Mission](https://img.shields.io/badge/Freelance-Disponible-blue?style=for-the-badge) ![Stage](https://img.shields.io/badge/STAGE_ALTERNANCE-Disponible_début_2027-blue?style=for-the-badge&logo=github) ![Structure](https://img.shields.io/badge/Label-Sayca_Labs-orange?style=for-the-badge)
 
 ## Infrastructures IA Modulaires & Souveraines, Logiciels et Systèmes B2B
 
