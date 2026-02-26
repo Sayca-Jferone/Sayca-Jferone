@@ -28,8 +28,9 @@
 <details>
   <summary>🚀 Rôle & résultats de mon travail</summary>
   
-Je ne vends pas de "gadgets". Ma mission est de bâtir l'infrastructure invisible qui transforme les processus manuels coûteux en **marge nette**. Mon approche fusionne la rigueur du **bas-niveau (C)** avec la puissance des **systèmes autonomes (Python/IA)** pour garantir des solutions robustes, auditables et souveraines.
+Je ne vends pas de "gadgets IA". Ma mission est de bâtir l'infrastructure visible ET invisible qui transforme les processus manuels (humains) coûteux en **marge nette**. Mon approche fusionne la rigueur du **bas-niveau (C)** avec la puissance des **systèmes autonomes (Python/IA)** pour garantir des solutions robustes, auditables et souveraines.
 
+### S.P.ROI
 * **Souveraineté :** Vos données restent sous votre contrôle, hors des clouds publics.
 * **Performance :** Optimisation bas-niveau pour traiter des volumes massifs avec efficacité.
 * **ROI :** Automatisation critique des flux administratifs et logistiques.
