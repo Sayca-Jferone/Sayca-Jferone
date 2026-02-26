@@ -2,7 +2,7 @@
   <img src="assets/SaycaLabs_banner.png" width="75%" alt="Sayca Labs Banner">
 </p>
 
-![Signature](https://img.shields.io/badge/Signature_logicielle-Sayca_Labs-red?style=for-the-badge)! [Freelance](https://img.shields.io/badge/Freelance-Disponible-green?style=for-the-badge) ![Stage](https://img.shields.io/badge/STAGE_ALTERNANCE-Disponible_début_2027-blue?style=for-the-badge&logo=github) 
+![Signature](https://img.shields.io/badge/Signature_logicielle-Sayca_Labs-red?style=for-the-badge) ![Freelance](https://img.shields.io/badge/Freelance-Disponible-green?style=for-the-badge) ![Stage](https://img.shields.io/badge/STAGE_ALTERNANCE-Disponible_début_2027-blue?style=for-the-badge&logo=github) 
 
 ## Infrastructures IA Souveraines & Systèmes B2B Modulaires
 
