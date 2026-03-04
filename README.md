@@ -6,7 +6,9 @@
 
 ### Critical Middleware // Sovereign AI Infrastructure // High-Availability Architectures
 
-💼 **[LinkedIn](https://linkedin.com/in/sayca)** - - - 🧠 **[Instagram](https://instagram.com/sayca.labs)**
+💼 **[LinkedIn](https://linkedin.com/in/sayca)**
+🧠 **[Instagram Pro](https://instagram.com/sayca.labs)**
+🎓 **[42 Nice](https://42nice.fr/)**
 
 ---
 
