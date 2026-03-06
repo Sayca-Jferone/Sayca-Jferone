@@ -2,7 +2,7 @@
   <img src="assets/SaycaLabs_HDbanner.png" width="75%" alt="Sayca Labs Banner">
 </p>
 
-![Signature](https://img.shields.io/badge/©-Sayca_Labs-red?style=for-the-badge) ![Activity](https://img.shields.io/badge/Activity-OPEN_WORK_STUDY_&_FREELANCE-blue?style=for-the-badge) ![Time](https://img.shields.io/badge/Timeline-GRADUATION_2027-black?style=for-the-badge)
+![Activity](https://img.shields.io/badge/Activity-OPEN_WORK_STUDY_&_FREELANCE-blue?style=for-the-badge) ![Time](https://img.shields.io/badge/Timeline-GRADUATION_2027-black?style=for-the-badge)
 
 ### Critical Middleware // Sovereign AI Infrastructure // High-Availability Architectures
 
