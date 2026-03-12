@@ -4,15 +4,18 @@
 
 ![Activity](https://img.shields.io/badge/Activity-OPEN_WORK_STUDY_&_FREELANCE-blue?style=for-the-badge) ![Time](https://img.shields.io/badge/Timeline-GRADUATION_2027-black?style=for-the-badge)
 
-### Critical Middleware // Sovereign AI Infrastructure // High-Availability Architectures
+(2021-2025) ✅ - Architecture de la connaissance et de l'information
+(2025-2027) ⏳ - Tronc Commun 42next (vérité logicielle et algorithmie)
+(2027-2030) 🔒 - Architecture Système et logicielle (entreprises Tech)
+(post 2031) 🔒 - Transfert académique vers un Master pour Doctorat en Intelligences Augmentées
 
 💼 **[LinkedIn](https://linkedin.com/in/sayca)**
-🧠 **[Instagram Pro](https://instagram.com/sayca.labs)**
+🧠 **[Pro Instagram](https://instagram.com/sayca.labs)**
 🎓 **[42 Nice](https://42nice.fr/)**
 
 ---
 
-### 🛠️ Mes compétences (Dev Stack)
+### 🛠️ Compétences brutes (Dev Stack)
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
