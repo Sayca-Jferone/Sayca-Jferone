@@ -68,7 +68,7 @@
 ---
 
 <details>
-  <summary>🚀 Mon rôle et ma valeur ajoutée</summary>
+  <summary>🚀 Mon rôle // Ma valeur ajoutée</summary>
   
 Ma mission est de bâtir des infrastructures hyperscales. Mon approche fusionne la rigueur du **bas-niveau (C)** avec la puissance des **systèmes autonomes (Python & IAs de ruches)** pour garantir des solutions robustes, auditables et souveraines.
 
@@ -86,9 +86,12 @@ Ma mission est de bâtir des infrastructures hyperscales. Mon approche fusionne 
   <summary>📂 Projets en cours</summary>
   
 * **[42 Nice - C/Python]** : *Projets académiques (42) sous licence privée conformément à la charte de l'école. Focus : Réimplémentation de bibliothèques standards (Libft), systèmes de fichiers et gestion mémoire. -> [Voir mes autres dépôts github](https://github.com/devSayca?tab=repositories)*
-* **[LABS - Smartphone Bridge Unit]** : *Déploiement de terminaux de diagnostic terrain, interfaçage bas-niveau avec automates industriels et monitoring de flux de données sécurisés via Shizuku/Termux.*
-* **[LABS - Triadic Intelligence]** : *Protocole formant les utilisateurs à un usage "bicéphale" des intelligences artificielles génératives et agentiques.*
-* **[LABS - Sailor Energy]** : *Optimisation de flux agentiques et logistiques via systèmes autonomes appliqués à la régie publicitaire physique.*
+
+* **[SAYCA LABS - OMISHELL]** : *Terminaux de diagnostic terrain, lecture universelle lar interfaçage bas-niveau, monitoring de flux de données sécurisés via Shizuku/Termux.*
+
+* **[SAYCA LABS - Triadic Intelligence]** : *Protocole primitif pour les premières années de collaboration Homme-IA, pour un usage "bicéphale" des intelligences artificielles génératives et agentiques.*
+
+* **[SAYCA LABS - Sailor Energy]** : *Projet complété et terminé. Optimisation de flux agentiques et logistiques via systèmes autonomes appliqués à la régie publicitaire physique.*
 
 </details>
 
