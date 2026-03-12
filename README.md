@@ -43,7 +43,8 @@
 * ​Immersion Bas-Niveau (C23) : Maîtrise de la gestion mémoire, des processus et de l'interfaçage système pur.
 
 * ​Algorithmie avancée : Optimisation de structures de données pour des charges de travail critiques.
-​Développement de bibliothèques propriétaires (libft_ultra) visant l'équilibre entre abstraction et performance métal.
+
+* ​Développement de bibliothèques propriétaires (comme la fusion de 42 et SaycaLabs par libft_axiom) visant l'équilibre entre abstraction et performance métal.
 
 
 ​#### (2027-2030) 🔒 - Expérience Industrielle & Hyperscale (RNCP 6/7)
@@ -87,7 +88,7 @@ Ma mission est de bâtir des infrastructures hyperscales. Mon approche fusionne 
   
 * **[42 Nice - C/Python]** : *Projets académiques (42) sous licence privée conformément à la charte de l'école. Focus : Réimplémentation de bibliothèques standards (Libft), systèmes de fichiers et gestion mémoire. -> [Voir mes autres dépôts github](https://github.com/devSayca?tab=repositories)*
 
-* **[SAYCA LABS - OMISHELL]** : *Terminaux de diagnostic terrain, lecture universelle lar interfaçage bas-niveau, monitoring de flux de données sécurisés via Shizuku/Termux.*
+* **[SAYCA LABS - OMISHELL]** : *Terminaux de diagnostic terrain, détection système universelle par interfaçage bas-niveau pour lectures et injections, gestion critique des systèmes classés interdits, et monitoring de flux de données sécurisés via Shizuku/Termux.*
 
 * **[SAYCA LABS - Triadic Intelligence]** : *Protocole primitif pour les premières années de collaboration Homme-IA, pour un usage "bicéphale" des intelligences artificielles génératives et agentiques.*
 
@@ -127,7 +128,7 @@ Ma mission est de bâtir des infrastructures hyperscales. Mon approche fusionne 
 
 
 #### Rappel :
-#### L'Intelligence Artificielle n'est pas un effet de mode, elle définira la nouvelle stack informatique
+#### L'Intelligence Artificielle Moderne n'est pas un effet de mode, c'est l'évolution logique de la stack informatique qui arrive bien avant les Super-Intelligences.
 
 <p align="center">
   <img src="assets/timeline.png" width="75%" alt="Timeline">
