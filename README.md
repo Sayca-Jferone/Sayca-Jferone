@@ -6,6 +6,7 @@
 
 💼 **[LinkedIn](https://linkedin.com/in/sayca)**
 🎓 **[42 Nice](https://42nice.fr/)**
+🧪 **[Sayca Labs](https://saycalabs.com/)**
 
 ---
 
