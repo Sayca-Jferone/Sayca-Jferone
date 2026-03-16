@@ -1,4 +1,4 @@
-![Activity](https://img.shields.io/badge/Activity-OPEN_WORK_STUDY_&_FREELANCE-blue?style=for-the-badge) ![Time](https://img.shields.io/badge/Timeline-GRADUATION_2027-black?style=for-the-badge)
+![Activity](https://img.shields.io/badge/Activity-OPEN_to_WORK_STUDY_PROGRAM_for_2027-blue?style=for-the-badge) ![Time](https://img.shields.io/badge/Timeline-GRADUATION_2027-black?style=for-the-badge)
 
 <p align="center">
   <img src="assets/SaycaLabs_GitHubBanner.png" width="65%" alt="Sayca Labs Banner">
