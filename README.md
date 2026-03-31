@@ -13,7 +13,7 @@ Je construis des systèmes bas-niveau en C, haut-niveau en Python, des outils d'
 
 ## **[=> Dépôt GitHub principal <=](https://github.com/JasonSayca/SaycaLabs/)**
 
-Tout mon travail de recherche et d'ingénierie est organisé sous **Sayca Labs**.
+Tout mon travail de recherche et d'ingénierie est organisé sous **Sayca Labs**, complémentaire à mon cursus **École 42**.
 
 Bibliothèques C, spécifications système, recherche appliquée, méthodologie FIPOGE.
 
