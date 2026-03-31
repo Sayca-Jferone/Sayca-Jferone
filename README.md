@@ -67,11 +67,13 @@ Partie exploratoire traitée dans [github.com/SaycaLabs/research](https://github
 
 ---
 
-## Autres dépôts
+## Projets
 
 | Dépôt | Description |
 |---|---|
-| [`dotfiles`](https://github.com/JasonSayca/dotfiles) | Configurations shell modulaires — WSL2, Linux, macOS |
+| [`FIPOGE protocol`](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/FIPOGE%20protocol) | Ungénierie par contrat sur chaque bloc fonctionnel d'un système/logiciel |
+| [`dotfiles`](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/dotfiles) | Configurations shell modulaires — WSL2, Linux, macOS |
+| [`axiom_libc`](https://github.com/JasonSayca/SaycaLabs/tree/main/research/axiom_libc) | Librairie axiomatique, orientée infra hyperscales, avec capacité d'évolution de C23 à C∞ |
 | Projets 42 | Licence privée École — non publiés |
 
 ---
