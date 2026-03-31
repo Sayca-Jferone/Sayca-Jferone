@@ -11,7 +11,7 @@ Je construis des systèmes bas-niveau en C, haut-niveau en Python, des outils d'
 ## 🧪 Sayca Labs — Recherche & Ingénierie
 
 
-## **[-> Dépôt GitHub principal](https://github.com/JasonSayca/SaycaLabs/)**
+## **[=> Dépôt GitHub principal <=](https://github.com/JasonSayca/SaycaLabs/)**
 
 Tout mon travail de recherche et d'ingénierie est organisé sous **Sayca Labs**.
 
