@@ -1,4 +1,4 @@
-Étudiant ingénieur à l'**École 42 Nice** — entré en novembre 2025, diplôme visé 2027.
+Étudiant ingénieur à l'**École 42 Nice**, entré en novembre 2025, disponible mi-2027 pour Stages/Alternances certifiants.
 
 Je construis des systèmes bas-niveau en C, haut-niveau en Python, des outils d'infrastructure shell et des protocoles d'ingénierie documentés avant d'être implémentés.
 
