@@ -10,8 +10,6 @@ Je construis des systèmes bas-niveau en C, haut-niveau en Python, des outils d'
 
 ## 🧪 Sayca Labs — Recherche & Ingénierie
 
-────────────────────────────────────────────────────────────
-
 ## **[=> Dépôt GitHub principal <=](https://github.com/JasonSayca/SaycaLabs/)**
 
 Tout mon travail de recherche et d'ingénierie est organisé sous **Sayca Labs**, complémentaire à mon cursus **École 42**.
@@ -21,8 +19,6 @@ Bibliothèques C, spécifications système, recherche appliquée, méthodologie 
 ────────────────────────────────────────────────────────────
 
 ## Compétences
-
-────────────────────────────────────────────────────────────
 
 | Domaine | Technologies | Posture |
 |:---|:---|:---|
@@ -41,8 +37,6 @@ Bibliothèques C, spécifications système, recherche appliquée, méthodologie 
 
 ## Trajectoire
 
-────────────────────────────────────────────────────────────
-
 | Période | Phase | Focus |
 |:---|:---|:---|
 | 2021–2025 | Fondations | Ontologies logiques, structuration de données complexes, débuts en architecture de l'information (Marine Nationale)|
@@ -54,8 +48,6 @@ Bibliothèques C, spécifications système, recherche appliquée, méthodologie 
 
 ## Méthodologie
 
-────────────────────────────────────────────────────────────
-
 **Architecture avant implémentation.**
 
 Chaque projet passe par un contrat FIPOGE (Fichiers · Inputs · Process · Outputs · Guarantees · Errors) avant toute ligne de code. La documentation est un actif technique, pas une formalité.
@@ -65,8 +57,6 @@ Chaque projet passe par un contrat FIPOGE (Fichiers · Inputs · Process · Outp
 ────────────────────────────────────────────────────────────
 
 ## Veille technique
-
-────────────────────────────────────────────────────────────
 
 Partie exploratoire traitée dans [github.com/SaycaLabs/research](https://github.com/JasonSayca/SaycaLabs/tree/main/research/)
 
@@ -78,8 +68,6 @@ Partie exploratoire traitée dans [github.com/SaycaLabs/research](https://github
 ────────────────────────────────────────────────────────────
 
 ## Projets
-
-────────────────────────────────────────────────────────────
 
 | Dépôt | Description |
 |---|---|
