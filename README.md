@@ -52,13 +52,13 @@ On attaque les idées défaillantes **avant** d'attaquer un code long à produir
 
 C'est à celà que sert mon **BIOPGE Software Architecture protocol** que je crash-test sur mes projets de 42 Nice.
 
-[Lire le protocole complet](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_Software_Architecture_protocol)
+[Accéder au protocole complet](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_Software_Architecture_protocol)
 
 ────────────────────────────────────────────────────────────
 
 ## Veille technique
 
-Partie exploratoire traitée dans [github.com/SaycaLabs/research](https://github.com/JasonSayca/SaycaLabs/tree/main/research/)
+Partie exploratoire traitée dans [SaycaLabs.git/research](https://github.com/JasonSayca/SaycaLabs/tree/main/research/)
 
 - **Architectures agentiques** — paradigmes ReAct/Reflexion, orchestration multi-agents, protocole MCP
 - **Inférence locale** — quantification GGUF/EXL2, modèles MoE pour exécution souveraine
