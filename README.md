@@ -10,9 +10,9 @@ Software Architecture : systèmes bas-niveau en C, haut-niveau en Python, outils
 
 Liens rapides:
 
-## **[=> Racine du dépôt <=](https://github.com/JasonSayca/SaycaLabs/)**
+## **[=> Racine du dépôt SaycaLabs](https://github.com/JasonSayca/SaycaLabs/)**
 
-## **[=> Software Architecture protocol <=](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_Software_Architecture_protocol)
+## **[=> Software Architecture protocol](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_Software_Architecture_protocol)**
 
 Tout mon travail de recherche et d'ingénierie est organisé sous **Sayca Labs**, complémentaire à mon cursus **École 42**.
 
