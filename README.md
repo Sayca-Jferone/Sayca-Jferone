@@ -12,7 +12,7 @@ Software Architecture : systèmes bas-niveau en C, haut-niveau en Python, outils
 
 Tout mon travail de recherche et d'ingénierie est organisé sous **Sayca Labs**, complémentaire à mon cursus **École 42**.
 
-Bibliothèques C, spécifications système, recherche appliquée, méthodologie FIPOGE.
+Bibliothèques C, spécifications système, recherche appliquée, BIOPGE Software Architecture protocol.
 
 ────────────────────────────────────────────────────────────
 
@@ -44,13 +44,13 @@ Bibliothèques C, spécifications système, recherche appliquée, méthodologie 
 
 ────────────────────────────────────────────────────────────
 
-## Méthodologie du Software Architect
+## Méthodologie de travail
 
-On attaque les idées défaillantes **avant** d'attaquer un code long à produire et à débuguer.
+J'applique mon "**BIOPGE Software Architecture protocol**" sur tous mes projets, et sujets de Programmes C23/Python à l'École 42.
 
-**Donc** : on rédige l'architecture **avant** de traduire en code.
+C'est un protocole de travail personnel, validé sur terrain, en cours de généralisation.
 
-C'est à celà que sert mon **BIOPGE Software Architecture protocol** que je crash-test sur mes projets de 42 Nice.
+On y attaque les idées défaillantes **avant** d'attaquer un code qui serait long à produire et à débuguer sans architecture solide.
 
 [Accéder au protocole complet](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_Software_Architecture_protocol)
 
