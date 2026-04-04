@@ -1,13 +1,16 @@
+────────────────────────────────────────────────────────────
+
 Étudiant ingénieur à l'**École 42 Nice** — entré en novembre 2025, diplôme visé 2027.
 
 Je construis des systèmes bas-niveau en C, haut-niveau en Python, des outils d'infrastructure shell et des protocoles d'ingénierie documentés avant d'être implémentés.
 
 ![Timeline](https://img.shields.io/badge/Disponibilité_Alternance-Deuxième_trimestre_2027-black?style=for-the-badge)
 
----
+────────────────────────────────────────────────────────────
 
 ## 🧪 Sayca Labs — Recherche & Ingénierie
 
+────────────────────────────────────────────────────────────
 
 ## **[=> Dépôt GitHub principal <=](https://github.com/JasonSayca/SaycaLabs/)**
 
@@ -15,9 +18,11 @@ Tout mon travail de recherche et d'ingénierie est organisé sous **Sayca Labs**
 
 Bibliothèques C, spécifications système, recherche appliquée, méthodologie FIPOGE.
 
----
+────────────────────────────────────────────────────────────
 
 ## Compétences
+
+────────────────────────────────────────────────────────────
 
 | Domaine | Technologies | Posture |
 |:---|:---|:---|
@@ -32,9 +37,11 @@ Bibliothèques C, spécifications système, recherche appliquée, méthodologie 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Shell](https://img.shields.io/badge/Shell-Zsh%2FBash-informational?style=flat-square)
 
----
+────────────────────────────────────────────────────────────
 
 ## Trajectoire
+
+────────────────────────────────────────────────────────────
 
 | Période | Phase | Focus |
 |:---|:---|:---|
@@ -43,9 +50,11 @@ Bibliothèques C, spécifications système, recherche appliquée, méthodologie 
 | 2027–2030 | Visé | Alternance RNCP 6/7, architectures B2B, systèmes distribués |
 | Post-2030 | Objectif | Recherche industrielle : hybridation raisonnement symbolique et modèles agentiques |
 
----
+────────────────────────────────────────────────────────────
 
 ## Méthodologie
+
+────────────────────────────────────────────────────────────
 
 **Architecture avant implémentation.**
 
@@ -53,9 +62,11 @@ Chaque projet passe par un contrat FIPOGE (Fichiers · Inputs · Process · Outp
 
 [Lire le protocole complet](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/FIPOGE%20protocol)
 
----
+────────────────────────────────────────────────────────────
 
 ## Veille technique
+
+────────────────────────────────────────────────────────────
 
 Partie exploratoire traitée dans [github.com/SaycaLabs/research](https://github.com/JasonSayca/SaycaLabs/tree/main/research/)
 
@@ -64,9 +75,11 @@ Partie exploratoire traitée dans [github.com/SaycaLabs/research](https://github
 - **Systèmes** — RFC IPC haute performance, sécurité mémoire C/Unix
 - **IA neuro-symbolique** — hybridation raisonnement logique formel et modèles de langage
 
----
+────────────────────────────────────────────────────────────
 
 ## Projets
+
+────────────────────────────────────────────────────────────
 
 | Dépôt | Description |
 |---|---|
