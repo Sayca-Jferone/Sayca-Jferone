@@ -1,6 +1,6 @@
 Étudiant ingénieur à l'**École 42 Nice**.
 
-Software architecture, systèmes bas-niveau en C, haut-niveau en Python, outils d'infrastructure shell et protocoles d'ingénierie documentés.
+Software architecture, systèmes bas-niveau en C, haut-niveau en Python, outils d'infra shell et protocoles d'ingénierie documentés.
 
 ![Timeline](https://img.shields.io/badge/Disponibilité_Stages_&_Alternances-Deuxième_trimestre_2027-black?style=for-the-badge)
 
