@@ -14,7 +14,7 @@ Software architecture, systèmes bas-niveau en C, haut-niveau en Python, outils 
 
 Tout mon travail de recherche et d'ingénierie est organisé sous **Sayca Labs**, complémentaire à mon cursus **École 42**.
 
-Bibliothèques C, spécifications système, recherche appliquée, BIOPGE DesignByContract SoftwareDev Protocol.
+Bibliothèques C, spécifications système, recherche appliquée, protocoles d'ingénierie système/logiciel et globaux.
 
 ────────────────────────────────────────────────────────────
 
