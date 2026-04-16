@@ -73,8 +73,8 @@ Partie exploratoire traitée dans [SaycaLabs.git/research](https://github.com/Ja
 |---|---|
 | [`BIOPGE DesignByContract Protocol`](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_Software_Architecture_protocol) | 3 phases sur la création de solutions sytèmes complexe. |
 | [`dotfiles`](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/dotfiles) | Configurations shell modulaires — WSL2, Linux, macOS |
-| [`axiom_libc`](https://github.com/JasonSayca/SaycaLabs/tree/main/research/axiom_libc) | Librairie axiomatique, orientée infra hyperscales, avec capacité d'évolution de C23 à C∞ |
-| Projets 42 | Licence privée École — non publiés |
+| [`axiom_libc`](https://github.com/JasonSayca/SaycaLabs/tree/main/research/axiom_libc) | Librairie basée sur C23, conçue pour optimiser des fonctions fondamentales, intégrables aux futures normes C∞ |
+| Projets 42 | Licence privée École — non publiés — projets dérivés uniquement |
 
 ---
 
