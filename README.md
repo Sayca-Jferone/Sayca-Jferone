@@ -1,6 +1,6 @@
 Étudiant ingénieur à l'**École 42 Nice**.
 
-Systèmes/logiciels bas et haut-niveau (ASM, C, Python, multi-language protocols) et Épistémologie Globale de l'Ingénieur.
+Systèmes/logiciels bas et haut-niveau (multi-language: ASM, C, Python), étude et recherche sur l'Épistémologie globale de l'Ingénieur.
 
 ![Timeline](https://img.shields.io/badge/Disponibilité_Stages_&_Alternances-Deuxième_trimestre_2027-black?style=for-the-badge)
 
@@ -14,7 +14,7 @@ Systèmes/logiciels bas et haut-niveau (ASM, C, Python, multi-language protocols
 
 Tout mon travail de recherche et d'ingénierie est organisé sous **Sayca Labs**, complémentaire à mon cursus **École 42**.
 
-Bibliothèques C, spécifications système, recherche appliquée, protocoles d'ingénierie système/logiciel et globaux.
+Bibliothèques C/..., spécifications système, recherche appliquée, protocoles d'ingénierie système/logiciel et globaux.
 
 ────────────────────────────────────────────────────────────
 
@@ -39,8 +39,8 @@ Bibliothèques C, spécifications système, recherche appliquée, protocoles d'i
 
 | Période | Phase | Focus |
 |:---|:---|:---|
-| 2021–2025 | Fondations | Ontologies logiques, structuration de données complexes, débuts en architecture de l'information (Marine Nationale)|
-| 2025–2027 | En cours | C23, gestion mémoire, bibliothèques système, ingénierie par contrat (42 Nice) |
+| 2021–2025 | Fondations | Ontologies logiques, structuration de données complexes, débuts en architecture de l'information sans programmation en languages informatiques |
+| 2025–2027 | En cours | C23, gestion mémoire, bibliothèques système (42 Nice) - ingénierie par contrat, travaux supplémentaires (Sayca Labs)  |
 | 2027–2030 | Visé | Alternance RNCP 6/7, architectures B2B, systèmes distribués |
 | Post-2030 | Objectif | Recherche industrielle : hybridation raisonnement symbolique et modèles agentiques |
 
