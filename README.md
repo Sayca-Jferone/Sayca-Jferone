@@ -1,7 +1,5 @@
 Étudiant ingénieur à l'**École 42 Nice**.
 
-Systèmes/logiciels bas et haut-niveau (multi-language: ASM, C, Python), étude et recherche sur l'Épistémologie globale de l'Ingénieur.
-
 ![Timeline](https://img.shields.io/badge/Disponibilité_Stages_&_Alternances-Deuxième_trimestre_2027-black?style=for-the-badge)
 
 ────────────────────────────────────────────────────────────
@@ -14,7 +12,7 @@ Systèmes/logiciels bas et haut-niveau (multi-language: ASM, C, Python), étude 
 
 Tout mon travail de recherche et d'ingénierie est organisé sous **Sayca Labs**, complémentaire à mon cursus **École 42**.
 
-Bibliothèques C/..., spécifications système, recherche appliquée, protocoles d'ingénierie système/logiciel et globaux.
+Bibliothèques (multi-language: ASM, C, Python), spécifications système, recherche appliquée, protocoles d'ingénierie système/logiciel et globaux.
 
 ────────────────────────────────────────────────────────────
 
