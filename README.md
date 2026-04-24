@@ -1,12 +1,12 @@
-<h1 align="center" class="heading-element" dir="auto">🇫🇷 GitHub de Sayca 🥖</h1>
+<h1 align="center" class="heading-element" dir="auto">🇫🇷 Développer franchouillard 🥖</h1>
 
-Salut ! Je suis étudiant-ambassadeur de l'**École 42 Nice**.
+Étudiant en Génie Numérique à l'**École 42 Nice**.
 
 ---
 
-## 🧪 [Portfolio Sayca Labs](https://saycalabs.com)
+## 🧪 [Portfolio "Sayca Labs"](https://saycalabs.com)
 
-### Réduire les frictions entre mental et concret
+### Outils pour réduire la friction entre le mental et le réel
 
 Travaux d'ingénierie et de recherche complémentaires aux cursus `RNCP 6`/`7` **École 42**.
 
