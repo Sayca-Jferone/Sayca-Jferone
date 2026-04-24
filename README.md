@@ -1,6 +1,8 @@
-Étudiant ingénieur à l'**École 42 Nice**.
+<center>👋 Hey, I'm Sayca !</center>
 
-Je cherche des pairs qui sont en désaccord avec moi. On apprend plus fort par l'erreur et la confrontation de systèmes.
+<center>Étudiant ingénieur à l'**École 42 Nice**</center>
+
+Je cherche des pairs qui sont en désaccord avec mes méthodes, afin de les corriger & renforcer.
 
 ![Timeline](https://img.shields.io/badge/Disponibilité_Stages_&_Alternances-Deuxième_trimestre_2027-black?style=for-the-badge)
 
