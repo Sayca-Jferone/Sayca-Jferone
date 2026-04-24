@@ -23,8 +23,14 @@ Travaux d'ingénierie et de recherche complémentaires aux cursus `RNCP 6`/`7` *
 
 ---
 
-<details>
-  <summary>## Compétences</summary>
+
+# Compétences
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell-Zsh%2FBash-informational?style=flat-square)
 
 | Domaine | Technologies | Posture |
 |:---|:---|:---|
@@ -33,29 +39,6 @@ Travaux d'ingénierie et de recherche complémentaires aux cursus `RNCP 6`/`7` *
 | **Systèmes autonomes** | `Python`, `LLM`, `APIs` | Automatisation des flux critiques avec supervision humaine |
 | **Web & déploiement** | `Astro`, `SvelteKit`, `Cloudflare Pages` | Interfaces légères sur infrastructure souveraine |
 
-</details>
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Shell](https://img.shields.io/badge/Shell-Zsh%2FBash-informational?style=flat-square)
-
-
----
-
-
-<details>
-  <summary>## Trajectoire</summary>
-
-| Période | Phase | Focus |
-|:---|:---|:---|
-| 2021–2025 | Fondations | Ontologies logiques, structuration de données complexes, débuts en architecture de l'information sans programmation en langages informatiques |
-| 2025–2027 | En cours | C23, gestion mémoire, bibliothèques système (42 Nice) — ingénierie par contrat, travaux de recherche personnels (Sayca Labs) |
-| 2027–2030 | Visé | Alternance RNCP 6/7, architectures B2B, systèmes distribués |
-| Post-2030 | Objectif | Recherche industrielle : hybridation raisonnement symbolique et modèles agentiques |
-
-</details>
 
 ---
 
