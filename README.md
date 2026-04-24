@@ -2,7 +2,7 @@
 
 ## 🧪 [Portfolio "Sayca Labs"](https://saycalabs.com)
 
-### Outils pour réduire la friction entre le mental et le réel
+### Outils pour réduire la friction entre les idées et la production
 
 Travaux d'ingénierie et de recherche complémentaires aux cursus `RNCP 6`/`7` **École 42**.
 
