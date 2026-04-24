@@ -24,7 +24,7 @@ Travaux d'ingénierie et de recherche complémentaires aux cursus `RNCP 6`/`7` *
 ---
 
 <details>
-  <summary>Compétences *(détailler)*</summary>
+  <summary>## Compétences</summary>
 
 | Domaine | Technologies | Posture |
 |:---|:---|:---|
@@ -46,7 +46,7 @@ Travaux d'ingénierie et de recherche complémentaires aux cursus `RNCP 6`/`7` *
 
 
 <details>
-  <summary>Trajectoire *(détailler)*</summary>
+  <summary>## Trajectoire</summary>
 
 | Période | Phase | Focus |
 |:---|:---|:---|
