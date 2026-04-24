@@ -12,19 +12,19 @@ Je cherche des pairs qui sont en désaccord avec mes méthodes, afin de les corr
 
 ## 🧪 Sayca Labs — Recherche & Ingénierie
 
-## **[=> Racine de mes travaux (Dépôt SaycaLabs)](https://github.com/JasonSayca/SaycaLabs/)**
+## **[📥 PACT Architecture Framework *(Ontological Tri-partition Engineering)*](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol)**
 
-## **[=> Contrat de développement logiciel en 3 temps](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol)**
+> **Pour les Dev / Arch. Système :** __Protocole d'ingénierie clé-en-main__ pour séparer la conception de solution en 3 visions. Limitation maximale de la friction cognitive du développeur.
 
-Tout mon travail de recherche et d'ingénierie est organisé sous **Sayca Labs**, complémentaire à mon cursus **École 42**.
+## **[🏢 Portfolio `Sayca Labs`](https://github.com/JasonSayca/SaycaLabs/)**
 
-Bibliothèques (multi-language: ASM, C, Python), spécifications système, recherche appliquée, protocoles d'ingénierie système/logiciel et globaux.
-
+> Travail de recherche et d'ingénierie organisé sous **Sayca Labs**, complémentaire à mon cursus `RNCP 6`/`7` **École 42**.
 
 ---
 
+# 🔽 Vue rapide 
 
-## Compétences
+### Compétences
 
 | Domaine | Technologies | Posture |
 |:---|:---|:---|
