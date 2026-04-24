@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">👋 Hey, I'm Sayca !</h1>
+<h1 align="center" class="heading-element" dir="auto">👋 Hey, I'm Sayca !</h1>
 
 Étudiant ingénieur à l'**École 42 Nice**
 
