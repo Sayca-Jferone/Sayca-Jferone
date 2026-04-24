@@ -12,13 +12,11 @@ Je cherche des pairs qui sont en désaccord avec mes méthodes, afin de les corr
 
 ## [🧪 Sayca Labs](https://saycalabs.com) | Réduire la friction entre l'idée et le concret
 
-## **[=> P.A.C.T v0.4](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol)** - Protocole de développement par contrat en 3 phases
+## **[➡️ P.A.C.T v0.4](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol)** | Protocole de développement par contrat en 3 phases
 
 Sayca Labs documente mes travaux de recherche et d'ingénierie, complémentaires à mon cursus `RNCP 6`/`7` **École 42**.
 
 ---
-
-# 🔽 Vue rapide
 
 ### Compétences
 
@@ -39,7 +37,7 @@ Sayca Labs documente mes travaux de recherche et d'ingénierie, complémentaires
 ---
 
 
-## Trajectoire
+### Trajectoire
 
 | Période | Phase | Focus |
 |:---|:---|:---|
@@ -52,7 +50,7 @@ Sayca Labs documente mes travaux de recherche et d'ingénierie, complémentaires
 ---
 
 
-## Veille technique & extensions futures
+### Veille technique & extensions futures
 
 Recherches appliquées traitées dans [SaycaLabs.git/research](https://github.com/JasonSayca/SaycaLabs/tree/main/research/)
 où `PACT` sert de fondation formelle aux explorations suivantes :
@@ -65,7 +63,7 @@ où `PACT` sert de fondation formelle aux explorations suivantes :
 ---
 
 
-## Projets
+### Projets
 
 | Dépôt | Description |
 |---|---|
