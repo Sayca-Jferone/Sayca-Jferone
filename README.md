@@ -10,13 +10,11 @@ Je cherche des pairs qui sont en désaccord avec mes méthodes, afin de les corr
 ---
 
 
-## 🧪 Sayca Labs — Réduire la friction entre l'idée et le concret
+## [🧪 Sayca Labs](https://saycalabs.com) — Réduire la friction entre l'idée et le concret
 
 ## **[=> P.A.C.T v0.4 : Protocole de développement par contrat en 3 phases](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol)**
 
-## **[🏢 Sayca Labs](https://saycalabs.com)**
-
-Travail de recherche et d'ingénierie documenté, complémentaire à mon cursus `RNCP 6`/`7` **École 42**.
+Sayca Labs documente mes travaux de recherche et d'ingénierie, complémentaires à mon cursus `RNCP 6`/`7` **École 42**.
 
 ---
 
