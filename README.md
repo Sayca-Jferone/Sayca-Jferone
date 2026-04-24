@@ -10,13 +10,9 @@ Je cherche des pairs qui sont en désaccord avec mes méthodes, afin de les corr
 ---
 
 
-## 🧪 Sayca Labs — Recherche & Ingénierie
+## 🧪 Sayca Labs — Réduire la friction entre l'idée et le concret
 
-## **[📥 PACT Architecture Framework](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol)**
-
-### *(Ontological Tri-partition Engineering)* 
-
-**Pour les Dev / Arch. Système :** __Protocole d'ingénierie clé-en-main__ pour séparer la conception de solution en 3 visions. Limitation maximale de la friction cognitive du développeur.
+## **[=> `P.A.C.T v0.4` — Protocole de développement par contrat en 3 phases](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol)**
 
 ## **[🏢 Portfolio `Sayca Labs`](https://github.com/JasonSayca/SaycaLabs/)**
 
@@ -24,7 +20,7 @@ Travail de recherche et d'ingénierie documenté, complémentaire à mon cursus 
 
 ---
 
-# 🔽 Vue rapide 
+# 🔽 Vue rapide
 
 ### Compétences
 
@@ -49,8 +45,8 @@ Travail de recherche et d'ingénierie documenté, complémentaire à mon cursus 
 
 | Période | Phase | Focus |
 |:---|:---|:---|
-| 2021–2025 | Fondations | Ontologies logiques, structuration de données complexes, débuts en architecture de l'information sans programmation en languages informatiques |
-| 2025–2027 | En cours | C23, gestion mémoire, bibliothèques système (42 Nice) - ingénierie par contrat, travaux de recherche personnels (Sayca Labs)  |
+| 2021–2025 | Fondations | Ontologies logiques, structuration de données complexes, débuts en architecture de l'information sans programmation en langages informatiques |
+| 2025–2027 | En cours | C23, gestion mémoire, bibliothèques système (42 Nice) — ingénierie par contrat, travaux de recherche personnels (Sayca Labs) |
 | 2027–2030 | Visé | Alternance RNCP 6/7, architectures B2B, systèmes distribués |
 | Post-2030 | Objectif | Recherche industrielle : hybridation raisonnement symbolique et modèles agentiques |
 
@@ -58,25 +54,13 @@ Travail de recherche et d'ingénierie documenté, complémentaire à mon cursus 
 ---
 
 
-## Méthodologie de travail
+## Veille technique & extensions futures
 
-J'applique mon "**BIOPGE DesignByContract Protocol**" sur tous mes projets, et sujets de Programmes C23/Python à l'École 42.
+Recherches appliquées traitées dans [SaycaLabs.git/research](https://github.com/JasonSayca/SaycaLabs/tree/main/research/)
+où `PACT` sert de fondation formelle aux explorations suivantes :
 
-C'est un protocole de travail personnel, en cours de généralisation, qui remplit les besoins partiellement traités par les protocoles d'ingénierie existants.
-
-[Accéder au protocole complet](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol)
-
-
----
-
-
-## Veille technique
-
-Partie exploratoire traitée dans [SaycaLabs.git/research](https://github.com/JasonSayca/SaycaLabs/tree/main/research/)
-
-- **Architectures agentiques** — paradigmes ReAct/Reflexion, orchestration multi-agents, protocole MCP
-- **Inférence locale** — quantification GGUF/EXL2, modèles MoE pour exécution souveraine
-- **Systèmes** — RFC IPC haute performance, sécurité mémoire C/Unix
+- **Architectures agentiques** — typifier les agents par contrats réactifs
+- **Systèmes** — RFC IPC haute performance, veille continue sur la sécurité mémoire C/Unix
 - **IA neuro-symbolique** — hybridation raisonnement logique formel et modèles de langage
 
 
@@ -87,10 +71,9 @@ Partie exploratoire traitée dans [SaycaLabs.git/research](https://github.com/Ja
 
 | Dépôt | Description |
 |---|---|
-| [`BIOPGE DesignByContract Protocol`](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol) | 3 phases pour la compréhension, la conception et l'implémentation de solutions pour des sytèmes complexes. |
+| [`PACT v0.4`](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol) | Synthèse opérationnelle de Design by Contract (Meyer, 1986) et Hoare Logic (1969), structurée en 3 frames ontologiques distincts : Abstrait → Logique → Concret. Conçu pour rester utilisable par un ingénieur seul, là où les protocoles formels complets (B Method, VDM) ont échoué à l'adoption individuelle. |
 | [`dotfiles`](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/dotfiles) | Configurations shell modulaires — WSL2, Linux, macOS |
 | [`axiom_libc`](https://github.com/JasonSayca/SaycaLabs/tree/main/research/axiom_libc) | Librairie basée sur C23, conçue pour optimiser des fonctions fondamentales précisées dans le README associé. |
-
 
 
 ---
