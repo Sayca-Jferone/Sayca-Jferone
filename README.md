@@ -10,11 +10,15 @@ Je cherche des pairs qui sont en désaccord avec mes méthodes, afin de les corr
 ---
 
 
-## [🧪 Sayca Labs](https://saycalabs.com) | Réduire la friction entre l'idée et le concret
+## 🧪 Sayca Labs - Réduire les frictions entre mental et concret (Abstrait<->Logique<->Physique)
 
-## **[➡️ P.A.C.T v0.4](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol)** | Protocole de développement par contrat en 3 phases
+Travaux d'ingénierie et de recherche documentés, complémentaires aux cursus `RNCP 6`/`7` **École 42**.
 
-Sayca Labs documente mes travaux de recherche et d'ingénierie, complémentaires à mon cursus `RNCP 6`/`7` **École 42**.
+## **[➡️ P.A.C.T framework v0.4](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol)** | 
+
+**Actuelllement** un framework de développement logiciel par contrat en 3 phases, solo-dev comme multi-devs.
+
+**Dérivable** à l'avenir pour les architectures agentiques supervisées et autonomes.
 
 ---
 
@@ -55,9 +59,10 @@ Sayca Labs documente mes travaux de recherche et d'ingénierie, complémentaires
 Recherches appliquées traitées dans [SaycaLabs.git/research](https://github.com/JasonSayca/SaycaLabs/tree/main/research/)
 où `PACT` sert de fondation formelle aux explorations suivantes :
 
-- **Architectures agentiques** — typifier les agents par contrats réactifs
-- **Systèmes** — RFC IPC haute performance, veille continue sur la sécurité mémoire C/Unix
-- **IA neuro-symbolique** — hybridation raisonnement logique formel et modèles de langage
+- **Architectures agentiques** - typifier les agents par contrats réactifs
+- **Inférence locale** - quantification GGUF/EXL2, modèles MoE pour exécution souveraine
+- **Systèmes** - RFC IPC haute performance, veille continue sur la sécurité mémoire C/Unix
+- **IA neuro-symbolique** - hybridation raisonnement logique formel et modèles de langage
 
 
 ---
