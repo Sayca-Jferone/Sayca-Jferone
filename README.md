@@ -12,13 +12,15 @@ Je cherche des pairs qui sont en désaccord avec mes méthodes, afin de les corr
 
 ## 🧪 Sayca Labs — Recherche & Ingénierie
 
-## **[📥 PACT Architecture Framework *(Ontological Tri-partition Engineering)*](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol)**
+## **[📥 PACT Architecture Framework](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol)**
 
-> **Pour les Dev / Arch. Système :** __Protocole d'ingénierie clé-en-main__ pour séparer la conception de solution en 3 visions. Limitation maximale de la friction cognitive du développeur.
+### *(Ontological Tri-partition Engineering)* 
+
+**Pour les Dev / Arch. Système :** __Protocole d'ingénierie clé-en-main__ pour séparer la conception de solution en 3 visions. Limitation maximale de la friction cognitive du développeur.
 
 ## **[🏢 Portfolio `Sayca Labs`](https://github.com/JasonSayca/SaycaLabs/)**
 
-> Travail de recherche et d'ingénierie organisé sous **Sayca Labs**, complémentaire à mon cursus `RNCP 6`/`7` **École 42**.
+Travail de recherche et d'ingénierie documenté, complémentaire à mon cursus `RNCP 6`/`7` **École 42**.
 
 ---
 
