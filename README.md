@@ -9,13 +9,13 @@ Je cherche des pairs qui sont en désaccord avec mes méthodes, afin de les corr
 
 ---
 
-## 🧪 Portfolio Sayca Labs - Réduire les frictions entre mental et concret
+## 🧪 Portfolio [Sayca Labs](https://saycalabs.com) - Réduire les frictions entre mental et concret
 
 **Protocoles de développement documentés et applicables seul** - externaliser les idées, formaliser sans surcharge, implémenter avec certitude.
 
 Travaux d'ingénierie et de recherche complémentaires aux cursus `RNCP 6`/`7` **École 42**.
 
-## **[➡️ P.A.C.T framework v0.4](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol)**
+## **[=> Framework P.A.C.T v0.4](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol)**
 
 **Actuellement** un framework de développement logiciel par contrat en 3 phases, solo-dev comme multi-devs. Construit et testé sur le cursus 42next.
 
