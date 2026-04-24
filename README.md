@@ -1,6 +1,6 @@
 <h1 align="center" class="heading-element" dir="auto">🇫🇷 GitHub de Sayca 🥖</h1>
 
-<b align="center" class="heading-element" dir="auto">Étudiant ingénieur à l'**École 42 Nice**</b>
+Salut ! Je suis étudiant-ambassadeur de l'**École 42 Nice**.
 
 ---
 
