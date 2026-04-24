@@ -12,7 +12,7 @@ Je cherche des pairs qui sont en désaccord avec mes méthodes, afin de les corr
 
 ## **[=> Racine de mes travaux (Dépôt SaycaLabs)](https://github.com/JasonSayca/SaycaLabs/)**
 
-## **[=> "BIOPGE" DesignByContract Development Protocol v0.27](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol)**
+## **[=> Contrat de développement logiciel en 3 temps](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol)**
 
 Tout mon travail de recherche et d'ingénierie est organisé sous **Sayca Labs**, complémentaire à mon cursus **École 42**.
 
