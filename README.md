@@ -10,7 +10,7 @@ Travaux de recherche et d'ingénierie logicielle - complémentaires aux cursus `
 
 ### Procédure de développement logiciel
 
-**Actuellement**, il s'agit d'un framework de d'architecture système par contrat en 3 Frames, solo-dev comme multi-devs. Construit et testé pendant le cursus 42next.
+Il s'agit d'un framework d'architecture système par contrat, en 3 Frames, solo-dev comme multi-devs. Construit et testé durant le cursus 42next.
 
 **Dérivable** à l'avenir (2027 Q1) pour les architectures agentiques, supervisées par l'Homme, puis autonomes.
 
