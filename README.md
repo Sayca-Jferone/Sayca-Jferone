@@ -2,7 +2,7 @@
 
 ### Réduire la friction entre les Idées, les Contrats et la Production Système
 
-Travaux de recherche et d'ingénierie système/logicielle complémentaires aux cursus `RNCP 6`/`7` **École 42**.
+Travaux de recherche et d'ingénierie logicielle - complémentaires aux cursus `RNCP 6`/`7` **École 42**.
 
 ---
 
