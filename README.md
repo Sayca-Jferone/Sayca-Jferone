@@ -1,4 +1,4 @@
-<h1 align="center" class="heading-element" dir="auto">🧪 Portfolio - Sayca Labs</h1>
+<h1 align="center" class="heading-element" dir="auto">🧪 Portfolio | SAYCA LABS</h1>
 
 ### Réduire la friction entre les Idées, le Plan et le Concret
 
