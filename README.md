@@ -1,6 +1,6 @@
 <h1 align="center" class="heading-element" dir="auto">🧪 Portfolio | SAYCA LABS</h1>
 
-### Réduire la friction entre les Idées, le Plan et le Concret
+### Réduire la friction entre les Idées, les Contrats et la Production Système
 
 Travaux de recherche et d'ingénierie système/logicielle complémentaires aux cursus `RNCP 6`/`7` **École 42**.
 
