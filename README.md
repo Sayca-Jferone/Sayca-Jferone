@@ -8,7 +8,7 @@ Travaux de recherche et d'ingénierie logicielle - complémentaires aux cursus `
 
 ## **[=> Visionner P.A.C.T v0.4](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol)**
 
-### Procédure de développement logiciel
+### Protocole de développement logiciel unifiant plusieurs normes d'ingénierie
 
 Il s'agit d'un framework simplifié d'architecture système par contrat, en 3 Frames, solo-dev comme multi-devs. 
 
