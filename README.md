@@ -1,4 +1,4 @@
-<h1 align="center" class="heading-element" dir="auto">🧪 Portfolio SaycaLabs</h1>
+<h1 align="center" class="heading-element" dir="auto">🧪 Portfolio | Sayca Labs</h1>
 
 ### Réduire la friction entre les Idées, les Contrats et l'Implémentation
 
