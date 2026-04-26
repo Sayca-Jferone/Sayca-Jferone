@@ -1,6 +1,6 @@
 <h1 align="center" class="heading-element" dir="auto">🧪 Portfolio | Sayca Labs</h1>
 
-### Réduire la friction entre les Idées, les Contrats et l'Implémentation des systèmes informatiques
+### Réduire la friction entre les Idées, les Contrats et l'Implémentation des Systèmes
 
 Travaux de recherche et d'ingénierie logicielle - complémentaires aux cursus `RNCP 6`/`7` **École 42**
 
