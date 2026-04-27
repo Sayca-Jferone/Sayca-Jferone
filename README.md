@@ -1,6 +1,6 @@
 <h1 align="center" class="heading-element" dir="auto">🧪 Portfolio | Sayca Labs</h1>
 
-### Maîtrise des frictions Concept<->Contrat<->Code sur chaque système logiciel
+### Baisse des frictions Concept $\leftrightarrow$ Contrat $\leftrightarrow$ Code sur chaque système logiciel
 
 Travaux de recherche et d'ingénierie logicielle - complémentaires aux cursus `RNCP 6`/`7` **École 42**
 
