@@ -1,4 +1,4 @@
-<h1 align="center" class="heading-element" dir="auto">🧪 Portfolio | Sayca Labs</h1>
+<h1 align="center" class="heading-element" dir="auto">🧪 Sayca Labs</h1>
 
 ### Baisse des frictions Concept<->Contrat<->Code sur chaque système
 
