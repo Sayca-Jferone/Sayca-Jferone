@@ -8,9 +8,9 @@ Travaux de recherche et d'ingénierie logicielle - complémentaires aux cursus `
 
 ## **[=> Visionner P.A.C.T v0.50 <=](https://github.com/Sayca-Jferone/PACT_Protocol)**
 
-### Protocole de développement logiciel en 3 séquences
+### Pipeline d'Architecture *(logicielle)* par Construction Tripartite
 
-Norme [Synthèse->Contrat->Implémentation] free-to-use, réunissant plusieurs normes d'ingénierie, compatibles solo-dev, dev-team, avec ou sans IA.
+Workflow réunissant plusieurs normes d'ingénierie, en 3 plans épistemiques, compatibles solo-dev, dev-team, avec ou sans IA.
 
 Construit et utilisé pendant mon cursus 42next, **dérivable** à l'avenir (2027 Q1) pour les architectures agentiques autonomes.
 
@@ -54,7 +54,7 @@ où les explorations suivantes appliquent les principes de `PACT` :
 
 | Dépôt | Description |
 |---|---|
-| [`PACT v0.50`](https://github.com/Sayca-Jferone/PACT_Protocol) | Synthèse opérationnelle de Design by Contract (Meyer, 1986) et Hoare Logic (1969), structurée en 3 frames ontologiques distincts : Abstrait <-> Logique <-> Concret. Conçu pour rester utilisable par un ingénieur seul, là où les protocoles formels complets (B Method, VDM) ont échoué à l'adoption individuelle. |
+| [`PACT v0.51`](https://github.com/Sayca-Jferone/PACT_Protocol) | Synthèse opérationnelle de Design by Contract (Meyer, 1986) et Hoare Logic (1969), structurée en 3 frames ontologiques distincts : Abstrait <-> Logique <-> Concret. Conçu pour rester utilisable par un ingénieur seul, là où les protocoles formels complets (B Method, VDM) ont échoué à l'adoption individuelle. |
 | [`dotfiles`](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/dotfiles) | Configurations shell modulaires — WSL2, Linux, macOS |
 | [`axiom_libc`](https://github.com/JasonSayca/SaycaLabs/tree/main/research/axiom_libc) | Librairie basée sur C23, conçue pour optimiser des fonctions fondamentales précisées dans le README associé. |
 
