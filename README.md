@@ -6,7 +6,7 @@ Travaux de recherche et d'ingénierie logicielle - complémentaires aux cursus `
 
 ---
 
-## **[=> Visionner P.A.C.T v0.51 (29/04/2026)](https://github.com/Sayca-Jferone/PACT_Protocol)**
+## **[=> Pipeline P.A.C.T v0.51](https://github.com/Sayca-Jferone/PACT_Protocol)**
 
 ### Pipeline d'Architecture *(logicielle)* par Construction Tripartite
 
