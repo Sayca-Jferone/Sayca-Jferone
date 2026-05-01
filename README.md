@@ -5,7 +5,7 @@ Travaux de recherche et d'ingénierie logicielle avec certification `RNCP 6`/`7`
 
 ---
 
-## **[=> Pipeline de travail actuel P.A.C.T_v0.51](https://github.com/Sayca-Jferone/PACT_Protocol)**
+## **[=> Pipeline de travail solo à trio P.A.C.T_v0.51](https://github.com/Sayca-Jferone/PACT_Protocol)**
 
 ### Pipeline d'Architecture *(logicielle)* par Construction Tripartite
 
