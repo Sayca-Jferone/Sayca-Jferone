@@ -29,10 +29,10 @@ Construit, puis utilisé pendant mon cursus 42next (densité logicielle cercle 3
 
 | Domaine | Technologies | Posture |
 |:---|:---|:---|
-| **Bas niveau** | `C23`, `Unix`, `Shell` | Maîtriser les primitives pour ne jamais subir l'abstraction |
+| **Bas niveau** | `C11`, `Unix`, `Shell` | Maîtriser les primitives pour l'abstraction logicielle |
 | **Infrastructure** | `Docker`, `Linux`, `Git`, `Cloudflare` | Environnements isolés, reproductibles, auditables |
-| **Systèmes autonomes** | `Python`, `LLM`, `APIs` | Automatisation des flux critiques avec supervision humaine |
-| **Web & déploiement** | `Astro`, `SvelteKit`, `Cloudflare Pages` | Interfaces légères sur infrastructure souveraine |
+| **Systèmes autonomes** | `Python`, `LLM`, `APIs` | Automatisation des flux (banale à sensible) avec supervision humaine |
+| **Web & déploiement** | `Astro`, `SvelteKit`, `Cloudflare Pages` | Interfaces légères sur infrastructure souveraine, suffisante sans spécialisation web. |
 
 
 ---
