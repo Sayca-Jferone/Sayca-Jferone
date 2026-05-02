@@ -2,7 +2,7 @@
 
 ### Sys. engineering & architecture
 
-Travaux de recherche et de production logicielle, multi-domaimes, bas/haut-niveau. 
+Travaux de recherche et d'ingénierie logicielle, multi-domaines, bas/haut-niveau. 
 
 Certification `RNCP 6`/`7` **via cursus 42 Nice**
 
@@ -12,9 +12,9 @@ Certification `RNCP 6`/`7` **via cursus 42 Nice**
 
 ### Pipeline d'Architecture *logicielle* par Construction Tripartite
 
-Méthode de travail qui se déclenche à partir d'un certain seuil de complexité système (customer_request / 42_subject / business_product). Il compacte plusieurs normes d'ingénierie, en 3 phases, avec OU sans assistants IA.
+Méthode de travail pertinente au delà d'un certain seuil de "densité" d'un système (customer_request / 42_subject / business_product). Il compacte plusieurs normes d'ingénierie, en 3 phases, avec OU sans assistants IA. Permet de contracter le temps de conception et d'implémentation.
 
-Construit et utilisé pendant mon cursus 42next (utile seulement à partir du 3ème cercle.)
+Construit, puis utilisé pendant mon cursus 42next (densité logicielle à partir du cercle 3).
 
 ---
 
