@@ -1,6 +1,6 @@
 <h1 align="center" class="heading-element" dir="auto">🧪 Sayca Labs</h1>
 
-### Systems Engineering & Architecture
+### Sys. Engineering & Architecture
 
 Travaux de recherche et de production logicielle, avec certification `RNCP 6`/`7` **via cursus 42 Nice**
 
