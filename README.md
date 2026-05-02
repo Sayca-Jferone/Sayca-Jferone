@@ -20,12 +20,12 @@ Construit, puis utilisé pendant mon cursus 42next (densité logicielle cercle 3
 
 # 📝 Mes compétences 
 
-1. Posture
+1. Posture (over-stack)
 2. Tech Stack
 3. Veille technique
 4. Projets
 
-### 1. Over Stack
+### 1. Posture
 
 1. **Modélisation de systèmes** en contrats, flux et invariants, avant le script.
 
