@@ -12,7 +12,9 @@ Certification `RNCP 6`/`7` **via cursus 42 Nice**
 
 ### *Pipeline d'architecture causale et transitive*
 
-**Ingénieurs Système, étudiants 42, développeurs scripteurs** avec OU sans assistants IA. Ce pipeline de Software Engineering contracte plusieurs normes d'ingénierie en optimisant votre temps de conception et d'implémentation du contenu numérique, peu importe son domaine, fiable, auditable et héritable.
+**Ingénieurs Système, étudiants 42, développeurs toutes stacks** avec OU sans assistants IA.
+
+Ce pipeline de Software Engineering contracte plusieurs normes d'ingénierie en optimisant votre temps de conception et d'implémentation du contenu numérique, peu importe son domaine, fiable, auditable et héritable.
 
 Construit et utilisé pendant mon cursus 42next (pour la densité logicielle supérieure au Cercle 2).
 
