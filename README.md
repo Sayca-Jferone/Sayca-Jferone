@@ -8,8 +8,6 @@ Certification `RNCP 6`/`7` **via cursus 42 Nice**
 
 ---
 
-# 1. Workflow
-
 ### **[=> Pipeline de travail P.A.C.T_v0.51](https://github.com/Sayca-Jferone/PACT_Protocol)**
 
 ### Pipeline d'Architecture *logicielle* par Construction Tripartite
@@ -21,7 +19,7 @@ Construit et utilisé pendant mon cursus 42next (utile seulement à partir du 3�
 ---
 
 
-# 2. Tech Stack
+## Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
