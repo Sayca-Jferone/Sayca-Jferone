@@ -8,11 +8,11 @@ Certification `RNCP 6`/`7` **via cursus 42 Nice**
 
 ---
 
-### **[=> Pipeline de travail P.A.C.T_v0.51 (solo/duo/trio)](https://github.com/Sayca-Jferone/PACT_Protocol)**
+### **[=> Méthode de travail P.A.C.T_v0.51](https://github.com/Sayca-Jferone/PACT_Protocol)**
 
 ### Pipeline d'Architecture *logicielle* par Construction Tripartite
 
-Méthode de travail pertinente au delà d'un certain seuil de "densité" d'un système (customer_request / 42_subject / business_product). Il compacte plusieurs normes d'ingénierie, en 3 phases, avec OU sans assistants IA. Permet de contracter le temps de conception et d'implémentation.
+Solo, équipes duo et trio, pipeline pertinent au delà d'un certain seuil de "densité" d'un système (customer_request / 42_subject / business_product). Il compacte plusieurs normes d'ingénierie, en 3 phases, avec OU sans assistants IA. Permet de contracter le temps de conception et d'implémentation.
 
 Construit, puis utilisé pendant mon cursus 42next (densité logicielle cercle 3+).
 
