@@ -2,7 +2,7 @@
 
 ### Software Engineering extra 42 Nice `RNCP 6 & 7`
 
-Travaux de recherche/innovation en génie logiciel (bas/haut-niveau) et en résolutions transversales.
+Travaux de recherche/innovation en génie logiciel (bas/haut-niveau) et en solutions transversales.
 
 > Défilement : 📐Workflow / 📝Compétences / ⚙️Projets extra-42
 
@@ -14,16 +14,15 @@ Travaux de recherche/innovation en génie logiciel (bas/haut-niveau) et en réso
 
 ### **[→ Procédure spéciale "PACT Software Engineering" (v0.52)](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
 
-### **[→ Procédure globale "PACT Any-domain solutions building" (v0.50)](https://github.com/Sayca-jferone/PACT_GlobalEngineering)**
+### **[→ Procédure globale "PACT Any-domain solutions building" (v0.50)](https://github.com/Sayca-jferone/PACT)**
 
 La plupart des projets échouent avant le code : sujet ambigüe, spécification floue,
 interfaces non contractualisées, dette de conception invisible, invention hors-contrat dans le code.
 
-L'écart entre Réalité, Volonté et Produit défaille progressivement : frictions mentales et pertes globales.
-Les protocoles existants (B Method, VDM) ont, certes, résolu ce problème
-théoriquement, mais ils restent partiels et ont échoué à l'adoption individuelle et tout-niveau de complexité.
+Les protocoles existants (B Method, VDM) ont résolu ce problème théoriquement,
+mais ils restent partiels et ont échoué à l'adoption individuelle.
 
-**PACT est une procédure légère en 3 phases (CheckList → Architecture → Implémentation)**
+**Je partage une procédure légère en 4 phases (Sujet → CheckList → Architecture → Implémentation)**
 qui force la contractualisation de chaque composant clé (fichier, système, agent) pour son debug logique, avant d'écrire son code.
 Chaque composant est défini par ses Behaviours, Invariants, Outputs, Processus, Garanties et Erreurs (BIOPGE).
 
@@ -87,8 +86,8 @@ où les explorations suivantes appliquent les principes de `PACT` :
 | Dépôt | Description |
 |---|---|
 | [`PACT for Software v0.52`](https://github.com/Sayca-Jferone/PACT_SoftwareEngineering) | Synthèse opérationnelle structurée en 3 frames ontologiques: Abstrait <-> Formel <-> Concret. Là où les protocoles formels complets (B Method, VDM) ont échoué à l'adoption individuelle. |
-| [`PACT for Any Domain v0.50`](https://github.com/Sayca-Jferone/PACT_GlobalEngineering) | Variante globale du même concept, compatible tout-domaine (ex: Business Building, Human Associations, any-domain problems definition, ...) : Abstrait <-> Formel <-> Concret. |
-| [`dotfiles`](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/dotfiles) | Configurations shell modulaires — WSL2, Linux, macOS |
+| [`PACT for Any Domain v0.50`](https://github.com/Sayca-Jferone/PACT) | Variante globale du même concept, compatible tout-domaine (ex: Business Building, Human Associations, any-domain problems definition, ...) : Abstrait <-> Formel <-> Concret. |
+| [`dotfiles`](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/dotfiles) | Configurations shell modulaires WSL2, Linux, macOS |
 | [`axiom_libc`](https://github.com/JasonSayca/SaycaLabs/tree/main/research/axiom_libc) | Librairie exploratoire basée sur C23. |
 
 
