@@ -1,6 +1,6 @@
 <h1 align="center" class="heading-element" dir="auto">🧪 Sayca Labs</h1>
 
-### Software Engineering | 42 Nice `RNCP 6 & 7`
+### Software Engineering | extra 42 Nice `RNCP 6 & 7`
 
 Travaux de recherche/innovation en génie logiciel (bas/haut-niveau) et en résolutions transversales.
 
