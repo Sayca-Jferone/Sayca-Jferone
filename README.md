@@ -4,7 +4,7 @@
 
 Travaux de recherche/innovation en génie logiciel (bas/haut-niveau) et en résolutions transversales.
 
-> SOMMAIRE: 📐 Workflow / 📝 Compétences / ⚙️ Projets extra-42
+> Sommaire | 📐 Workflow / 📝 Compétences / ⚙️ Projets extra-42
 
 ---
 
