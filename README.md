@@ -1,6 +1,8 @@
 <h1 align="center" class="heading-element" dir="auto">🧪 Sayca Labs</h1>
 
-Travaux de recherche/innovation en génie logiciel (bas/haut-niveau) et en solutions transversales.
+### Software Engineering 42 student
+
+Recherche/innovation en logiciels (bas/haut-niveau) et en solutions transversales.
 
 > 1) Workflow / 2) Compétences / 3) Projets extra-42
 
