@@ -1,18 +1,20 @@
 <h1 align="center" class="heading-element" dir="auto">🧪 Sayca Labs</h1>
 
-### Software Engineering 42 student
+### Visual Systems Engineering
 
-Recherche/innovation en logiciels (bas/haut-niveau) et en solutions transversales.
+Recherche autonome en systèmes transversaux, agentique et en logiciels (bas/haut-niveau).
 
 ---
 
-# 📐 1. Workflow
+# 📐 1. Workflow de développeur
 
 ### 💡​ <-> I.📋 <-> II.🗺️ <-> III.🏗️
 
 ### **[→ Procédure PACT adaptée au Software Engineering (v0.52)](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
 
 ### **[→ Procédure PACT globale (tout-domaine confondu) (v0.50)](https://github.com/Sayca-jferone/PACT)**
+
+Passer de l'ingénierie textuelle longue, coûteuse et laborieuse à la production de systèmes/logiciels par la théorie des graphes.
 
 La plupart des projets échouent avant le code : sujet ambigüe, spécification floue,
 interfaces non contractualisées, dette de conception invisible, invention hors-contrat dans le code.
