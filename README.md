@@ -6,7 +6,7 @@ Recherche autonome en systèmes transversaux, agentique et en logiciels (bas/hau
 
 ---
 
-# 📐 1. Workflow optimisé
+# 📐 1. Mon workflow
 
 ### 💡​ <-> I)📋 <-> II)🗺️ <-> III)🏗️
 
@@ -33,7 +33,7 @@ une rigueur formelle **sans over-engineering**.
 
 ---
 
-# 📝 2. Compétences 
+# 📝 2. Mes compétences
 
 ## 1. Posture
 
@@ -81,11 +81,11 @@ où les explorations suivantes appliquent les principes de `PACT` :
 ---
 
 
-## ⚙️ 3. Projets extra-42
+## ⚙️ 3. Mes projets extra-42
 
 | Dépôt | Description |
 |---|---|
-| [`PACT for Software v0.52`](https://github.com/Sayca-Jferone/PACT_SoftwareEngineering) | Synthèse opérationnelle structurée en 3 frames ontologiques: Abstrait <-> Formel <-> Concret. Là où les protocoles formels complets (B Method, VDM) ont échoué à l'adoption individuelle. |
+| [`PACT for Software Eng. v0.52`](https://github.com/Sayca-Jferone/PACT_SoftwareEngineering) | Synthèse opérationnelle structurée en 3 frames ontologiques: Abstrait <-> Formel <-> Concret. Là où les protocoles formels complets (B Method, VDM) ont échoué à l'adoption individuelle. |
 | [`PACT for Any Domain v0.50`](https://github.com/Sayca-Jferone/PACT) | Variante globale du même concept, compatible tout-domaine (ex: Business Building, Human Associations, any-domain problems definition, ...) : Abstrait <-> Formel <-> Concret. |
 | [`dotfiles`](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/dotfiles) | Configurations shell modulaires WSL2, Linux, macOS |
 | [`axiom_libc`](https://github.com/JasonSayca/SaycaLabs/tree/main/research/axiom_libc) | Librairie exploratoire basée sur C23. |
