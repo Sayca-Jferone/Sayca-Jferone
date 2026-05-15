@@ -8,9 +8,9 @@ Recherche autonome complète sur les systèmes transversaux, bas/haut niveau et 
 
 ### I.📋 <-> II.🗺️ <-> III.🏗️
 
-### **[→ Procédure PACT adaptée (Software Engineering) (v0.52)](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
+### **[→ Procédure PACT Software Engineering (v0.52)](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
 
-### **[→ Procédure PACT globale (Domain Agnostic) (v0.50)](https://github.com/Sayca-jferone/PACT)**
+### **[→ Procédure PACT Any Domain (v0.50)](https://github.com/Sayca-jferone/PACT)**
 
 C'est passer de la production 100% textuelle (longue, coûteuse, laborieuse pour certains profils) à la production de systèmes par l'intermédiaire de la Théorie des Graphes, **sans over-engineering**, **moins de frictions pour le développeur**.
 
