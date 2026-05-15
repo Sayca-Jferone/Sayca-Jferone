@@ -1,8 +1,6 @@
 <h1 align="center" class="heading-element" dir="auto">🧪 Sayca Labs</h1>
 
-### Visual Systems Engineering
-
-Recherche autonome sur les systèmes transversaux, en agentique et sur les systèmes bas/haut-niveau.
+Recherche autonome complète sur les systèmes transversaux, bas/haut niveau et en agentique.
 
 ---
 
