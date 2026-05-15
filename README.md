@@ -6,9 +6,9 @@ Recherche autonome en systèmes transversaux, agentique et en logiciels (bas/hau
 
 ---
 
-# 📐 1. Workflow de développeur
+# 📐 1. Workflow optimisé
 
-### 💡​ <-> I.📋 <-> II.🗺️ <-> III.🏗️
+### 💡​ <-> I)📋 <-> II)🗺️ <-> III)🏗️
 
 ### **[→ Procédure PACT adaptée au Software Engineering (v0.52)](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
 
