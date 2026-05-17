@@ -4,13 +4,13 @@
 
 ### I.📋 <-> II.🗺️ <-> III.🏗️
 
-C'est une discipline que j'ai construite par induction à partir de ma propre expérience des sujets 42, on enseignée à l'école,
+C'est une discipline que j'ai construite par induction à partir de ma propre expérience des sujets 42, non enseignée à l'école
 
 ### **[→ Procédure PACT Software Engineering (v0.52)](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
 
 ### **[→ Procédure PACT Any Domain (v0.50)](https://github.com/Sayca-jferone/PACT)**
 
-Production de systèmes en "Design By Contract" par l'intermédiaire de la Théorie des Graphes, **sans over-engineering**, **sans création de features déconnectées in-code**, **héritable par tous les agents humains et artificiels**.
+Apprentissage seul ou en groupe pendant la production de systèmes en "Design By Contract", par l'intermédiaire de la Théorie des Graphes, **sans over-engineering**, **sans création de features déconnectées in-code**, **héritable par tous les agents humains et artificiels**.
 
 Des protocoles existent déjà (B Method, VDM), mais ne résolvent ce problème que théoriquement, partiels et fragmentés, et ont échoué à l'adoption individuelle.
 
