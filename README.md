@@ -31,7 +31,7 @@ une rigueur formelle.
 
 3. **Architecture auto-documentée** (PACT, BIOPGE).
 
-4. **Intégration de domaines hétérogènes** (systèmes transversaux pour intégration de domaines hors-spécialisation).
+4. **Intégration transversale** (systèmes hétérogènes, conçus pour traiter des domaines hors-spécialisation).
 
 5. **Conception d'outils cognitifs** visant l'augmentation des compétences & capacités de travail humaines, de pair avec l'agentique IA.
 
