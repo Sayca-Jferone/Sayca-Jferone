@@ -25,9 +25,9 @@ une rigueur formelle.
 
 ## 1. Soft Stack
 
-1. **Modélisation de systèmes** en contrats, flux et invariants, avant le script.
+1. **Modélisation de systèmes** en contrats, flux et invariants, avant la transdction en script.
 
-2. **Typage épistémique** pour qualifier et intégrer des éléments émergents/expérimentaux.
+2. **Typage épistémique** pour qualifier et intégrer des éléments émergents/sensibles.
 
 3. **Architecture auto-documentée** (PACT, BIOPGE).
 
