@@ -4,7 +4,7 @@
 
 ### I.📋 <-> II.🗺️ <-> III.🏗️
 
-C'est une discipline construite par induction à partir de ma propre expérience des sujets 42, non enseignée à l'école
+C'est une discipline open-source construite par induction à partir de ma propre expérience à 42 Nice.
 
 ### **[→ Protocole "PACT Software Engineering" (v0.52)](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
 
