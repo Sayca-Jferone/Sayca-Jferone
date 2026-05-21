@@ -2,8 +2,6 @@
 
 <div align="center">
 
-**SOMMAIRE**
-  
 I) Mon workflow
 
 II) Mes compétences
