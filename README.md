@@ -76,11 +76,10 @@ une rigueur formelle.
 | Dépôt | Description |
 |---|---|
 | Cursus 42next vers RNCP 7 | Études intensives sur le développement informatique. Terrain d'application de mes protocoles d'ingénierie logicielle et transversale any-domain. |
-| [`PACT for Software Eng. v0.52`](https://github.com/Sayca-Jferone/PACT_SoftwareEngineering) | Mon protocole-signature pour le travail structuré en 3 frames ontologiques. Là où les protocoles formels complets (B Method, VDM) ont échoué à l'adoption individuelle. |
-| [`PACT for Any Domain v0.50`](https://github.com/Sayca-Jferone/PACT) | Variante du même protocole, compatible pour tous les domaines existants (ex: Business Building, Human Associations, any engineering problems definition, ...). |
-| [`Sayca Labs webservice`](https://saycalabs.com) | Domaine hébergeur de mes services qui constituent mon portfolio extra-42. |
+| [`PACT Soft Eng`](https://github.com/Sayca-Jferone/PACT_SoftwareEngineering) | Mon protocole-signature pour le travail structuré en 3 frames ontologiques. Là où les protocoles formels complets (B Method, VDM) ont échoué à l'adoption individuelle. |
+| [`PACT General`](https://github.com/Sayca-Jferone/PACT) | Variante du même protocole, compatible pour tous les domaines existants (ex: Business Building, Human Associations, any engineering problems definition, ...). |
+| [`Saycalabs.com`](https://saycalabs.com) | Domaine hébergeur de mes services qui constituent mon portfolio extra-42. |
 | [`dotfiles`](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/dotfiles) | Configurations shell modulaires WSL2, Linux, macOS |
-| [`axiom_libc`](https://github.com/JasonSayca/SaycaLabs/tree/main/research/axiom_libc) | Librairie exploratoire basée sur C23. |
 
 
 ---
