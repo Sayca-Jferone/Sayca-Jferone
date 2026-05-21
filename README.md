@@ -33,20 +33,7 @@ une rigueur formelle.
 
 # 📝 Compétences
 
-## 1. Soft Stack
-
-1. **Modélisation de systèmes** en contrats, flux et invariants, avant la transdction en script.
-
-2. **Typage épistémique** pour qualifier et intégrer des éléments émergents/sensibles.
-
-3. **Architecture auto-documentée** (PACT, BIOPGE).
-
-4. **Intégration transversale** (systèmes hétérogènes, conçus pour traiter des domaines hors-spécialisation).
-
-5. **Conception d'outils cognitifs** visant l'augmentation des compétences & capacités de travail humaines, de pair avec l'agentique IA.
-
-
-## 2. Hard Stack
+## 1. Hard Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -61,9 +48,19 @@ une rigueur formelle.
 | **Systèmes autonomes** | `Python`, `LLM`, `APIs` | Automatisation des flux (banale à sensible) avec supervision humaine |
 | **Web & déploiement** | `Astro`, `SvelteKit`, `Cloudflare Pages` | Interfaces légères sur infrastructure souveraine, sans spécialisation front. |
 
+## 2. Soft Stack
+
+1. **Modélisation de systèmes** en contrats, flux et invariants, avant la transdction en script.
+
+2. **Typage épistémique** pour qualifier et intégrer des éléments émergents/sensibles.
+
+3. **Architecture auto-documentée** (PACT, BIOPGE).
+
+4. **Intégration transversale** (systèmes hétérogènes, conçus pour traiter des domaines hors-spécialisation).
+
+5. **Conception d'outils cognitifs** visant l'augmentation des compétences & capacités de travail humaines, de pair avec l'agentique IA.
 
 ---
-
 
 ### 3. Veille technique & extensions futures
 
