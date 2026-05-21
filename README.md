@@ -12,9 +12,7 @@ III) Projets Sayca Labs + 42
 
 # 📐 Protocole de travail
 
-### I.📋 <-> II.🗺️ <-> III.🏗️
-
-C'est une discipline open-source construite par induction à partir de ma propre expérience à 42 Nice.
+**Discipline open-source** construite par induction à partir de **ma propre expérience à 42 Nice**.
 
 ### **[→ Protocole "PACT Software Engineering" (v0.52)](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
 
