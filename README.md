@@ -6,9 +6,9 @@
 
 C'est une discipline construite par induction à partir de ma propre expérience des sujets 42, non enseignée à l'école
 
-### **[→ Procédure PACT Software Engineering (v0.52)](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
+### **[→ Protocole "PACT Software Engineering" (v0.52)](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
 
-### **[→ Procédure PACT Any Domain (v0.50)](https://github.com/Sayca-jferone/PACT)**
+### **[→ Protocole "PACT General" (v0.50)](https://github.com/Sayca-jferone/PACT)**
 
 Apprentissage seul ou en groupe pendant la production de systèmes par l'intermédiaire de la Théorie des Graphes, **sans over-engineering**, **sans création de features déconnectées in-code**, **héritable par tous les agents humains et artificiels**.
 
