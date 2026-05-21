@@ -2,9 +2,12 @@
 
 <div align="center">
 
-  **SOMMAIRE**
+**SOMMAIRE**
+  
 I) Mon Workflow
+
 II) Mes Compétences
+
 III) Mes projets
 
 </div>
