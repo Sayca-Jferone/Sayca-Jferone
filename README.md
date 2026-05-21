@@ -2,15 +2,15 @@
 
 <div align="center">
 
-I) Mon workflow
+I) Protocole de travail
 
-II) Mes compétences
+II) Compétences
 
-III) Mes projets
+III) Projets 42 + Sayca Labs
 
 </div>
 
-# 📐 Workflow
+# 📐 Work protocol
 
 ### I.📋 <-> II.🗺️ <-> III.🏗️
 
