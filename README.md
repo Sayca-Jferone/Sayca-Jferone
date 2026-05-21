@@ -3,9 +3,9 @@
 <div align="center">
 
   **SOMMAIRE**
- 1. Workflow
- 2. Compétences
- 3. Projets
+I) Mon Workflow
+II) Mes Compétences
+III) Mes projets
 
 </div>
 
