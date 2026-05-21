@@ -1,9 +1,13 @@
 <h1 align="center" class="heading-element" dir="auto">🧪 Sayca Labs portfolio 🧠</h1>
 
+<div align="center">
+
 **SOMMAIRE**
 1. Workflow
 2. Compétences
-3. projets
+3. Projets
+
+</div>
 
 # 📐 1. Workflow
 
