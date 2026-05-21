@@ -1,11 +1,11 @@
 <h1 align="center" class="heading-element" dir="auto">🧪 Sayca Labs portfolio 🧠</h1>
 
 **SOMMAIRE**
-1. Mon Workflow
-2. Mes Compétences
-3. Mes projets
+1. Workflow
+2. Compétences
+3. projets
 
-# 📐 1. Mon workflow
+# 📐 1. Workflow
 
 ### I.📋 <-> II.🗺️ <-> III.🏗️
 
@@ -26,7 +26,7 @@ une rigueur formelle.
 
 ---
 
-# 📝 2. Mes compétences
+# 📝 2. Compétences
 
 ## 1. Soft Stack
 
@@ -74,7 +74,7 @@ où les explorations suivantes appliquent les principes de `PACT` :
 ---
 
 
-## ⚙️ 3. Mes projets
+## ⚙️ 3. Projets
 
 | Dépôt | Description |
 |---|---|
