@@ -2,11 +2,11 @@
 
 <div align="center">
 
-I) Protocole de travail
+I) Protocole
 
 II) Compétences
 
-III) Projets 42 + Sayca Labs
+III) Projets Sayca Labs + 42
 
 </div>
 
