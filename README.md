@@ -62,19 +62,14 @@ une rigueur formelle.
 
 ---
 
-### 3. Veille technique & extensions futures
+## 3. Veille technique
 
-Recherches appliquées traitées dans [SaycaLabs.git/research](https://github.com/JasonSayca/SaycaLabs/tree/main/research/)
-où les explorations suivantes appliquent les principes de `PACT` :
-
-- **Architectures agentiques** - typifier les agents par contrats réactifs
-- **Inférence locale** - quantification GGUF/EXL2, modèles MoE pour exécution souveraine
-- **Systèmes** - RFC IPC haute performance, veille continue sur la sécurité mémoire C/Unix
-- **IA neuro-symbolique** - hybridation raisonnement logique formel et modèles de langage
-
+- **Systèmes** - *RFC IPC haute performance, veille continue sur la sécurité mémoire C/Unix*
+- **IA neuro-symbolique** - *hybridation raisonnement logique formel et modèles de langage*
+- **Architectures agentiques** - *typifier les agents par contrats réactifs*
+- **Inférence locale** - *quantification GGUF/EXL2, modèles MoE pour exécution souveraine*
 
 ---
-
 
 ## ⚙️ Projets
 
