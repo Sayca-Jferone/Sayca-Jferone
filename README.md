@@ -2,10 +2,10 @@
 
 <div align="center">
 
-**SOMMAIRE**
-1. Workflow
-2. Compétences
-3. Projets
+  **SOMMAIRE**
+ 1. Workflow
+ 2. Compétences
+ 3. Projets
 
 </div>
 
