@@ -4,15 +4,15 @@
 
 **SOMMAIRE**
   
-I) Mon Workflow
+I) Mon workflow
 
-II) Mes Compétences
+II) Mes compétences
 
 III) Mes projets
 
 </div>
 
-# 📐 1. Workflow
+# 📐 Workflow
 
 ### I.📋 <-> II.🗺️ <-> III.🏗️
 
@@ -33,7 +33,7 @@ une rigueur formelle.
 
 ---
 
-# 📝 2. Compétences
+# 📝 Compétences
 
 ## 1. Soft Stack
 
@@ -67,7 +67,7 @@ une rigueur formelle.
 ---
 
 
-### Veille technique & extensions futures
+### 3. Veille technique & extensions futures
 
 Recherches appliquées traitées dans [SaycaLabs.git/research](https://github.com/JasonSayca/SaycaLabs/tree/main/research/)
 où les explorations suivantes appliquent les principes de `PACT` :
@@ -81,7 +81,7 @@ où les explorations suivantes appliquent les principes de `PACT` :
 ---
 
 
-## ⚙️ 3. Projets
+## ⚙️ Projets
 
 | Dépôt | Description |
 |---|---|
