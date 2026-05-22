@@ -2,7 +2,7 @@
 
 <div align="center">
 
-I) Worflow
+I) Workflow
 
 II) Compétences
 
@@ -10,7 +10,7 @@ III) Projets Sayca Labs + 42
 
 </div>
 
-# 📐 Worflow
+# 📐 Workflow
 
 **Discipline open-source** construite par induction à partir de **ma propre expérience à 42 Nice**.
 
