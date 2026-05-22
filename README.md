@@ -1,15 +1,5 @@
 <h1 align="center" class="heading-element" dir="auto">🧪 Sayca Labs 🧠</h1>
 
-<div align="center">
-
-I) Workflow
-
-II) Compétences
-
-III) Projets Sayca Labs + 42
-
-</div>
-
 # 📐 Workflow
 
 **Discipline open-source** construite par induction à partir de **ma propre expérience à 42 Nice**.
