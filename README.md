@@ -2,7 +2,7 @@
 
 # 📐 Workflow
 
-**Discipline open-source** construite par induction à partir de **ma propre expérience à 42 Nice**.
+**Discipline open-source de production par apprentissage contrôlé**, construite à partir de ma propre expérience à 42 Nice.
 
 ### **[→ Protocole "PACT Software Engineering" (v0.52)](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
 
