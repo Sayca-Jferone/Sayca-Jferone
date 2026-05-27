@@ -1,6 +1,6 @@
 <h1 align="center" class="heading-element" dir="auto">🧪 Sayca Labs 🧠</h1>
 
-**All my works** posted public before January 2027 **are Open-Source** (my work-study program starts: Q1 2027)
+**All my works posted before 1st January 2027** *(in public repos)* **are Open-Source** | (until my work-study program Q1-2027)
 
 # 📐 Mon workflow signature
 
