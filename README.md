@@ -1,5 +1,7 @@
 <h1 align="center" class="heading-element" dir="auto">🧪 Sayca Labs 🧠</h1>
 
+**All my works** posted public before January 2027 **are Open-Source** (my work-study program starts: Q1 2027)
+
 # 📐 Workflow
 
 **Discipline open-source de production par apprentissage contrôlé**, construite à partir de ma propre expérience à 42 Nice.
