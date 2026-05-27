@@ -4,20 +4,19 @@
 
 # 📐 Mon workflow signature
 
-**Discipline open-source de production par apprentissage contrôlé**, construite à partir de ma propre expérience à 42 Nice.
+**Discipline de production en apprentissage permanent**, documentée à partir de ma propre expérience à 42 Nice.
 
 ### **[→ Protocole "PACT Software Engineering" (v0.52)](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
 
 ### **[→ Protocole "PACT General" (v0.50)](https://github.com/Sayca-jferone/PACT)**
 
-Apprentissage seul ou en groupe pendant la production de systèmes par l'intermédiaire de la Théorie des Graphes, **sans over-engineering**, **sans création de features déconnectées in-code**, **héritable par tous les agents humains et artificiels**.
+Pour l'apprentissage pendant la production/refactorisation de systèmes logiciels/réseaux (maîtrisés ou émergents), **devs seuls ou en équipes**, par l'intermédiaire de 3 Plans Ontologiques, **sans over-engineering**, **sans création de features déconnectées in-code**, **héritable par tous les agents humains et artificiels**.
 
 Des protocoles existent déjà (B Method, VDM), mais ne résolvent ce problème que théoriquement, partiels et fragmentés, et ont échoué à l'adoption individuelle.
 
-Changement de paradigme dans le but d'optimiser la **qualité** et la **vitesse** de mon apprentissage, ainsi que la **tracabilité/rétro-conception de tous mes logiciels**.
+C'est un changement de paradigme dans le but d'optimiser la **qualité** et la **vitesse** de mon apprentissage, ainsi que la **tracabilité/rétro-conception de tous mes logiciels**.
 
-**Cible :** Étudiants 42, ingénieurs système, développeurs toutes stacks cherchant
-une rigueur formelle.
+**Cible :** Développeurs toutes stacks, étudiants 42 et ingénieurs any-experience-leveled, cherchant une rigueur formelle définie et dérivable.
 
 ---
 
