@@ -24,41 +24,22 @@ C'est un changement de paradigme dans le but d'optimiser la **qualité** et la *
 
 ## 1. Hard Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Shell](https://img.shields.io/badge/Shell-Zsh%2FBash-informational?style=flat-square)
-
 | Domaine | Technologies | Posture |
 |:---|:---|:---|
 | **Bas niveau** | `C11`, `Unix`, `Shell` | Maîtriser les primitives pour l'abstraction logicielle |
 | **Infrastructure** | `Docker`, `Linux`, `Git`, `Cloudflare` | Environnements isolés, reproductibles, auditables |
 | **Systèmes autonomes** | `Python`, `LLM`, `APIs` | Automatisation des flux (banale à sensible) avec supervision humaine |
-| **Web & déploiement** | `Astro`, `SvelteKit`, `Cloudflare Pages` | Interfaces légères sur infrastructure souveraine, sans spécialisation front. |
+| **Web & déploiement** | `Astro`, `SvelteKit`, `Cloudflare Pages` | Interfaces légères sur infrastructure souveraine. |
 
 ## 2. Soft Stack
 
-1. **Modélisation de systèmes** en contrats, flux et invariants, avant la transdction en script.
+0. Profil CTF / recon passif, opère en utilisateur avancé dans les systèmes dont les permissions développeur sont hors de porté.
+   
+1. **Modélisation de systèmes** en contrats, flux et invariants pour transduire efficacement les blocs logiques en script exécutable.
 
-2. **Typage épistémique** pour qualifier et intégrer des éléments émergents/sensibles.
+2. **Conception d'outils cognitifs** visant l'augmentation des compétences & capacités de travail humaines, de pair avec l'agentique IA.
 
-3. **Architecture auto-documentée** (PACT, BIOPGE).
-
-4. **Intégration transversale** (systèmes hétérogènes, conçus pour traiter des domaines hors-spécialisation).
-
-5. **Conception d'outils cognitifs** visant l'augmentation des compétences & capacités de travail humaines, de pair avec l'agentique IA.
-  
-6. **Power-user Hat** quand les permissions staff/développeur ne me sont pas attribuées dans un système.
-
----
-
-## 3. Veille technique
-
-- **Systèmes** - *RFC IPC haute performance, veille continue sur la sécurité mémoire C/Unix*
-- **IA neuro-symbolique** - *hybridation raisonnement logique formel et modèles de langage*
-- **Architectures agentiques** - *typifier les agents par contrats réactifs*
-- **Inférence locale** - *quantification GGUF/EXL2, modèles MoE pour exécution souveraine*
+3. **Communication multi-canaux** avec les agents humains/LLM par des **architectures auto-documentées** (PACT, BIOPGE).
 
 ---
 
