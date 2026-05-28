@@ -48,6 +48,8 @@ C'est un changement de paradigme dans le but d'optimiser la **qualité** et la *
 4. **Intégration transversale** (systèmes hétérogènes, conçus pour traiter des domaines hors-spécialisation).
 
 5. **Conception d'outils cognitifs** visant l'augmentation des compétences & capacités de travail humaines, de pair avec l'agentique IA.
+  
+6. **Power-user Hat** quand les permissions staff/développeur ne me sont pas attribuées dans un système.
 
 ---
 
