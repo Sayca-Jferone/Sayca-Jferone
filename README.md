@@ -4,7 +4,7 @@
 
 # 📐 Mon protocole de travail Darwin-Turing
 
-**Discipline d'apprentissage et de production**, convertissant des tokens LLM sous mon pipeline d'ingénierie "PACT", pour la clarification et l'amélioration de mes systèmes logiciels (software) et mentaux (skills perso).
+**Discipline d'apprentissage et de production**, convertissant des tokens LLM sous mon pipeline de décharge cognitive "PACT", pour la clarification et l'amélioration de mes systèmes logiciels (software) et mentaux (skills perso).
 
 ### **[→ Protocole "PACT Software Engineering" (v0.52)](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
 
