@@ -2,19 +2,15 @@
 
 **All my works posted before 1st January 2027** *(in public repos)* **are Open-Source** => until my work-study program Q1-2027
 
-# 📐 Mon workflow
+# 📐 Mon protocole de travail Darwin-Turing
 
-**Discipline de production en apprentissage permanent**, documentée à partir de ma propre expérience à 42 Nice.
+**Discipline d'apprentissage et de production**, convertissant des tokens LLM sous mon pipeline d'ingénierie "PACT", pour la clarification et l'amélioration de mes systèmes logiciels (software) et mentaux (skills perso).
 
 ### **[→ Protocole "PACT Software Engineering" (v0.52)](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
 
 ### **[→ Protocole "PACT General" (v0.50)](https://github.com/Sayca-jferone/PACT)**
 
-Pour l'apprentissage pendant la production/refactorisation de systèmes logiciels/réseaux (maîtrisés ou émergents), **devs seuls ou en équipes**, par l'intermédiaire de 3 Plans Ontologiques, **sans over-engineering**, **sans création de features déconnectées in-code**, **héritable par tous les agents humains et artificiels**.
-
-Des protocoles existent déjà (B Method, VDM), mais ne résolvent ce problème que théoriquement, partiels et fragmentés, et ont échoué à l'adoption individuelle.
-
-C'est un changement de paradigme dans le but d'optimiser la **qualité** et la **vitesse** de mon apprentissage, ainsi que la **tracabilité/rétro-conception de tous mes logiciels**.
+Apprentissage par Production/refactorisation de systèmes (logiciels informatiques maîtrisés ou émergents), **pour les développeurs solo ou en équipe**, **sans over-engineering**, **sans création de features locales et déconnectées "in-code"**, **héritable par tous les agents humains et artificiels**.
 
 **Cible :** Développeurs toutes stacks, étudiants 42 et ingénieurs any-experience-leveled, cherchant une rigueur formelle définie et dérivable.
 
