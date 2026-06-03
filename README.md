@@ -2,7 +2,7 @@
 
 **All my works posted before 1st January 2027** *(in public repos)* **are Open-Source** => until my work-study program Q1-2027
 
-# 📐 Mon workflow signature
+# 📐 Mon workflow
 
 **Discipline de production en apprentissage permanent**, documentée à partir de ma propre expérience à 42 Nice.
 
