@@ -2,9 +2,7 @@
 
 **All my works posted before 1st January 2027** *(in public repos)* **are Open-Source** => until my work-study program Q1-2027
 
-# 📐 Protocole de travail Darwin-Turing
-
-**Discipline d'apprentissage et de production**, convertissant des tokens LLM sous un pipeline de décharge cognitive "PACT/DRAFT", pour la clarification et l'amélioration de mes systèmes logiciels (software) et mentaux (soft/hard skills).
+# 📐 Méthodes
 
 ### **[→ Protocole "PACT Software Engineering" (v0.52)](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
 
@@ -39,7 +37,7 @@ Apprentissage par Production/refactorisation de systèmes (logiciels informatiqu
 
 ---
 
-## ⚙️ Projets
+## ⚙️ Projets publiques
 
 | Dépôt | Description |
 |---|---|
