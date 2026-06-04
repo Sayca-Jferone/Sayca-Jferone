@@ -2,19 +2,19 @@
 
 **All my works posted before 1st January 2027** *(in public repos)* **are Open-Source** => until my work-study program Q1-2027
 
-# 📐 Méthodes
+# 📐 Méthodologie
 
 ### **[→ Protocole "PACT Software Engineering" (v0.52)](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
 
 ### **[→ Protocole "PACT General" (v0.50)](https://github.com/Sayca-jferone/PACT)**
 
-Apprentissage par Production/refactorisation de systèmes (logiciels informatiques maîtrisés ou émergents), **pour les développeurs solo ou en équipe**, **sans over-engineering**, **sans création de features locales et déconnectées "in-code"**, **héritable par tous les agents humains et artificiels**.
+**Discipline d'apprentissage et de production**, solo ou peer-to-peer, induite de mon expérience 42 Next + Sayca Labs.
 
-**Cible :** Développeurs toutes stacks, étudiants 42 et ingénieurs any-experience-leveled, cherchant une rigueur formelle définie et dérivable.
+**Cible:** Développeurs toutes stacks, étudiants 42 et ingénieurs any-experience-leveled, sans over-engineering, héritable par tout agent humain et artificiel.
 
 ---
 
-# 📝 Compétences
+# 📝 Résumé des compétences
 
 ## 1. Hard Stack
 
