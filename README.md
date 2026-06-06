@@ -1,6 +1,6 @@
 <h1 align="center" class="heading-element" dir="auto">🧪 Sayca Labs 🧠</h1>
 
-**Any works posted before 01/01/2027** are Open-Source** => until my work-study program Q1-2027
+*Any works posted before Q1-2027 are Open-Source until my work-study program.*
 
 # 📐 Mon protocole
 
