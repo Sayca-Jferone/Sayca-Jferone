@@ -2,13 +2,13 @@
 
 **Any works posted before 01/01/2027** are Open-Source** => until my work-study program Q1-2027
 
-# 📐 Mon protocole de travail
+# 📐 Protocole personnel
 
 **Conçu pour rendre l'intention humaine héritable et implémentable par tout collaborateur — humain ou LLM.**
 
-### **[→ Protocole "PACT Software Engineering" (v0.52)](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
+### **[→ Protocole "PACT Software Engineering"](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
 
-### **[→ Protocole "PACT General" (v0.50)](https://github.com/Sayca-jferone/PACT)**
+### **[→ Protocole "PACT General"](https://github.com/Sayca-jferone/PACT)**
 
 **J'ai construit ce protocole avant l'existence publique des IA type LLM**, désormais exploitable en solo ou peer-to-peer, avec **et** sans LLM, induite de mon expérience 42 Next + Sayca Labs depuis 2025.
 
