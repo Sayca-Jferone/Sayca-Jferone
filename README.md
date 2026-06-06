@@ -1,16 +1,16 @@
 <h1 align="center" class="heading-element" dir="auto">🧪 Sayca Labs 🧠</h1>
 
-**All my works posted before 1st January 2027** *(in public repos)* **are Open-Source** => until my work-study program Q1-2027
+**Any works posted before 01/01/2027** are Open-Source** => until my work-study program Q1-2027
 
-# 📐 Méthodologie
+# 📐 Mon protocole de travail
+
+**Conçu pour rendre l'intention humaine héritable et implémentable par tout collaborateur — humain ou LLM.**
 
 ### **[→ Protocole "PACT Software Engineering" (v0.52)](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
 
 ### **[→ Protocole "PACT General" (v0.50)](https://github.com/Sayca-jferone/PACT)**
 
-**Discipline d'apprentissage et de production**, solo ou peer-to-peer, induite de mon expérience 42 Next + Sayca Labs.
-
-**Cible:** Développeurs toutes stacks, étudiants 42 et ingénieurs any-experience-leveled, sans over-engineering, héritable par tout agent humain et artificiel.
+**J'ai construit ce protocole avant l'existence publique des IA type LLM**, désormais exploitable en solo ou peer-to-peer, avec **et** sans LLM, induite de mon expérience 42 Next + Sayca Labs depuis 2025.
 
 ---
 
