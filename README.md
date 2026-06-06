@@ -2,7 +2,7 @@
 
 **Any works posted before 01/01/2027** are Open-Source** => until my work-study program Q1-2027
 
-# 📐 Protocole personnel
+# 📐 Mon protocole
 
 **Conçu pour rendre l'intention humaine héritable et implémentable par tout collaborateur — humain ou LLM.**
 
