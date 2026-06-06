@@ -10,7 +10,7 @@
 
 ### **[→ Protocole "PACT General"](https://github.com/Sayca-jferone/PACT)**
 
-**J'ai construit ce protocole avant l'existence publique des IA type LLM**, désormais exploitable en solo ou peer-to-peer, je l'améliore avec **et** sans LLM, via mon expérience 42 Next + Sayca Labs.
+**J'ai construit ce protocole avant l'existence publique des IA type LLM (2019)**. Je le place maintenant Open-Source pour le solo-dev et le peer-to-peer, je l'améliore en continu via mon expérience 42next + Sayca Labs.
 
 ---
 
