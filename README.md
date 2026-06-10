@@ -6,7 +6,7 @@
 
 **Conçu pour rendre l'Intention héritable et implémentable par quelconque agent en entreprise** | humain comme artificiel.
 
-### **[→ Protocole "PACT-SE"](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
+### **[→ Protocole "PACT-SE"](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)** | Any-stack software
 
 ### **[→ Protocole "PACT-General"](https://github.com/Sayca-jferone/PACT)**
 
