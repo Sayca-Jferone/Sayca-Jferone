@@ -6,8 +6,7 @@
 
 **Conçu pour rendre l'Intention héritable et implémentable par quelconque agent en entreprise** | humain comme artificiel.
 
-### **[→ Protocole "PACT-SE"](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)** (Any-stack software)
-
+### **[→ Protocole "PACT-SE"](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**  <= Incoming update... `"DRAFT Protocol v1.00"`
 ### **[→ Protocole "PACT-General"](https://github.com/Sayca-jferone/PACT)**
 
 **Je l'ai débuté avant l'accès publique des IA génératives (~2019)**, maintenant testé par mes pairs de 42 Nice pour feedbacks et amélioration continue (solo à 2~5 dev teams).
