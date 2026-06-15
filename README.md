@@ -4,7 +4,7 @@
 
 # 📐 Protocole d'intervention
 
-**Conçu pour rendre l'Intention héritable et implémentable par quelconque agent en entreprise** | humain comme artificiel.
+**Conçu pour rendre l'Intention héritable et implémentable par quelconque agent en entreprise** | humain comme agentique.
 
 ### **[→ Protocole "PACT-SE"](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**  <= `Incoming update "DRAFT Protocol v1.00"`
 ### **[→ Protocole "PACT-General"](https://github.com/Sayca-jferone/PACT)**
