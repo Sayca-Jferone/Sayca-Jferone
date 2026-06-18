@@ -1,4 +1,4 @@
-<h1 align="center" class="heading-element" dir="auto">📄 Sayca Labs 🔗</h1>
+<h1 align="center" class="heading-element" dir="auto">Sayca Labs</h1>
 
 *Ex officier-marinier (SNLE) · Systèmes bare-metal to agentic.*
 *Any works published are Open-Source until my work-study program (Q1-2027).*
@@ -7,7 +7,7 @@
 
 **Rendre l'intention héritable et implémentable par quelconque agent en entreprise**, humain comme agentique.
 
-### **[→ (deprecated) PACT protocol](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**  <= `Incoming update "DRAFT Protocol"`
+### **[→ PACT protocol](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**  <= `Incoming update "DRAFT Protocol"`
 
 **Débuté avant l'accès publique des IA génératives (~2019)**, maintenant testé par mes pairs de 42 Nice pour feedbacks et amélioration continue (solo à 2~5 dev teams).
 
@@ -22,7 +22,7 @@
 | **Bas niveau** | `C11`, `Unix`, `Shell` | Maîtriser les primitives pour l'abstraction logicielle. |
 | **Infrastructure** | `Docker`, `Linux`, `Git`, `Cloudflare` | Environnements isolés, reproductibles, auditables. |
 | **Systèmes autonomes** | `Python`, `LLM`, `APIs` | Automatisation des flux (criticité: routine à sensible) avec supervision humaine. |
-| **Web & déploiement** | `Astro`, `SvelteKit`, `Cloudflare Pages` | Interfaces légères sur infrastructure souveraine. |
+| **Web & déploiement** | `Astro`, `Cloudflare Pages` | Interfaces légères sur infrastructure souveraine. |
 
 ## 2. Comportement
 
@@ -40,7 +40,7 @@
 
 | Dépôt | Description |
 |---|---|
-| Cursus 42next vers RNCP 7 | Études intensives sur le développement informatique. Terrain d'application de mes protocoles d'ingénierie logicielle. Repo github privés (licence École). |
+| Cursus 42next vers RNCP 7 | Études intensives sur le développement informatique. Terrain d'application de mes protocoles d'ingénierie logicielle. Repo github privés (projets à délicencier Q4 2026). |
 | [`PACT-Software`](https://github.com/Sayca-Jferone/PACT_SoftwareEngineering) | Mon protocole-signature pour le travail structuré en 3 frames ontologiques. Là où les protocoles formels complets (B Method, VDM) ont échoué à l'adoption individuelle. |
 | [`PACT-General`](https://github.com/Sayca-Jferone/PACT) | Variante du même protocole, compatible pour tous les domaines existants (ex: Business Building, Human Associations, any engineering problems definition, ...). |
 | [`Saycalabs.com`](https://saycalabs.com) | Domaine où mes services interactifs et portfolio extra-42 sont disponibles. |
