@@ -4,7 +4,7 @@
 
 *Any works published are Open-Source until my work-study program (Q1-2027).*
 
-# 📐 Protocole DRAFT
+# 📐 Protocole
 
 **Rendre l'intention héritable et implémentable par quelconque agent en entreprise**, humain comme agentique.
 
@@ -14,7 +14,7 @@
 
 ---
 
-# 📝 Résumé des compétences
+# 📝 Compétences
 
 ## 1. Hard Stack
 
@@ -37,7 +37,7 @@
 
 ---
 
-## ⚙️ Activités
+## ⚙️ ACTIVITÉS
 
 | Dépôt | Description |
 |---|---|
