@@ -1,6 +1,7 @@
 <h1 align="center" class="heading-element" dir="auto">Sayca Labs</h1>
 
 *Ex officier-marinier (SNLE) · Systèmes bare-metal to agentic.*
+
 *Any works published are Open-Source until my work-study program (Q1-2027).*
 
 # 📐 Protocole DRAFT
