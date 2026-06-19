@@ -2,7 +2,7 @@
 
 *Ex officier-marinier (SNLE) · Systèmes bare-metal to agentic.*
 
-## 📐 Framework de développement
+# 📐 Framework de développement
 
 **Rendre l'intention héritable et implémentable par quelconque agent en entreprise**, humain comme agentique.
 
@@ -10,7 +10,7 @@
 
 ### **[→ PACT protocol](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**  <= `Incoming update "DRAFT Protocol"`
 
-## 📝 Compétences
+# 📝 Compétences
 
 ## 1. Hard Stack
 
@@ -31,7 +31,7 @@
 
 3. **Communication multi-canaux** : entre agents humains/LLM par des **architectures auto-documentées** (protocole DRAFT, blocs logiques "BIOPGE", Markdown, RAG VectorDB).
 
-## ⚙️ Activités
+# ⚙️ Activités
 
 | Dépôt | Description |
 |---|---|
