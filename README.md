@@ -10,7 +10,7 @@
 
 ### **[→ PACT protocol](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**  <= `Incoming update "DRAFT Protocol"`
 
-**Débuté avant l'accès publique des IA génératives (~2019)**, maintenant testé par mes pairs de 42 Nice pour feedbacks et amélioration continue (solo à 2~5 dev teams).
+**Débuté bien avant l'accès publique aux IA génératives (~2019)**, il est conçu pour communiquer et dégrossir des systèmes entre humains et machines (solo à 2~5 dev teams).
 
 ---
 
