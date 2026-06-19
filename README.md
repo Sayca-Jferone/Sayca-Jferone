@@ -10,7 +10,7 @@
 
 **Rendre l'intention héritable et implémentable par quelconque agent en entreprise**, humain comme agentique.
 
-### **[→ PACT protocol](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**  `Incoming update "DRAFT Protocol"`
+### **[→ PACT protocol](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**  `Next update: "DRAFT Protocol"`
 
 # 📝 Compétences
 
@@ -37,7 +37,7 @@
 
 | Dépôt | Description |
 |---|---|
-| Cursus 42next vers RNCP 7 | Études intensives sur le développement informatique. Terrain d'application de mes protocoles d'ingénierie logicielle. Repo github privés (projets à délicencier Q4 2026). |
+| Cursus 42next vers RNCP 7 | Études intensives sur le développement informatique. Terrain d'application de mes protocoles d'ingénierie logicielle. Publication prochaine des livrables unlicensed (S2 2026). |
 | [`PACT-Software`](https://github.com/Sayca-Jferone/PACT_SoftwareEngineering) | Pour le travail structuré "en 3 plans ontologiques". Là où les protocoles formels complets (B Method, VDM) fragmentent l'adoption individuelle. |
 | [`PACT-General`](https://github.com/Sayca-Jferone/PACT) | Variante du même protocole, compatible pour tous les domaines existants (ex: Business Building, Human Associations, any engineering problems definition, ...). |
 | [`Saycalabs.com`](https://saycalabs.com) | Domaine où mes services interactifs et portfolio extra-42 sont disponibles. |
