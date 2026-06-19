@@ -10,8 +10,6 @@
 
 ## **[→ PACT protocol](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**  <= `Incoming update "DRAFT Protocol"`
 
----
-
 # 📝 Compétences
 
 ## 1. Hard Stack
