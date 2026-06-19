@@ -4,7 +4,7 @@
 
 *Any works published are Open-Source until my work-study program (Q1-2027).*
 
-# 📐 Protocole
+# 📐 Framework de développement
 
 **Rendre l'intention héritable et implémentable par quelconque agent en entreprise**, humain comme agentique.
 
