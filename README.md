@@ -1,8 +1,8 @@
 <h1 align="center" class="heading-element" dir="auto">Sayca Labs</h1>
 
 [![42 Nice](https://img.shields.io/badge/42-Nice-000000?logo=42&logoColor=white)](https://42nice.fr)
-[![Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sayca_Jason_FERONE-0077B5?logo=linkedin)](https://linkedin.com/in/TON_HANDLE)
+[![Apache 2.0](https://img.shields.io/badge/License_until_1st_january_2027-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sayca-0077B5?logo=linkedin)](https://linkedin.com/in/TON_HANDLE)
 
 *Ex officier-marinier (SNLE) · Systèmes bare-metal to agentic.*
 
