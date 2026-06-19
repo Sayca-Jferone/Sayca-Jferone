@@ -1,6 +1,6 @@
 <h1 align="center" class="heading-element" dir="auto">Sayca Labs</h1>
 
-[![Apache 2.0](https://img.shields.io/badge/All_public_repo_license_until_1st_january_2027-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Apache 2.0](https://img.shields.io/badge/All_public_repo_license-Apache_2.0_until_1st_january_2027-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![42 Nice](https://img.shields.io/badge/42-Nice-000000?logo=42&logoColor=white)](https://42nice.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?logo=linkedin)](https://linkedin.com/in/sayca)
 
