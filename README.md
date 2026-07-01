@@ -14,7 +14,7 @@
 
 ### Méthode partielle : **["PACT" (débuts de DRAFT)](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
 
-**Rendre l'intention héritable et implémentable par quelconque agent en entreprise**, humain comme agentique.
+**Rendre l'intention héritable et implémentable par quelconque agent en entreprise**. Humain spécialiste/initié ou modèles d'agentique IA.
 
 # 📝 Compétences
 
