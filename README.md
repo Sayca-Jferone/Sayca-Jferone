@@ -22,16 +22,12 @@
 
 # 📝 Compétences
 
-## Hard Stack
-
 | Domaine | Technologies | Posture |
 |:---|:---|:---|
 | **Bas niveau** | `C11`, `Unix`, `Shell` | Maîtriser les primitives pour l'abstraction logicielle. |
 | **Infrastructure** | `Docker`, `Linux`, `Git`, `Cloudflare` | Environnements isolés, reproductibles, auditables. |
 | **Systèmes autonomes** | `Python`, `LLM`, `APIs`, `VectorDB` | Automatisation des flux avec supervision humaine. |
 | **Web & déploiement** | `Astro`, `Cloudflare Pages` | Interfaces légères sur infrastructure souveraine. |
-
-## Comportement
 
 0. **Profil CTF / recon passif** : opère en utilisateur avancé dans les systèmes dont les permissions développeur sont hors de porté.
    
