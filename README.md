@@ -10,11 +10,11 @@
 
 Pour ceux qui **voient**, **pensent** et **construisent** en schémas ; pensée systémique et logique transverse.
 
-**DRAFT** = Méthode de production et d'apprentissage par **défloutage cognitif progressif** `OpenSource SaycaLabs™ 2026`
+**DRAFT** = Méthode de production et d'apprentissage par **défloutage cognitif progressif** | `OpenSource SaycaLabs™ 2026`
 
-### Méthode complète : "DRAFT" (publication imminente)
+### Méthode complète "DRAFT" (publication imminente)
 
-### Méthode partielle : **["PACT" (débuts de DRAFT)](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
+### Méthode partielle **["PACT" (débuts de DRAFT)](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
 
 **Objectif: Rendre l'Intention héritable et implémentable par quelconque agent en entreprise**, humain comme artificiel.
 
