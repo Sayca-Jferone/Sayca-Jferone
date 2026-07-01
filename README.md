@@ -8,7 +8,7 @@
 
 # 📐 Cadre de Travail
 
-Pour ceux qui **voient**, qui **pensent** et qui **construisent** en schémas ; systèmes ; logique agnostique (pensée transversale).
+Pour ceux qui **voient**, **pensent** et **construisent** en schémas ; pensée systémique et logique transverse.
 
 **DRAFT** = Méthode de production et d'apprentissage par **défloutage cognitif progressif**.
 
@@ -16,7 +16,7 @@ Pour ceux qui **voient**, qui **pensent** et qui **construisent** en schémas ; 
 
 ### Méthode partielle : **["PACT" (débuts de DRAFT)](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
 
-**Rendre l'intention héritable et implémentable par quelconque agent en entreprise**.
+**Objectif: Rendre l'Intention héritable et implémentable par quelconque agent en entreprise**, humain comme artificiel.
 
 # 📝 Compétences
 
