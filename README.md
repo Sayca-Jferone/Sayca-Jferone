@@ -8,7 +8,7 @@
 
 # 📐 Cadre de Travail
 
-Pour ceux qui voient, pensent et construisent en: schémas ; systèmes ; logique any-domain (réflexion transverse).
+Pour ceux qui **voient**, qui **pensent** et qui **construisent** en schémas ; systèmes ; logique agnostique (pensée transversale).
 
 **DRAFT** = Méthode de production et d'apprentissage par **défloutage cognitif progressif**.
 
