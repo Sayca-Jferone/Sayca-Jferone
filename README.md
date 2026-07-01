@@ -22,7 +22,7 @@
 
 # 📝 Compétences
 
-| HARD STACK | Technologies | Posture |
+| HARD STACK | Techs | Posture |
 |:---|:---|:---|
 | **Bas niveau** | `C11`, `Unix`, `Shell` | Maîtriser les primitives pour l'abstraction logicielle. |
 | **Infrastructure** | `Docker`, `Linux`, `Git`, `Cloudflare` | Environnements isolés, reproductibles, auditables. |
