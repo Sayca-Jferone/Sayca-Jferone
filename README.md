@@ -4,7 +4,7 @@
 [![42 Nice](https://img.shields.io/badge/42-Nice-000000?logo=42&logoColor=white)](https://42nice.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?logo=linkedin)](https://linkedin.com/in/sayca)
 
-*Ex officier-marinier (SNLE) · Systèmes bare-metal to agentic.*
+*Ex officier-marinier (SNLE) · Force: Pensée Systémique Transversale à Ancrage Visuel · Domaine: Bare-metal to agentic softwares.*
 
 # 📐 Cadre de Travail
 
