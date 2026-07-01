@@ -10,7 +10,7 @@
 
 Pour ceux qui **voient**, **pensent** et **construisent** en schémas ; pensée systémique et logique transverse.
 
-**DRAFT** = Méthode de production et d'apprentissage par **défloutage cognitif progressif**.
+**DRAFT** = Méthode de production et d'apprentissage par **défloutage cognitif progressif** `OpenSource SaycaLabs™ 2026`
 
 ### Méthode complète : "DRAFT" (publication imminente)
 
