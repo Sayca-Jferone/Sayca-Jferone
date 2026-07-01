@@ -4,7 +4,7 @@
 [![42 Nice](https://img.shields.io/badge/42-Nice-000000?logo=42&logoColor=white)](https://42nice.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?logo=linkedin)](https://linkedin.com/in/sayca)
 
-Ex officier-marinier (SNLE) - ![Cognition](https://img.shields.io/badge/Force-0077B5) Pensée systémique transversale à ancrage visuel - ![Domaine](https://img.shields.io/badge/Domain-0077B5) Bare-metal to agentic softwares.
+Ex officier-marinier (SNLE) - ![Cognition](https://img.shields.io/badge/Force-FFA500) Pensée systémique transversale à ancrage visuel - ![Domaine](https://img.shields.io/badge/Domaine-FFA500) Bare-metal to agentic softwares.
 
 # 📐 Cadre de Travail
 
