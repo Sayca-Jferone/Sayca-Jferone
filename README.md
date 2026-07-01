@@ -6,11 +6,15 @@
 
 *Ex officier-marinier (SNLE) · Systèmes bare-metal to agentic.*
 
-# 📐 Framework de développement
+# 📐 Cadre de Travail
+
+**DRAFT** = Méthode de production et d'apprentissage par **défloutage cognitif progressif**.
+
+### Méthode complète : "DRAFT" (publication imminente)
+
+### Méthode partielle : **["PACT" (débuts de DRAFT)](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
 
 **Rendre l'intention héritable et implémentable par quelconque agent en entreprise**, humain comme agentique.
-
-### **[→ PACT protocol](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**  `Next update: "DRAFT Protocol"`
 
 # 📝 Compétences
 
