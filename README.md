@@ -22,7 +22,7 @@
 
 # 📝 Compétences
 
-## 1. Hard Stack
+## 1/2 Hard Stack
 
 | Domaine | Technologies | Posture |
 |:---|:---|:---|
@@ -31,7 +31,7 @@
 | **Systèmes autonomes** | `Python`, `LLM`, `APIs`, `VectorDB` | Automatisation des flux avec supervision humaine. |
 | **Web & déploiement** | `Astro`, `Cloudflare Pages` | Interfaces légères sur infrastructure souveraine. |
 
-## 2. Comportement
+## 2/2 Comportement
 
 0. **Profil CTF / recon passif** : opère en utilisateur avancé dans les systèmes dont les permissions développeur sont hors de porté.
    
