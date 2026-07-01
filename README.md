@@ -8,7 +8,7 @@ Ex officier-marinier (SNLE) // ![Cognition](https://img.shields.io/badge/Force-F
 
 # 📐 Cadre de Travail
 
-Pour ceux qui **voient**, **pensent** et **construisent** en schémas ; pensée systémique et logique transverse.
+> Pour ceux qui voient, pensent et construisent en schémas ; pensée systémique et logique transverse.
 
 **DRAFT** = Méthode de production et d'apprentissage par **défloutage cognitif progressif** | `OpenSource SaycaLabs™ 2026`
 
@@ -16,7 +16,7 @@ Pour ceux qui **voient**, **pensent** et **construisent** en schémas ; pensée 
 
 ### Méthode partielle **["PACT" (débuts de DRAFT)](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
 
-**Objectif: Rendre l'Intention héritable et implémentable par quelconque agent en entreprise**, humain comme artificiel.
+> Rendre l'Intention héritable et implémentable par quelconque agent en entreprise, humain comme artificiel.
 
 # 📝 Compétences
 
