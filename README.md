@@ -8,13 +8,15 @@
 
 # 📐 Cadre de Travail
 
+Pour ceux qui voient, pensent et construisent en: schémas ; systèmes ; logique any-domain (réflexion transverse).
+
 **DRAFT** = Méthode de production et d'apprentissage par **défloutage cognitif progressif**.
 
 ### Méthode complète : "DRAFT" (publication imminente)
 
 ### Méthode partielle : **["PACT" (débuts de DRAFT)](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
 
-**Rendre l'intention héritable et implémentable par quelconque agent en entreprise**. Humain spécialiste/initié ou modèles d'agentique IA.
+**Rendre l'intention héritable et implémentable par quelconque agent en entreprise**.
 
 # 📝 Compétences
 
