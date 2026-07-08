@@ -6,7 +6,9 @@
 
 Percevoir, comprendre, développer et expliquer à quiconque **tous les Systèmes logiques** | `OpenSource SaycaLabs™ 2026`
 
-**DRAFT** : Lentille à 5 dimensions pour concevoir, spécifier et auditer. Du brainstorm flou (D0) au code de production (D3) jusqu'à la distribution (D4), en délégation totale à des pairs humains ou artificiels **sans perte de matière logique**.
+__**Protection systématique contre le vibe-code**__ : La matière intellectuelle apportée par l'Humain (avec ou sans IA) passe dans tous les filtres de DRAFT, éliminant toute ambiguïté implicite.
+
+**Fonctionnement** : Lentille à 5 dimensions pour concevoir, spécifier et auditer. Du brainstorm flou (D0) au code de production (D3) jusqu'à la distribution (D4), en délégation totale à des pairs humains ou artificiels **sans perte de matière logique**.
 
 # 📝 Compétences
 
