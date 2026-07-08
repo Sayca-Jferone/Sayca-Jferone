@@ -6,7 +6,7 @@
 
 Percevoir, comprendre, développer et expliquer à quiconque **tous les Systèmes logiques**.
 
-1. **Protection systématique contre le vibe-code** ;
+1. **Protection systématique contre la dégradation implicite du vibe-code** ;
 2. **Filtration explicite de la matière intellectuelle** par chaque couche de DRAFT ;
 3. **Lentille à 5 dimensions** pour concevoir, spécifier et auditer. Du brainstorm flou (D0) au code de production (D3) jusqu'aux livrables (D4) ;
 4. **Pour les développeurs sans IA, avec IA et pour les Agents Autonomes.**
