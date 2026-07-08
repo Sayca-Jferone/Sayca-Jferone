@@ -2,7 +2,7 @@
 
 # 📐 Comment je pense et corrige les systèmes
 
-## **[DRAFT - Lentille cognitive v0.65](https://github.com/Sayca-Jferone/DRAFT/)**
+## **[DRAFT - Cognitive Lens for Systems Development v0.65](https://github.com/Sayca-Jferone/DRAFT/)**
 
 Percevoir, comprendre, développer et expliquer à quiconque **tous les Systèmes logiques** | `OpenSource SaycaLabs™ 2026`
 
