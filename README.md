@@ -4,7 +4,7 @@
 
 ## **[DRAFT - Cognitive Lens for Systems Development v0.65](https://github.com/Sayca-Jferone/DRAFT/)**
 
-Percevoir, comprendre, développer et expliquer à quiconque **tous les Systèmes logiques** | `OpenSource SaycaLabs™ 2026`
+Percevoir, comprendre, développer et expliquer à quiconque **tous les Systèmes logiques**.
 
 1. **Protection systématique contre le vibe-code** ;
 2. **Filtration explicite de la matière intellectuelle** par chaque couche de DRAFT ;
