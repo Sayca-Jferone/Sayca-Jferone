@@ -1,32 +1,37 @@
 ![MÉTHODE](https://img.shields.io/badge/COGNITION-BF7C00) **Pensée systémique** à ancrage visuel - ![DOMAINE](https://img.shields.io/badge/DOMAINE-BF7C00) Backend: Bare-metal to agentic - ![ISSU](https://img.shields.io/badge/ISSU-BF7C00) Ex officier-marinier SNLE
 
-# 📐 Comment je pense et corrige les systèmes
+# 📐 DRAFT explique le plus gros de mon travail
 
-## **[DRAFT - Cognitive Lens for Systems Development v0.65](https://github.com/Sayca-Jferone/DRAFT/)**
+## **[DRAFT - Cognitive Artifact for Systems Development v0.66.0](https://github.com/Sayca-Jferone/DRAFT/)**
 
-Percevoir, comprendre, développer et expliquer à quiconque **tous les Systèmes logiques**.
+Percevoir, comprendre, étendre et expliquer à quiconque **n'importe quel Système logique**.
 
-1. **Protection systématique contre la dégradation implicite du vibe-code** ;
-2. **Filtration explicite de la matière intellectuelle** par chaque couche de DRAFT ;
-3. **Lentille à 5 dimensions** pour concevoir, spécifier et auditer. Du brainstorm flou (D0) au code de production (D3) jusqu'aux livrables (D4) ;
-4. **Pour les développeurs sans IA, avec IA et pour les Agents Autonomes.**
+1. **Recoupage de l'Enthropie des Systèmes et détection des dégradations silencieuses** ;
+2. **Exploitation maximale de la matière intellectuelle** par chaque strate de DRAFT ;
+3. Concevoir, spécifier et auditer avec un **outil à 5 dimensions**. Des idées floues jusqu'aux systèmes actifs ;
+4. **Pour tous les développeurs, avec ou sans algo-assistance IA, jusqu'à l'Agentique strictement autonome.**
 
 # 📝 Compétences
 
-| HARD STACK | Techs | Posture |
+| | Techs | Posture |
 |:---|:---|:---|
 | **Bas niveau** | `C11`, `Unix`, `Shell` | Maîtriser les primitives pour l'abstraction logicielle. |
 | **Infrastructure** | `Docker`, `Linux`, `Git`, `Cloudflare` | Environnements isolés, reproductibles, auditables. |
 | **Systèmes autonomes** | `Python`, `LLM`, `APIs`, `VectorDB` | Automatisation des flux avec supervision humaine. |
 | **Web & déploiement** | `Astro`, `Cloudflare Pages` | Interfaces légères sur infrastructure souveraine. |
 
+<details>
+<summary>Cliquez ici pour lire mes Soft Skills</summary>
+
 > 0. Profil CTF / recon passif : opère en utilisateur avancé dans les systèmes dont les permissions développeur sont hors de porté.
    
-> 1. Modélisation de systèmes : en contrats, flux et invariants pour transduire efficacement les blocs logiques en script exécutable.
+> 1. Modélisation de systèmes : en contrats, flux et invariants pour transduire efficacement les blocs logiques en système à son maximum scalable.
 
 > 2. Conception d'outils cognitifs : pour l'augmentation des compétences & capacités de travail humaines, de pair avec l'agentique IA.
 
 > 3. Communication multi-canaux : entre agents humains/LLM par des architectures auto-documentées (lentille DRAFT, blocs logiques "BIOPGE", Markdown, RAG VectorDB).
+
+</details>
 
 # ⚙️ Activités
 
