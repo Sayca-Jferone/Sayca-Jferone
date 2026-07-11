@@ -31,8 +31,6 @@ Percevoir, comprendre, étendre et expliquer à quiconque **n'importe quel Syst�
 
 </details>
 
-![MÉTHODE](https://img.shields.io/badge/COGNITION-BF7C00) **Pensée systémique** à ancrage visuel - ![DOMAINE](https://img.shields.io/badge/DOMAINE-BF7C00) Backend: Bare-metal to agentic - ![ISSU](https://img.shields.io/badge/ISSU-BF7C00) Ex officier-marinier SNLE
-
 # ⚙️ Activités
 
 | Dépôt | Description |
