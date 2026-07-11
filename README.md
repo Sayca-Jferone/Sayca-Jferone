@@ -1,5 +1,3 @@
-![MÉTHODE](https://img.shields.io/badge/COGNITION-BF7C00) **Pensée systémique** à ancrage visuel - ![DOMAINE](https://img.shields.io/badge/DOMAINE-BF7C00) Backend: Bare-metal to agentic - ![ISSU](https://img.shields.io/badge/ISSU-BF7C00) Ex officier-marinier SNLE
-
 # 📐 DRAFT explique le plus gros de mon travail
 
 ## **[DRAFT - Cognitive Artifact for Systems Development v0.66.0](https://github.com/Sayca-Jferone/DRAFT/)**
@@ -32,6 +30,8 @@ Percevoir, comprendre, étendre et expliquer à quiconque **n'importe quel Syst�
 > 3. Communication multi-canaux : entre agents humains/LLM par des architectures auto-documentées (lentille DRAFT, blocs logiques "BIOPGE", Markdown, RAG VectorDB).
 
 </details>
+
+![MÉTHODE](https://img.shields.io/badge/COGNITION-BF7C00) **Pensée systémique** à ancrage visuel - ![DOMAINE](https://img.shields.io/badge/DOMAINE-BF7C00) Backend: Bare-metal to agentic - ![ISSU](https://img.shields.io/badge/ISSU-BF7C00) Ex officier-marinier SNLE
 
 # ⚙️ Activités
 
