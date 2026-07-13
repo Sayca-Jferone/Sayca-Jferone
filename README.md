@@ -4,7 +4,8 @@
 
 Percevoir, comprendre, étendre et expliquer à quiconque **n'importe quel Système logique**.
 
-1. **Recoupage de l'Enthropie des Systèmes et détection des dégradations silencieuses** ;
+0. **Accompagner les intentions humaines (fluides, limbiques) vers des systèmes numériques (déterministes, logiques).**
+1. **Recouper l'Enthropie des Systèmes et détecter les dégradations silencieuses** ;
 2. **Exploitation maximale de la matière intellectuelle** par chaque strate de DRAFT ;
 3. Concevoir, spécifier et auditer avec un **outil à 5 dimensions**. Des idées floues jusqu'aux systèmes actifs ;
 4. **Pour tous les développeurs, avec ou sans algo-assistance IA, jusqu'à l'Agentique strictement autonome.**
