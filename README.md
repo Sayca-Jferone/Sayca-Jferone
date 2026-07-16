@@ -1,13 +1,13 @@
-# 📐 DRAFT explique le plus gros de mon travail
+# 📐 Méta-langage de production
 
 ## **[DRAFT - Cognitive Artifact for Systems Development v0.66.0](https://github.com/Sayca-Jferone/DRAFT/)**
 
-Percevoir, comprendre, étendre et expliquer à quiconque **n'importe quel Système logique**.
+Méthode structurée de modélisation des Systèmes par des contrats versionnés, assertions logiques et machines à états finis.
 
-0. **Accompagner les intentions humaines (fluides, limbiques) vers des systèmes numériques (déterministes, logiques).**
-1. **Recouper l'Enthropie des Systèmes et détecter les dégradations silencieuses** ;
-2. **Exploitation maximale de la matière intellectuelle** par chaque strate de DRAFT ;
-3. Concevoir, spécifier et auditer avec un **outil à 5 dimensions**. Des idées floues jusqu'aux systèmes actifs ;
+0. **Traquer la dégradation intellectuelle induite par le vibe-coding non spécifié, l'ingénierie paresseuse et le moyennage du code généré.**
+1. **Établir la passerelle d'invariance logique nécessaire pour compacter les concepts complexes en spécifications d'ingénierie pures, versionnées et itérée.**
+2. **Recouper l'entropie des Systèmes en détectant plus de dégradations silencieuses** ;
+3. Concevoir, spécifier, auditer avec un **outil à 5 dimensions**. Des idées les plus floues jusqu'aux systèmes actifs ;
 4. **Pour tous les développeurs, avec ou sans algo-assistance IA, jusqu'à l'Agentique strictement autonome.**
 
 # 📝 Compétences
@@ -22,9 +22,9 @@ Percevoir, comprendre, étendre et expliquer à quiconque **n'importe quel Syst�
 <details>
 <summary>Cliquez ici pour lire mes Soft Skills</summary>
 
-> 0. Profil CTF / recon passif : opère en utilisateur avancé dans les systèmes dont les permissions développeur sont hors de porté.
+> 0. Profil CTF / recon passif : opère en utilisateur avancé dans les systèmes dont les permissions développeur sont hors de portée.
    
-> 1. Modélisation de systèmes : en contrats, flux et invariants pour transduire efficacement les blocs logiques en système à son maximum scalable.
+> 1. Modélisation de systèmes : en contrats, flux et invariants pour transduire les blocs logiques en système à son maximum scalable.
 
 > 2. Conception d'outils cognitifs : pour l'augmentation des compétences & capacités de travail humaines, de pair avec l'agentique IA.
 
