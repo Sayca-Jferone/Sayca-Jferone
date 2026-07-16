@@ -1,52 +1,52 @@
-# 📐 Méta-langage de production
+# 📐 Production Meta-Language
 
 ## **[DRAFT - Cognitive Artifact for Systems Development v0.66.0](https://github.com/Sayca-Jferone/DRAFT/)**
 
-Méthode structurée de modélisation des Systèmes par des contrats versionnés, assertions logiques et machines à états finis.
+Structured method for modeling Systems through versioned contracts, logical assertions, and finite state machines.
 
-0. **Traquer la dégradation intellectuelle induite par le vibe-coding non spécifié, l'ingénierie paresseuse et le moyennage du code généré.**
-1. **Établir la passerelle d'invariance logique nécessaire pour compacter les concepts complexes en spécifications d'ingénierie pures, versionnées et itérées.**
-2. **Recouper l'entropie des Systèmes en détectant plus de dégradations silencieuses.**
-3. Concevoir, spécifier, auditer avec un **outil à 5 dimensions**. Des idées les plus floues jusqu'aux systèmes actifs.
-4. **Pour tous les développeurs, avec ou sans algo-assistance IA, jusqu'à l'Agentique strictement autonome.**
+0. **Track intellectual degradation induced by unspecified vibe-coding, lazy engineering, and generated code averaging.**
+1. **Establish the logical invariance bridge required to compact complex concepts into pure, versioned, iterated engineering specifications.**
+2. **Cross-check System entropy by detecting more silent degradations.**
+3. Design, specify, audit with a **5-dimension tool**. From the fuzziest ideas to live systems.
+4. **For all developers, with or without AI algo-assistance, up to strictly autonomous Agentic use.**
 
-> **[ETHICS]** DRAFT est un outil neutre, un usage ne l'est pas. Interdit : contournement de guardrails de sécurité (humains ou IA), exploitation de failles comportementales d'un système. Autorisé : audit logique (D2/D3) pour documenter, comprendre, améliorer, dans les termes du fournisseur du système.
+> **[ETHICS]** DRAFT is a neutral tool, not a neutral usage. Forbidden: circumventing safety guardrails (human or AI), exploiting a system's behavioral flaws. Allowed: logical audit (D2/D3) to document, understand, improve, within the system's provider terms.
 
 # 🧠 Posture
 
-> 0. Profil CTF / recon passif : opère en utilisateur avancé dans les systèmes dont les permissions développeur sont hors de portée.
+> 0. Passive recon / CTF profile: operates as an advanced user in systems where developer-level permissions are out of reach.
 
-> 1. Modélisation de systèmes en contrats, flux et invariants, pour transduire les blocs logiques en système à son maximum scalable.
+> 1. Systems modeling in contracts, flows, and invariants, to transduce logical blocks into a system at its maximum scalability.
 
-> 2. Conception d'outils cognitifs pour l'augmentation des compétences et capacités de travail humaines, de pair avec l'agentique IA.
+> 2. Cognitive tool design for augmenting human skills and work capacity, alongside AI agentics.
 
-> 3. Communication multi-canaux entre agents humains/LLM par des architectures auto-documentées (matrice DRAFT, blocs logiques BIOPGE, Markdown, RAG VectorDB).
+> 3. Multi-channel communication between human/LLM agents through self-documenting architectures (DRAFT matrix, BIOPGE logic blocks, Markdown, RAG VectorDB).
 
 <details>
-<summary>Stack technique</summary>
+<summary>Tech stack</summary>
 
 | | Techs |
 |:---|:---|
-| **Bas niveau** | `C11`, `Unix`, `Shell` |
+| **Low level** | `C11`, `Unix`, `Shell` |
 | **Infrastructure** | `Docker`, `Linux`, `Git`, `Cloudflare` |
-| **Systèmes autonomes** | `Python`, `LLM`, `APIs`, `VectorDB` |
-| **Web & déploiement** | `Astro`, `Cloudflare Pages` |
+| **Autonomous systems** | `Python`, `LLM`, `APIs`, `VectorDB` |
+| **Web & deployment** | `Astro`, `Cloudflare Pages` |
 
 </details>
 
-# ⚙️ Activités
+# ⚙️ Activities
 
-| Dépôt | Description |
+| Repo | Description |
 |---|---|
-| Cursus 42next vers RNCP 7 | Études intensives sur le développement informatique. Terrain d'application de DRAFT et de mon travail en équipe. Publication prochaine des livrables unlicensed (S2 2026). |
-| [`DRAFT`](https://github.com/Sayca-Jferone/DRAFT) | Matrice cognitive Open Source à 5 dimensions. Applicable à tout domaine, tout agent, tout niveau de flou initial. |
-| [`PACT (deprecated)`](https://github.com/Sayca-Jferone/PACT_SoftwareEngineering) | Prémices de DRAFT : tentative de réunification des protocoles formels (B Method, VDM) que leur complétude fragmente à l'adoption individuelle. Remplacé par DRAFT, qui isole la couche minimale actionnable par un praticien seul. |
-| [`Saycalabs.com`](https://saycalabs.com) | Domaine où mes services interactifs et portfolio extra-42 sont disponibles. |
-| [`dotfiles`](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/dotfiles) | Configurations shell modulaires WSL2, Linux, macOS |
+| 42next curriculum toward RNCP 7 | Intensive computer science studies. Application ground for DRAFT and team work. Unlicensed deliverables publication coming (H2 2026). |
+| [`DRAFT`](https://github.com/Sayca-Jferone/DRAFT) | Open Source 5-dimension cognitive matrix. Applicable to any domain, any agent, any level of initial ambiguity. |
+| [`PACT (deprecated)`](https://github.com/Sayca-Jferone/PACT_SoftwareEngineering) | DRAFT's precursor: an attempt to reunify formal protocols (B Method, VDM) whose completeness fragments individual adoption. Superseded by DRAFT, which isolates the minimal layer actionable by a solo practitioner. |
+| [`Saycalabs.com`](https://saycalabs.com) | Domain hosting my interactive services and extra-42 portfolio. |
+| [`dotfiles`](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/dotfiles) | Modular shell configs for WSL2, Linux, macOS |
 
 ---
 
-## Liens
+## Links
 
 💼 **[LinkedIn](https://linkedin.com/in/sayca)**
 🎓 **[42 Nice](https://42nice.fr/)**
