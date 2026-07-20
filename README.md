@@ -1,14 +1,13 @@
-# 📐 Enhanced Production Meta-Language
+# 📐 Enhanced systems development
 
-## **[DRAFT - Cognitive Artifact for Enhanced Development v0.66.0](https://github.com/Sayca-Jferone/DRAFT/)**
+## **[DRAFT - Systems logical addressable passport v0.66.0](https://github.com/Sayca-Jferone/DRAFT/)**
 
-Structured method for modeling Systems through versioned contracts, logical assertions, and finite state machines.
+A modular 5-axis coordinate space (Emergence, Conditions, Conception, Incarnation, Experience) designed to reduce developer cognitive load through staged logical resolution, from fuzzy intent to live systems.
 
-0. **Track intellectual degradation induced by unspecified vibe-coding, lazy engineering, and generated code averaging.**
-1. **Establish the logical invariance bridge required to compact complex concepts into pure, versioned, iterated engineering specifications.**
-2. **Cross-check System entropy by detecting more silent degradations.**
-3. Design, specify, audit with a **5-dimension tool**. From the fuzziest ideas to live systems.
-4. **For all developers, with or without AI algo-assistance, up to strictly autonomous Agentic use.**
+0. **Establish the logical invariance bridge required to compact complex concepts into pure, iterated engineering specifications, cross-checking system entropy by detecting silent degradations induced by unspecified vibe-coding, lazy engineering, and generated code averaging.**
+1. Design, specify, audit with a **5-dimension tool**. From the fuzziest ideas to live systems.
+2. **For all developers, with or without AI algo-assistance, up to strictly autonomous Agentic use.**
+3. **Roadmap: living, versioned meta-contracts, logical assertions, and finite state machines - target D2/D3 formalization, not yet implemented.**
 
 > **[ETHICS]** DRAFT is a neutral tool, not a neutral usage. Forbidden: circumventing safety guardrails (human or AI), exploiting a system's behavioral flaws. Allowed: logical audit (D2/D3) to document, understand, improve, within the system's provider terms.
 
