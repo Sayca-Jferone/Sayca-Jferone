@@ -1,6 +1,6 @@
 # 🫡 Bien le bonjour, my name is Sayca 🥖
 
-You will see through this README.md, ùy ETHICS.md and publics repo who I am, how I think and my ambitious missions (maybe with you).
+Throught this page, my ethics and my projects, you will know my missions, how I think and who I am.
 
 # 📐 Enhanced systems meta-language
 
