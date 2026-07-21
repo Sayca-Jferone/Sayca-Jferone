@@ -4,7 +4,7 @@ Throught this page, my ethics and my projects, you will know my missions, how I 
 
 # 📐 Enhanced systems meta-language
 
-## **[DRAFT - Systems addressable passport v0.66.0](https://github.com/Sayca-Jferone/DRAFT/)**
+## **[DRAFT - Logic Systems addressable passport v0.66.0](https://github.com/Sayca-Jferone/DRAFT/)**
 
 A modular 5-axis coordinate space (Emergence, Conditions, Conception, Incarnation, Experience) designed to reduce developer cognitive load through staged logical resolution, from fuzzy intent to live systems.
 
