@@ -1,12 +1,12 @@
-# 🫡 Bien le bonjour, my name is Sayca 🥖
+<h1 style="text-align:center;">🫡 Bonjour, my name is Sayca 🥖</h2>
 
-Throught this page, my ethics and my projects, you will know my missions, how I think and who I am.
+---
 
-# 📐 Enhanced systems meta-language
+# 📐 Systems development meta-language
 
-## **[DRAFT - Logic Systems addressable passport v0.66.0](https://github.com/Sayca-Jferone/DRAFT/)**
+## **[DRAFT - Systems addressable passport v0.66.0](https://github.com/Sayca-Jferone/DRAFT/)**
 
-A modular 5-axis coordinate space (Emergence, Conditions, Conception, Incarnation, Experience) designed to reduce developer cognitive load through staged logical resolution, from fuzzy intent to live systems.
+A **5-axis coordinate space** (Emergence, Conditions, Conception, Incarnation, Experience) designed to reduce developer cognitive load through staged logical resolution, from fuzzy intent to live systems.
 
 <details>
 <summary>Click here to expand DRAFT short description</summary>
