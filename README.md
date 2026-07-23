@@ -1,10 +1,6 @@
 <h1 style="text-align:center;">🫡 Bonjour, my name is Sayca 🥖</h2>
 
----
-
-# 📐 Systems development meta-language
-
-## **[DRAFT - Systems addressable passport v0.66.0](https://github.com/Sayca-Jferone/DRAFT/)**
+## **[📜 DRAFT - Systems development meta-language v0.66.0](https://github.com/Sayca-Jferone/DRAFT/)**
 
 A **5-axis coordinate space** (Emergence, Conditions, Conception, Incarnation, Experience) designed to reduce developer cognitive load through staged logical resolution, from fuzzy intent to live systems.
 
