@@ -3,9 +3,9 @@
 📜 **Ethical corpus** : [ETHICS 🇬🇧](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.md) [ETHICS 🇫🇷](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.fr.md)
 
 
-## **[⬠ DRAFT ⬠ Any-system development matrix](https://github.com/Sayca-Jferone/DRAFT)**
+## **[⬠ DRAFT ⬠ Latest open-source method](https://github.com/Sayca-Jferone/DRAFT)**
 
-> ❔ `DRAFT` is the comprehensive protocol for Systems development, applicable across any domain · where `ISO 15288` fails partially.
+> ❔ `DRAFT` is my comprehensive protocol for any-domain Systems development · where `ISO 15288` fails partially.
 `DRAFT Matrix` is its core workspace, comprising 5 intertwined dimensions within which any of your "System" lives | Whether existing, theoretical or in development.
 
 ---
