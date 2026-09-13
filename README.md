@@ -1,6 +1,6 @@
 <h1 style="text-align:center;">🥖 Hello there 🇫🇷</h2>
 
-📜 **Ethical corpus** : [ETHICS 🇬🇧](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.md) [ETHICS 🇫🇷](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.fr.md)
+⚖️📜 **WORK ETHIC** : [ETHICS 🇬🇧](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.md) [ETHICS 🇫🇷](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.fr.md)
 
 
 ## **[⬠ DRAFT ⬠ Latest open-source method](https://github.com/Sayca-Jferone/DRAFT)**
