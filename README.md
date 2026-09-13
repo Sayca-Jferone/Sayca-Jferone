@@ -1,9 +1,9 @@
 <h1 style="text-align:center;">🥖 Hello there 🇫🇷</h2>
 
-⚖️📜 **WORK ETHIC** : [ETHICS 🇬🇧](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.md) [ETHICS 🇫🇷](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.fr.md)
+⚖️ **WORK ETHICS** : [ETHICS 🇬🇧](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.md) [ETHICS 🇫🇷](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.fr.md)
 
 
-## **[⬠ DRAFT ⬠ Any-domain Reflexive Framework](https://github.com/Sayca-Jferone/DRAFT)**
+## **[🛠️ ⬠ DRAFT ⬠ Any-domain Reflexive Framework](https://github.com/Sayca-Jferone/DRAFT)**
 
 > ❔ **A lack of skills is no longer an excuse to work** : `DRAFT` is **how** I approach any-domain Systems · where `ISO 15288` fails partially.
 `DRAFT Matrix` is its core workspace, comprising 5 intertwined dimensions within which any of your "System" lives | Whether existing, theoretical or in development.
