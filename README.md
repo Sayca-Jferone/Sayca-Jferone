@@ -3,7 +3,7 @@
 ⚖️📜 **WORK ETHIC** : [ETHICS 🇬🇧](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.md) [ETHICS 🇫🇷](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.fr.md)
 
 
-## **[⬠ DRAFT ⬠ Latest open-source method](https://github.com/Sayca-Jferone/DRAFT)**
+## **[⬠ DRAFT ⬠ Reflexive Engineering Framework](https://github.com/Sayca-Jferone/DRAFT)**
 
 > ❔ `DRAFT` is my comprehensive protocol for any-domain Systems development · where `ISO 15288` fails partially.
 `DRAFT Matrix` is its core workspace, comprising 5 intertwined dimensions within which any of your "System" lives | Whether existing, theoretical or in development.
