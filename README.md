@@ -3,10 +3,10 @@
 ⚖️ **WORK ETHICS** : [ETHICS 🇬🇧](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.md) [ETHICS 🇫🇷](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.fr.md)
 
 
-## **[⬠ DRAFT ⬠ 5-axis invariant development paradigm](https://github.com/Sayca-Jferone/DRAFT)**
+## **[⬠ DRAFT ⬠ Systems 5-axis invariant paradigm](https://github.com/Sayca-Jferone/DRAFT)**
 
-> ❔ **A lack of skills is no longer an excuse for work** : `DRAFT` is **how** I approach any-domain Systems · where `ISO 15288` fails partially.
-`DRAFT Matrix` is its core workspace, accepting any development framework & tool into its 5 intertwined dimensions within which any of your "System" lives.
+> ❔ **DRAFT reveals the 5 formal dimensions of your Systems, wathever if they exists, partially or not at all.** This is an "artifact-generator class" methodology.
+It accepts any framework & dev-tools into its 5 intertwined dimensions.
 
 ---
 
