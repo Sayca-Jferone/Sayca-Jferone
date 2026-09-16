@@ -3,10 +3,10 @@
 ⚖️ **WORK ETHICS** : [ETHICS 🇬🇧](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.md) [ETHICS 🇫🇷](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.fr.md)
 
 
-## **[🛠️ DRAFT ⬠ Any-domain Reflexive Framework](https://github.com/Sayca-Jferone/DRAFT)**
+## **[⬠ DRAFT ⬠ 5-axis invariant development paradigm](https://github.com/Sayca-Jferone/DRAFT)**
 
 > ❔ **A lack of skills is no longer an excuse for work** : `DRAFT` is **how** I approach any-domain Systems · where `ISO 15288` fails partially.
-`DRAFT Matrix` is its core workspace, comprising 5 intertwined dimensions within which any of your "System" lives | Whether existing, theoretical or in development.
+`DRAFT Matrix` is its core workspace, accepting any development framework & tool into its 5 intertwined dimensions within which any of your "System" lives.
 
 ---
 
@@ -14,7 +14,7 @@
 
 Exploring Theory of Computation for alternative solutions of rupture.
 
-> 0. I reject popular standard limitations and judgments about exogenous systems and methodologies, because they prevent the discovery of solutions of rupture.
+> 0. Standard limitations and judgments rejection about exogenous systems and methodologies, because they prevent the discovery of solutions of rupture.
 
 > 1. Systems modeling in contracts, flows, and invariants, to transduce logical blocks into a system at its maximum scalability.
 
