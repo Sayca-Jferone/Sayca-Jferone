@@ -2,9 +2,9 @@
 
 ⚖️ **WORK ETHICS** : [English v0.1](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.md) - [French v0.1](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.fr.md)
 
-## **[⬠ DRAFT ⬠ Systems 5-axis invariant paradigm](https://github.com/Sayca-Jferone/DRAFT)**
+## **[⬠ DRAFT ⬠ Systems Development reference frame](https://github.com/Sayca-Jferone/DRAFT)**
 
-> ❔ **DRAFT reveals the 5 formal dimensions of your Systems, wathever if they exists, partially or not at all.** This is an "artifact-generator class" methodology.
+> ❔ **DRAFT reveals the 5 formal dimensions of your Systems in their entire life cycles.** This is an "artifact-generator class" formal methodology.
 It accepts any framework & dev-tools into its 5 intertwined dimensions.
 
 ---
