@@ -3,7 +3,7 @@
 ⚖️ **WORK ETHICS** : [English v0.1](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.md) - [French v0.1](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.fr.md)
 
 🛠️ **WORK TOOLS** :
-  - `HEXIS` private Incremental Automation: `~/.claude` incremental sedimentations. Better cognition. LLM tkens consumption quadratically divided by time.
+  - `HEXIS` private Incremental Automation: `~/.claude` better cognition, LLM tokens consumption quadratically divided by time.
   - [DRAFT](https://github.com/Sayca-Jferone/DRAFT): home-made opensource systemic methodology.
 
 ## **[⬠ DRAFT ⬠ Systems Development reference frame](https://github.com/Sayca-Jferone/DRAFT)**
