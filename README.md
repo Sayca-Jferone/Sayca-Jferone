@@ -1,7 +1,6 @@
-<h1 style="text-align:center;">🥖 Hello there 🇫🇷</h2>
+<h1 style="text-align:center;">🫡 Welcome to my profile, fellow engineer</h2>
 
-⚖️ **WORK ETHICS** : [ETHICS 🇬🇧](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.md) [ETHICS 🇫🇷](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.fr.md)
-
+⚖️ **WORK ETHICS** : [English v0.1](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.md) - [French v0.1](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.fr.md)
 
 ## **[⬠ DRAFT ⬠ Systems 5-axis invariant paradigm](https://github.com/Sayca-Jferone/DRAFT)**
 
