@@ -1,54 +1,77 @@
-<h1 style="text-align:center;">🫡 Welcome to my profile, fellow engineer</h2>
+<h1 style="text-align:center;">🫡 Welcome, fellow human</h2>
 
-⚖️ **WORK ETHICS** : [English v0.1](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.md) - [French v0.1](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.fr.md)
-
-🛠️ **WORK METHOD** :
-<details><summary>Click to deploy the content</summary>
-  
-  - `HEXIS` Incremental Automation: LLM tokens consumption quadratically divided by time, with extracted cognitive crystals.
-  - [DRAFT](https://github.com/Sayca-Jferone/DRAFT): ongoing metaframework for any-System development.
-
-</details>
-
-## **[⬠ DRAFT ⬠ Systems development pentaspace](https://github.com/Sayca-Jferone/DRAFT)**
-
-> ❔ **DRAFT reveals the 5 formal dimensions of your Systems in their entire life cycles.** This is an "artifact-generator class" formal methodology.
-It accepts any framework & dev-tools into its 5 intertwined dimensions.
+⚖️ **Ethics** | [English v0.1](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.md) | [French v0.1](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.fr.md)
 
 ---
 
-# 🧠 Posture
+🛠️ **Methodologies**
 
-Exploring Theory of Computation for alternative solutions of rupture.
+<details><summary><strong>HEXIS</strong> | Incremental automation</summary>
 
-> 0. Standard limitations and judgments rejection about exogenous systems and methodologies, because they prevent the discovery of solutions of rupture.
-
-> 1. Systems modeling in contracts, flows, and invariants, to transduce logical blocks into a system at its maximum scalability.
-
-> 2. Searching about cognition automation and scalability, with tool design for augmenting human skills and work capacity, alongside AI peers.
-
-> 3. Multi-channel communication between human/AI agents through self-documenting architectures (DRAFT matrix, BIOPGE logic blocks, Markdown, RAG VectorDB, FMBOA conditional specifications).
-
-# 🔃 Tech stack
-
-| | Techs |
-|:---|:---|
-| **Low level** | `C11`, `Unix`, `Shell` |
-| **Infrastructure** | `Docker`, `Linux`, `Git`, `Cloudflare` |
-| **Autonomous systems** | `Python`, `LLM`, `APIs`, `VectorDB` |
-| **Web & deployment** | `Astro`, `Cloudflare Pages` |
+  - `HEXIS` Incremental Automation, where LLM tokens consumption quadratically divided by time, with extracted cognitive crystals. Private R&D project, for now.
 
 </details>
 
-# ⚙️ Activities
+---
 
-| Repo | Description |
+<details open><summary><strong>DRAFT</strong> | Systems development formal space</strong></summary>
+
+## **[⬠ DRAFT Pentaspace ⬠ Latest public branch](https://github.com/Sayca-Jferone/DRAFT)**
+
+> 5 formal dimensions for your **Systems Development workflow** and entire life cycles.
+
+</details>
+
+---
+
+## 🧠 Posture
+
+
+<details><summary>0️⃣ - No standard limitation</summary>
+
+> 0. Standard limitations and judgments rejection about exogenous systems and methodologies, because they prevent the discovery of solutions of rupture.
+
+</details>
+
+<details><summary>1️⃣ - System modeling by contracts</summary>
+
+> 1. Flows and invariants to transduce logical blocks into a system at its maximum scalability.
+
+</details>
+
+<details><summary>2️⃣ - Cristallisation of cognition</summary>
+
+> 2. R&D about cognition automation and scalability, with tool design for augmenting human skills and work capacity, alongside AI peers, with intellectual quality extraction on each aimed LLM-tokens groups.
+
+</details>
+
+<details><summary>3️⃣ - Enhanced communication multi-channels</summary>
+
+> 3. Multi-channel communication between human/AI agents through self-documenting architectures (DRAFT matrix, BIOPGE logic blocks, Markdown, RAG VectorDB, FMBOA conditional specifications).
+
+</details>
+
+---
+
+## </> Tech stack
+
+| | Motly explored |
+|-|-|
+| **Low level** | `C11`, `C++23` `Unix`, `Shell` |
+| **Infrastructure** | `Docker`, `Linux`, `Git`, `Cloudflare` |
+| **Autonomous systems** | `Python`, `LLM`, `APIs`, `VectorDB` |
+| **Web & deployment** | `Astro`, `PhP`, `Cloudflare services` |
+
+---
+
+## ⚙️ Activities
+
+| Latest | Description |
 |---|---|
-| 42next curriculum toward RNCP 7 | Intensive computer science studies. Application ground for DRAFT and team work. Unlicensed deliverables publication coming (H2 2026). |
+| 42 Next curriculum 🇫🇷:RNCP-7 🇪🇺:EQF-7 | Intensive computer science studies. Application ground for DRAFT and team work. |
 | [`DRAFT`](https://github.com/Sayca-Jferone/DRAFT) | Open-source formal method using a 5-dimension invariant matrix. Applicable to any domain, any agent, any user's skills level. |
-| [`NOESIS`] WIP | Portable epistemic substrate engine. Indexing, crystallizing and retrieving structured knowledge across inference cores. More quality in knowledge bases, less inference cost. |
-| [`PACT (archived)`](https://github.com/Sayca-Jferone/PACT_SoftwareEngineering) | DRAFT's precursor: an attempt to reunify formal protocols (B Method, VDM) whose completeness fragments individual adoption. Superseded by DRAFT, which isolates the minimal layer actionable by a solo practitioner. |
-| [`Saycalabs.com`](https://saycalabs.com) | Domain hosting my interactive services + extra-42 portfolio. |
+| `NOESIS` WIP | Portable epistemic substrate engine. Indexing, crystallizing and retrieving structured knowledge across inference cores. More quality in knowledge bases, less inference cost. |
+| [`PACT (archive)`](https://github.com/Sayca-Jferone/PACT_SoftwareEngineering) | DRAFT's precursor: an attempt to reunify formal protocols (B Method, VDM) whose completeness fragments individual adoption. Superseded by DRAFT, which isolates the minimal layer actionable by a solo practitioner. |
 
 ---
 
@@ -56,4 +79,4 @@ Exploring Theory of Computation for alternative solutions of rupture.
 
 💼 **[LinkedIn](https://linkedin.com/in/sayca)**
 🎓 **[42 Nice](https://42nice.fr/)**
-🧪 **[Sayca Labs Webservice](https://saycalabs.com/)**
+🧪 **[Sayca Labs](https://saycalabs.com/)**
