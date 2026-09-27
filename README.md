@@ -2,8 +2,6 @@
 
 ⚖️ **Ethics** | [English v0.1](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.md) | [French v0.1](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.fr.md)
 
----
-
 🛠️ **Methodologies**
 
 <details><summary><strong>HEXIS</strong> | Incremental automation</summary>
@@ -11,8 +9,6 @@
   - `HEXIS` Incremental Automation, where LLM tokens consumption quadratically divided by time, with extracted cognitive crystals. Private R&D project, for now.
 
 </details>
-
----
 
 <details open><summary><strong>DRAFT</strong> | Systems development formal space</strong></summary>
 
