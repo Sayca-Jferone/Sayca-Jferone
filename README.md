@@ -5,12 +5,12 @@
 🛠️ **WORK METHOD** :
 <details><summary>Click to deploy the content</summary>
   
-  - `HEXIS` private Incremental Automation: `~/.claude` better cognition, LLM tokens consumption quadratically divided by time.
-  - [DRAFT](https://github.com/Sayca-Jferone/DRAFT): home-made opensource systemic methodology.
+  - `HEXIS` Incremental Automation: LLM tokens consumption quadratically divided by time, with extracted cognitive crystals.
+  - [DRAFT](https://github.com/Sayca-Jferone/DRAFT): ongoing metaframework for any-System development.
 
 </details>
 
-## **[⬠ DRAFT ⬠ Systems Development reference frame](https://github.com/Sayca-Jferone/DRAFT)**
+## **[⬠ DRAFT ⬠ Systems development pentaspace](https://github.com/Sayca-Jferone/DRAFT)**
 
 > ❔ **DRAFT reveals the 5 formal dimensions of your Systems in their entire life cycles.** This is an "artifact-generator class" formal methodology.
 It accepts any framework & dev-tools into its 5 intertwined dimensions.
