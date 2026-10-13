@@ -12,9 +12,9 @@
 
 <details open><summary><strong>DRAFT</strong> | Systems development formal space</strong></summary>
 
-## **[⬠ DRAFT Pentaspace ⬠ Latest public branch](https://github.com/Sayca-Jferone/DRAFT)**
+## **[⬠ DRAFT ⬠ Systems Matrix model](https://github.com/Sayca-Jferone/DRAFT)**
 
-> 5 formal dimensions for your **Systems Development workflow** and entire life cycles.
+> 5 formal dimensions for your **Systems development workflow** and entire life cycles.
 
 </details>
 
