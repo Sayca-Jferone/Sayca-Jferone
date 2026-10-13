@@ -10,11 +10,11 @@
 
 </details>
 
-<details open><summary><strong>DRAFT</strong> | Systems development formal space</strong></summary>
+<details open><summary><strong>DRAFT</strong> | Systems development space</strong></summary>
 
 ## **[⬠DRAFT⬠ Systems matrix model](https://github.com/Sayca-Jferone/DRAFT)**
 
-> 5 formal dimensions for your **Systems development workflow** and entire life cycles.
+> Five formal dimensions for your **systems development**, containing dev tools/methods as matrix areas and your products.
 
 </details>
 
