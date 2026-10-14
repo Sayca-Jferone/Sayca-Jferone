@@ -12,7 +12,7 @@
 
 <details open><summary><strong>DRAFT</strong> | Systems development space</strong></summary>
 
-## **[⬠DRAFT⬠ Systems matrix model](https://github.com/Sayca-Jferone/DRAFT)**
+## **[⬠DRAFT⬠ Matrix formal model](https://github.com/Sayca-Jferone/DRAFT)**
 
 > Five formal dimensions for your **systems development**, containing dev tools/methods as matrix areas and your products.
 
