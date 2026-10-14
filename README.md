@@ -11,7 +11,7 @@
 
 <details open><summary><strong>DRAFT</strong> | My methodology, opened</summary>
 
-### **[DRAFT](https://github.com/Sayca-Jferone/DRAFT)**
+### **[⬠ DRAFT ⬠](https://github.com/Sayca-Jferone/DRAFT)**
 
 > My own working methodology, refined and made public: the sequence by which I approach
 > reality, specify a System and compose it. Five dimensions (ideas, rules, design, build,
