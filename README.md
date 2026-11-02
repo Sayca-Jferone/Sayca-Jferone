@@ -1,8 +1,8 @@
-<h1 align="center">The standard is never enough to ascend</h1>
+<h1 align="center">The Standard is never enough alone</h1>
 
 <p align="center">
-  I build Systems the way I think them: from the fuzziest intent to a living, auditable object,<br>
-  with AI agents as peers under my review, or alone.
+  I build Systems the way I think them: from the fuzziest blurr intent to a living, concrete auditable object,<br>
+  with AI as cognitive-scaled peers.
 </p>
 
 ⚖️ **Ethics** | [English v0.1](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.md) | [French v0.1](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.fr.md)
@@ -11,18 +11,16 @@
 
 <details open><summary><strong>DRAFT</strong> | My methodology, opened</summary>
 
-### **[⬠ DRAFT ⬠ Public version bundle](https://github.com/Sayca-Jferone/DRAFT)**
+### **[⬠ Posture "DRAFT" ⬠ Public engineering methods](https://github.com/Sayca-Jferone/DRAFT)**
 
-> My own working methodology, refined and made public: the sequence by which I approach
-> reality, specify a System and compose it. Five dimensions (ideas, rules, design, build,
-> field feedback) in one `.draft/` folder that humans and AI agents can audit and inherit.
+> My own working tools under the Pentaspace (5-Axis formal space), but simplified, refined and made public: the sequence by which I approach reality, specify a project and compose it.
 > Use it to see how I work, or to work that way yourself.
 
 </details>
 
 <details><summary><strong>HEXIS</strong> | Memory for AI agents</summary>
 
-> A portable memory and routing layer for my Claude agents, across every machine I work on:
+> My agnostic AI harness-enhancer for memory and routing layer for my Claude agents, across every machine I work on:
 > what has been reasoned once is stored as skills, facts and memories, so no reasoning is
 > paid for twice. Private R&D, for now.
 
