@@ -11,7 +11,7 @@
 
 <details open><summary><strong>DRAFT</strong> | My methodology, opened</summary>
 
-### **[⬠ Posture "DRAFT" ⬠ Public engineering methods](https://github.com/Sayca-Jferone/DRAFT)**
+### **[⬠ Posture DRAFT ⬠ Public engineering approachs](https://github.com/Sayca-Jferone/DRAFT)**
 
 > My own working tools under the Pentaspace (5-Axis formal space), but simplified, refined and made public: the sequence by which I approach reality, specify a project and compose it.
 > Use it to see how I work, or to work that way yourself.
