@@ -1,4 +1,4 @@
-<h1 align="center">🫡 Welcome, fellow human</h1>
+<h1 align="center">The standard is never enough to ascend</h1>
 
 <p align="center">
   I build Systems the way I think them: from the fuzziest intent to a living, auditable object,<br>
