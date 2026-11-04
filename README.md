@@ -1,8 +1,8 @@
-<h1 align="center">The Standard is never enough alone</h1>
+<h1 align="center">The standards are never enough</h1>
 
 <p align="center">
   I build Systems the way I think them: from the fuzziest blurr intent to a living, concrete auditable object,<br>
-  with AI as cognitive-scaled peers.
+  with AI models as my cognitive-scaled peers.
 </p>
 
 ⚖️ **Ethics** | [English v0.1](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.md) | [French v0.1](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.fr.md)
@@ -11,9 +11,9 @@
 
 <details open><summary><strong>DRAFT</strong> | My methodology, opened</summary>
 
-### **[⬠ Posture DRAFT ⬠ Public engineering approachs](https://github.com/Sayca-Jferone/DRAFT)**
+### **[⬠ DRAFT Posture ⬠ Public pack version](https://github.com/Sayca-Jferone/DRAFT)**
 
-> My own working tools under the Pentaspace (5-Axis formal space), but simplified, refined and made public: the sequence by which I approach reality, specify a project and compose it.
+> My own working tools under the Pentaspace (5-Axis formal space), simplified and refined as a public version: the sequence by which I approach reality, specify a project and compose it.
 > Use it to see how I work, or to work that way yourself.
 
 </details>
