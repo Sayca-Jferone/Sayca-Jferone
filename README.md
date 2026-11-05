@@ -1,92 +1,52 @@
-<h1 align="center">The standards are never enough</h1>
-
 <p align="center">
-  I build Systems the way I think them: from the fuzziest blurr intent to a living, concrete auditable object,<br>
-  with AI models as my cognitive-scaled peers.
+  <img src="assets/header.svg" alt="Sayca Labs - Individual: Sayca Jason FERONE" width="420" />
 </p>
 
-⚖️ **Ethics** | [English v0.1](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.md) | [French v0.1](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.fr.md)
+<h3 align="center"></h3>
 
-🛠️ **Methodologies**
+<p align="center">
+  The standards are never enough.<br>
+  I build Systems the way I think them.<br>
+  From the fuzziest intents to concrete auditable objects.<br>
+  With my human peers and AI models as my cognitive-scaled peers.
+</p>
 
-<details open><summary><strong>DRAFT</strong> | My methodology, opened</summary>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=900&color=D9302C&center=true&vCenter=true&width=700&lines=I+model+a+System+before+I+code+it;Author+of+DRAFT%2C+an+open+systems+method;Ex-French+Navy+sonar+team+leader;42+Nice+student+and+campus+ambassador;Looking+for+an+internship+or+work-study" alt="Typing animation" />
+</p>
 
-### **[⬠ DRAFT Posture ⬠ Public pack version](https://github.com/Sayca-Jferone/DRAFT)**
+<p align="center">
+  <a href="https://linkedin.com/in/sayca"><img src="assets/card-work.svg" alt="Work with me" width="190" /></a>
+  <a href="https://github.com/Sayca-Jferone"><img src="assets/card-code.svg" alt="Read the code" width="190" /></a>
+  <a href="https://saycalabs.com/"><img src="assets/card-site.svg" alt="saycalabs.com" width="190" /></a>
+  <a href="https://intra.42.fr/"><img src="assets/card-school.svg" alt="42 curriculum" width="190" /></a>
+</p>
 
-> My own working tools under the Pentaspace (5-Axis formal space), simplified and refined as a public version: the sequence by which I approach reality, specify a project and compose it.
-> Use it to see how I work, or to work that way yourself.
+### `// PROJECTS`
 
-</details>
+<p align="center">
+  <a href="https://github.com/Sayca-Jferone/DRAFT"><img src="assets/card-draft.svg" alt="DRAFT - open source" width="190" /></a>
+  <img src="assets/card-noesis.svg" alt="NOESIS - work in progress" width="190" />
+  <img src="assets/card-hexis.svg" alt="HEXIS - private R&D" width="190" />
+  <img src="assets/card-coffman.svg" alt="Coffman Codexion - in progress" width="190" />
+</p>
 
-<details><summary><strong>HEXIS</strong> | Memory for AI agents</summary>
+### `// BACKGROUND`
 
-> My agnostic AI harness-enhancer for memory and routing layer for my Claude agents, across every machine I work on:
-> what has been reasoned once is stored as skills, facts and memories, so no reasoning is
-> paid for twice. Private R&D, for now.
+Former French Navy petty officer, sonar operator then team leader, now in the
+42 Next curriculum at 42 Nice (RNCP level 7 / EQF level 7). I bring operational
+rigor and documentation discipline, and I model a problem before I code it.
+Freelance through [Sayca Labs](https://saycalabs.com/).
 
-</details>
+### `// HOW I WORK`
 
----
-
-## 🧠 Posture
-
-<details><summary>0️⃣ - No standard limitation</summary>
-
-> I do not reject a system or a method because it is exogenous or unconventional:
-> standard judgements are what keeps rupture solutions from being found.
-
-</details>
-
-<details><summary>1️⃣ - System modeling by contracts</summary>
-
-> Every unit gets a written contract before it is built: what it owns, takes, does,
-> guarantees, and how it fails. Flows and invariants, so logical blocks assemble into a
-> System that scales.
-
-</details>
-
-<details><summary>2️⃣ - Crystallization of cognition</summary>
-
-> Research on automating and scaling cognition: tools that augment what a human can do
-> alongside AI peers, and that keep the quality extracted from every block of tokens spent.
-
-</details>
-
-<details><summary>3️⃣ - Multi-channel communication</summary>
-
-> Humans and AI agents talk through self-documenting architectures: DRAFT Matrices, FMBOA
-> requirements, BIOPGE contracts, Markdown, vector databases.
-
-</details>
-
----
-
-## </> Tech stack
-
-| | Most explored |
-|-|-|
-| **Low level** | `C11`, `C++23`, `Rust`, `Unix`, `Shell` |
-| **Infrastructure** | `Docker`, `Linux`, `Git`, `Cloudflare` |
-| **Autonomous systems** | `Python`, `LLM`, `APIs`, `VectorDB` |
-| **Web & deployment** | `Astro`, `PHP`, `Cloudflare services` |
-
----
-
-## ⚙️ Activities
-
-| Latest | Description |
+| Principle | In practice |
 |---|---|
-| 42 Next curriculum 🇫🇷:RNCP-7 🇪🇺:EQF-7 | Intensive computer science studies. Proving ground for DRAFT and for team work. |
-| [`DRAFT`](https://github.com/Sayca-Jferone/DRAFT) | My methodology as an open-source method: a five-dimension contract for any System, any domain, any agent, any skill level. |
-| `NOESIS` WIP | Portable epistemic substrate engine: indexes, crystallizes and retrieves structured knowledge across inference cores. Better knowledge bases, lower inference cost. |
-| [`PACT (archive)`](https://github.com/Sayca-Jferone/PACT_SoftwareEngineering) | DRAFT's precursor: an attempt to reunify formal methods (B Method, VDM) whose completeness discourages individual adoption. Superseded by DRAFT, which keeps the minimal layer a solo practitioner can act on. |
+| **No standard limitation** | I never reject a method because it is unusual: conventional judgement is what hides breakthrough solutions. |
+| **Contracts first** | Each unit is specified before it is built, so blocks assemble into a System that scales. |
+| **Keep what was learned** | Every hour of reasoning, human or AI, is captured in a reusable form instead of being lost. |
+| **Self-documenting projects** | Humans and AI agents share the same written sources of truth. |
 
----
+Ethics charter: [English](ETHICS.md) | [French](ETHICS.fr.md)
 
-## Links
-
-💼 **[LinkedIn](https://linkedin.com/in/sayca)**
-
-🎓 **[42 Nice](https://42nice.fr/)**
-
-🧪 **[Sayca Labs](https://saycalabs.com/)**
+<!-- Visual assets: edit the CONTENT section of assets/build.py, then run it. -->
