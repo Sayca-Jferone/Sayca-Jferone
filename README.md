@@ -2,15 +2,6 @@
   <img src="assets/header.svg" alt="Sayca Labs - Individual: Sayca Jason FERONE" width="420" />
 </p>
 
-<h3 align="center"></h3>
-
-<p align="center">
-  The standards are never enough.<br>
-  I build Systems the way I think them.<br>
-  From the fuzziest intents to concrete auditable objects.<br>
-  With my human peers and AI models as my cognitive-scaled peers.
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=900&color=D9302C&center=true&vCenter=true&width=700&lines=I+model+a+System+before+I+code+it;Author+of+DRAFT%2C+an+open+systems+method;Ex-French+Navy+sonar+team+leader;42+Nice+student+and+campus+ambassador;Looking+for+an+internship+or+work-study" alt="Typing animation" />
 </p>
