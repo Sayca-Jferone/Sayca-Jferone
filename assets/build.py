@@ -9,41 +9,37 @@ from pathlib import Path
 
 TITLE_LEFT = "SAYCA"
 TITLE_RIGHT = "LABS"
-SUBTITLE = "Freelancing until hired for an internship or work-study"
-VERSION = "PROFILE v1.0"
+SUBTITLE = "FREELANCE OR HIRE ME for an internship or work-study"
+VERSION = "OPEN TO WORK"
 ROWS = [
-    ("INDIVIDUAL", "Sayca Jason FERONE"),
-    ("SIGNATURE", "Sayca Labs"),
-    ("MAIN STACK", "Python, C/C++, SQL, ..."),
+    ("LEGAL INDIVIDUAL", "Sayca Jason FERONE"),
+    ("LEGAL STRUCTURE", "Sayca Labs"),
+    ("STACK ORDER", "Python, C/C++, SQL, (...)"),
     ("SKILLS ORDER", "Backend, AI, Data, Full-stack"),
-    ("BASE", "Nice / Sophia-Antipolis"),
+    ("LOCATION", "Nice / Sophia-Antipolis, FRANCE"),
 ]
 
 # name: (icon, title, description lines, footer, active)
 CARDS = {
-    "work": ("briefcase", "WORK WITH ME",
-             ["Career, activities,", "professional contact"],
-             "linkedin.com", True),
-    "code": ("code", "READ MY CODE",
-             ["Repositories, tools, methods.", "Mostly Apache 2.0."],
-             "github.com", True),
-    "site": ("site", "SAYCALABS.com",
-             ["Complete website,", "any subject"],
-             "saycalabs.com", True),
-    "school": ("cap", "42 CURRICULUM",
-               ["42 Next student, 42 Nice", "campus ambassador"],
-               "intra.42.fr", True),
-    "coffman": ("scroll", "COFFMAN CODEXION",
-                [",", "description"],
-                "IN PROGRESS", False),
     "draft": ("pentagon", "DRAFT",
-              ["Open method: any System,", "five auditable dimensions"],
-              "OPEN SOURCE | Engineering bundle", True),
-    "noesis": ("graph", "NOESIS",
-               ["Knowledge engine for", "AI agents, fewer tokens"],
-               "IN PROGRESS | AI-Hive incremental loop", False),
-    "hexis": ("hexagon", "HEXIS",
-              ["Portable memory for", "all my AI agents"],
+              ["Complete methods and tools for",
+               "Systems & Software development"],
+              "OPEN SOURCE | DevTools shipping", True),
+    "ficanas": ("candles", "FICANAS",
+                ["42 Nice correction points",
+                 "economy as a live market graph"],
+                "IN PROGRESS | 42 Nice module", False),
+    "codexion": ("scroll", "COFFMAN CODEXION",
+                 ["Deadlock-free threads in C,",
+                  "FIFO and EDF schedulers"],
+                 "42 NICE | C, POSIX threads", True),
+    "noesis": ("graph", "NOESIS & BASSO",
+               ["Knowledge gather-n-filter engine",
+                "for AI agents with fewer tokens"],
+               "PRIVATE R&D | AI-Hive incremental loop", False),
+    "hexis": ("hexagon", "HEXIS HONEYCOMB",
+              ["Synchronized/shared memory for",
+               "an entire AI agentic hive-mind"],
               "PRIVATE R&D | AI-Hive living memory", False),
 }
 
@@ -80,6 +76,10 @@ ICONS = {
     "site": '<circle cx="130" cy="100" r="40"/>'
             '<ellipse cx="130" cy="100" rx="17" ry="40"/>'
             '<path d="M90 100h80M97 78h66M97 122h66"/>',
+    "candles": '<path d="M100 60v80M130 70v66M160 64v70"/>'
+               '<rect x="90" y="78" width="20" height="40"/>'
+               '<rect x="120" y="96" width="20" height="26"/>'
+               '<rect x="150" y="74" width="20" height="44"/>',
     "scroll": '<rect x="98" y="62" width="64" height="76" rx="3"/>'
               '<path d="M110 82h40M110 98h40M110 114h26"/>',
 }
