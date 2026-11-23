@@ -10,7 +10,6 @@ from pathlib import Path
 TITLE_LEFT = "SAYCA"
 TITLE_RIGHT = "LABS"
 SUBTITLE = "FREELANCE OR HIRE ME for an internship or work-study"
-VERSION = "OPEN TO WORK"
 ROWS = [
     ("LEGAL INDIVIDUAL", "Sayca Jason FERONE"),
     ("LEGAL STRUCTURE", "Sayca Labs"),
@@ -122,19 +121,33 @@ def grid(w: int, h: int) -> str:
     )
 
 
+# Media queries see the rendered <img> width; bigger user units offset
+# the viewBox downscale so row text keeps a readable minimum on phones.
+RESPONSIVE = (
+    "<style>"
+    "@media (max-width:700px){.k{font-size:18px}.v{font-size:22px}"
+    ".s{font-size:21px}}"
+    "@media (max-width:480px){.k{font-size:20px}.v{font-size:25px}"
+    ".s{font-size:22px}}"
+    "</style>"
+)
+
+
 def header(mode: str = HEADER_MODE) -> str:
-    pw = 500
-    w, px = (pw, 0) if mode == "panel" else (1000, 250)
+    pw = 900
+    w, px = (pw, 0) if mode == "panel" else (pw + 500, 250)
     top = 185
-    h = top + len(ROWS) * 52 + 60
+    h = top + len(ROWS) * 52 + 18
     row_fill = ROW if mode == "panel" else PANEL
     rows = "".join(
         f'<rect x="{px + 28}" y="{top + i * 52}" width="{pw - 56}" '
         f'height="42" fill="{row_fill}"/>'
-        f'<text x="{px + 42}" y="{top + i * 52 + 26}" font-size="12" '
-        f'font-weight="bold" letter-spacing="2" fill="{RED}">{k}</text>'
-        f'<text x="{px + pw - 42}" y="{top + i * 52 + 27}" font-size="16"'
-        f' font-weight="bold" text-anchor="end" fill="{INK}">'
+        f'<text class="k" x="{px + 42}" y="{top + i * 52 + 21}" '
+        f'font-size="12" dominant-baseline="central" font-weight="bold" '
+        f'letter-spacing="2" fill="{RED}">{k}</text>'
+        f'<text class="v" x="{px + pw - 42}" y="{top + i * 52 + 21}" '
+        f'font-size="16" dominant-baseline="central" font-weight="bold" '
+        f'text-anchor="end" fill="{INK}">'
         f'{escape(v)}</text>'
         for i, (k, v) in enumerate(ROWS)
     )
@@ -146,7 +159,7 @@ def header(mode: str = HEADER_MODE) -> str:
     )
     return (
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" '
-        f'viewBox="0 0 {w} {h}" font-family="{FONT}">{ground}'
+        f'viewBox="0 0 {w} {h}" font-family="{FONT}">{RESPONSIVE}{ground}'
         f'{logo(px + pw / 2, 78, 46)}'
         f'<text x="{px + pw / 2 - 58}" y="92" font-size="38" '
         f'font-weight="bold" font-style="italic" text-anchor="end" '
@@ -154,14 +167,10 @@ def header(mode: str = HEADER_MODE) -> str:
         f'<text x="{px + pw / 2 + 58}" y="92" font-size="38" '
         f'font-weight="bold" font-style="italic" fill="{INK}">'
         f'{TITLE_RIGHT}</text>'
-        f'<text x="{px + pw // 2}" y="160" font-size="15" '
-        f'textLength="{pw - 56}" lengthAdjust="spacingAndGlyphs" '
+        f'<text class="s" x="{px + pw // 2}" y="160" font-size="18" '
         f'font-weight="bold" font-style="italic" letter-spacing="1" '
         f'text-anchor="middle" fill="{INK}">'
-        f'{escape(SUBTITLE)}</text>{rows}'
-        f'<text x="{px + 28}" y="{h - 30}" font-size="13" '
-        f'font-weight="bold" letter-spacing="2" fill="{MUTED}">'
-        f'{VERSION}</text></svg>'
+        f'{escape(SUBTITLE)}</text>{rows}</svg>'
     )
 
 

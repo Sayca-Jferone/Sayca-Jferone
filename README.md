@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Sayca Labs - Individual: Sayca Jason FERONE" width="420" />
+  <img src="assets/header.svg" alt="Sayca Labs - Individual: Sayca Jason FERONE" width="100%" />
 </p>
 
 <p align="center">
