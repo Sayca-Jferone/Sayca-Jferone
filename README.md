@@ -1,50 +1,63 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Sayca Labs - Individual: Sayca Jason FERONE" width="100%" />
+  <img src="assets/header.svg" alt="Sayca Labs - Sayca Jason FERONE. Open to work-study. Python, C, C++, SQL, Rust. Backend, Data, AI, Full-stack. Nice / Sophia Antipolis. 42 Nice, 42 Next." width="100%" />
 </p>
 
 <p align="center">
   <b>Open to a 6-month internship or a 12-24 month work-study (alternance)<br/>
-  from January 2027 - Nice / Sophia-Antipolis</b>
+  from January 2027 - Nice / Sophia-Antipolis</b><br/>
+  Ex-French Navy sonar team leader. Author of DRAFT, an open systems method.
+  I model a System before I code it.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=900&color=D9302C&center=true&vCenter=true&width=700&lines=I+model+a+System+before+I+code+it;Author+of+DRAFT%2C+an+open+systems+method;Ex-French+Navy+sonar+team+leader;42+Nice+student+and+campus+ambassador" alt="Typing animation" />
+  <a href="https://saycalabs.com/#hire"><img src="assets/call-hire.svg" alt="Hire me: work-study or internship. Contract, start date, CV, FAQ." width="32%" /></a>
+  <a href="https://saycalabs.com/#brief"><img src="assets/call-brief.svg" alt="Brief me: freelance builds, specialised work, audits. Services, method, brief composer." width="32%" /></a>
+  <a href="https://saycalabs.com/#readme"><img src="assets/call-read.svg" alt="Read me: what I master, what I am learning, where I aim. Coverage map 2025-2030." width="32%" /></a>
 </p>
 
-<h2 align="center">MAIN STACK</h2>
+<p align="center"><img src="assets/t-hire.svg" alt="Recruit an engineer in training" width="100%" /></p>
+<p align="center"><img src="assets/hire.svg" alt="Looking for: work-study or internship from February 2027, backend, data, AI, full-stack, Nice / Sophia Antipolis or remote, 42 Next 2025-2030. You get: contracts before code, strict by default, team delivery, AI that stays engineered." width="100%" /></p>
 
-![C](https://img.shields.io/badge/C-121212?style=for-the-badge&logo=c&logoColor=d9302c)
-![C++](https://img.shields.io/badge/C++-121212?style=for-the-badge&logo=cplusplus&logoColor=d9302c)
-![Python](https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=d9302c)
-![SQL](https://img.shields.io/badge/SQL-121212?style=for-the-badge&logo=postgresql&logoColor=d9302c)
-![Bash](https://img.shields.io/badge/Bash-121212?style=for-the-badge&logo=gnubash&logoColor=d9302c)
-<br/>
-![Docker](https://img.shields.io/badge/Docker-121212?style=for-the-badge&logo=docker&logoColor=d9302c)
-![Linux](https://img.shields.io/badge/Linux-121212?style=for-the-badge&logo=linux&logoColor=d9302c)
-![Git](https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git&logoColor=d9302c)
-![AI agents](https://img.shields.io/badge/AI_agents-121212?style=for-the-badge&logo=claude&logoColor=d9302c)
+<details>
+<summary><b><code>// WHICH CONTRACT, WHICH TEAMS, WHICH CODE</code></b></summary>
 
-<h2 align="center">CURRENT PROJECTS</h2>
+| Question | Answer |
+|---|---|
+| Which contract and rhythm? | Work-study (alternance) or internship, from February 2027. Work-study: 35 hours a week, more where the contract allows. Internship: flexible hours. |
+| Which teams fit best? | Backend and data teams first, then AI engineering and full-stack work. Anything where correctness is measured. |
+| Can I see code? | Most repositories are public under Apache 2.0 on [github.com/sayca-jferone](https://github.com/sayca-jferone). |
+
+</details>
+
+<p align="center"><img src="assets/t-brief.svg" alt="Commission a system" width="100%" /></p>
+<p align="center"><img src="assets/services.svg" alt="General software: backend and APIs, CLI and automation, interactive web, static sites. Specialised: LLM integration, agent systems, low-level C, container infrastructure. Audits: code, architecture, AI workflow. Method: D0 brief, D1 requirements, D2 contract, build, D3 audit." width="100%" /></p>
 
 <p align="center">
-  <a href="https://github.com/Sayca-Jferone/DRAFT"><img src="assets/card-draft.svg" alt="DRAFT - open source" width="190" /></a>
-  <img src="assets/card-ficanas.svg" alt="Ficanas - PanBagnat module, in progress" width="190" />
-  <img src="assets/card-codexion.svg" alt="Codexion - C concurrency" width="190" />
+  Price on quote. Describe the need in the
+  <a href="https://saycalabs.com/#brief">brief composer</a> or write to
+  <a href="mailto:contact@saycalabs.com">contact@saycalabs.com</a>.
 </p>
 
-<h2 align="center">CURRENT R&D</h2>
+<p align="center"><img src="assets/t-read.svg" alt="Coverage map" width="100%" /></p>
+<p align="center"><img src="assets/coverage.svg" alt="Skill coverage by domain: mastered, learning, can learn, aspires. Systems, backend and data, infra, AI engineering, architecture, security, web." width="100%" /></p>
+
+<p align="center"><img src="assets/t-projects.svg" alt="Current projects" width="100%" /></p>
 
 <p align="center">
-  <img src="assets/card-noesis.svg" alt="NOESIS - private R&D" width="190" />
-  <img src="assets/card-hexis.svg" alt="HEXIS - private R&D" width="190" />
+  <a href="https://github.com/Sayca-Jferone/DRAFT"><img src="assets/card-draft.svg" alt="DRAFT - open source methods and tools for systems and software development" width="32%" /></a>
+  <img src="assets/card-ficanas.svg" alt="Ficanas - 42 Nice correction points economy as a live market graph, in progress" width="32%" />
+  <img src="assets/card-codexion.svg" alt="Coffman Codexion - deadlock-free threads in C, FIFO and EDF schedulers" width="32%" />
 </p>
 
-<h2 align="center">BACKGROUND</h2>
+<p align="center"><img src="assets/t-rnd.svg" alt="Current R&D" width="100%" /></p>
 
-Former French Navy petty officer, sonar operator then team leader, now in the
-42 Next curriculum at 42 Nice. I bring operational rigor and documentation
-discipline, and I model a problem before I code it. Freelance through
-[Sayca Labs](https://saycalabs.com/).
+<p align="center">
+  <img src="assets/card-noesis.svg" alt="NOESIS and BASSO - private R&D, knowledge engine for AI agents" width="32%" />
+  <img src="assets/card-hexis.svg" alt="HEXIS Honeycomb - private R&D, shared memory for an AI agentic hive-mind" width="32%" />
+</p>
+
+<p align="center"><img src="assets/t-log.svg" alt="Log and aims" width="100%" /></p>
+<p align="center"><img src="assets/log.svg" alt="Recent log: saycalabs.com v2 redesign started, full-stack team project requirements, containerised infrastructure closed at full marks, saycalabs.com v1, team service ported to Go. Aspirations: systems architect, open research, security audit." width="100%" /></p>
 
 <details>
 <summary><b><code>// HOW I WORK</code></b></summary>
@@ -58,13 +71,14 @@ discipline, and I model a problem before I code it. Freelance through
 
 </details>
 
-<h2 align="center">CONTACT</h2>
+<p align="center">
+  <a href="https://saycalabs.com/"><img src="https://img.shields.io/badge/saycalabs.com-0d0d0d?style=for-the-badge&logo=cloudflare&logoColor=e85454" alt="saycalabs.com" /></a>
+  <a href="https://linkedin.com/in/sayca"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=e85454" alt="LinkedIn" /></a>
+  <a href="https://profile.intra.42.fr/users/jferone"><img src="https://img.shields.io/badge/42_Curriculum-0d0d0d?style=for-the-badge&logo=42&logoColor=e85454" alt="42 curriculum" /></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=d9302c)](https://linkedin.com/in/sayca)
-[![saycalabs.com](https://img.shields.io/badge/saycalabs.com-121212?style=for-the-badge&logo=cloudflare&logoColor=d9302c)](https://saycalabs.com/)
+<p align="center"><img src="assets/footer.svg" alt="Drawn by Sayca Jason FERONE. Studio: Sayca Labs, independent. Position 43-42N 007-16E." width="100%" /></p>
 
-<h3 align="center">ETHICS CHARTER</h3>
-
-> [English document](ETHICS.md)
->
-> [French document](ETHICS.fr.md)
+<p align="center">
+  Ethics charter: <a href="ETHICS.md">English</a> - <a href="ETHICS.fr.md">French</a>
+</p>

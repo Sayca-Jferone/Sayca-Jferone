@@ -1,0 +1,224 @@
+[
+ {
+  "lane": "sys",
+  "state": "mastered",
+  "label": "C (C99/C11)",
+  "t": 2025.55
+ },
+ {
+  "lane": "sys",
+  "state": "mastered",
+  "label": "Unix & shell",
+  "t": 2025.6
+ },
+ {
+  "lane": "infra",
+  "state": "mastered",
+  "label": "Linux",
+  "t": 2025.65
+ },
+ {
+  "lane": "infra",
+  "state": "mastered",
+  "label": "Git workflows",
+  "t": 2025.7
+ },
+ {
+  "lane": "back",
+  "state": "mastered",
+  "label": "Python strict",
+  "t": 2025.9
+ },
+ {
+  "lane": "arch",
+  "state": "mastered",
+  "label": "Typed contracts",
+  "t": 2025.92
+ },
+ {
+  "lane": "back",
+  "state": "mastered",
+  "label": "SQL",
+  "t": 2025.95
+ },
+ {
+  "lane": "ai",
+  "state": "mastered",
+  "label": "LLM integration",
+  "t": 2026.1
+ },
+ {
+  "lane": "arch",
+  "state": "mastered",
+  "label": "DRAFT method",
+  "t": 2026.15
+ },
+ {
+  "lane": "web",
+  "state": "learning",
+  "label": "TypeScript",
+  "t": 2026.2
+ },
+ {
+  "lane": "sys",
+  "state": "learning",
+  "label": "C++",
+  "t": 2026.3
+ },
+ {
+  "lane": "sec",
+  "state": "learning",
+  "label": "Security basics",
+  "t": 2026.4
+ },
+ {
+  "lane": "infra",
+  "state": "learning",
+  "label": "Cloudflare Pages",
+  "t": 2026.6
+ },
+ {
+  "lane": "ai",
+  "state": "mastered",
+  "label": "Agent systems",
+  "t": 2026.6
+ },
+ {
+  "lane": "arch",
+  "state": "learning",
+  "label": "Software audit",
+  "t": 2026.7
+ },
+ {
+  "lane": "back",
+  "state": "learning",
+  "label": "Go",
+  "t": 2026.72
+ },
+ {
+  "lane": "web",
+  "state": "learning",
+  "label": "Astro static sites",
+  "t": 2026.75
+ },
+ {
+  "lane": "infra",
+  "state": "mastered",
+  "label": "Docker & Compose",
+  "t": 2026.8
+ },
+ {
+  "lane": "sys",
+  "state": "learning",
+  "label": "Rust",
+  "t": 2026.85
+ },
+ {
+  "lane": "back",
+  "state": "learning",
+  "label": "Service & API design",
+  "t": 2026.88
+ },
+ {
+  "lane": "arch",
+  "state": "learning",
+  "label": "Design systems",
+  "t": 2026.88
+ },
+ {
+  "lane": "web",
+  "state": "learning",
+  "label": "Full-stack app",
+  "t": 2026.88
+ },
+ {
+  "lane": "ai",
+  "state": "canlearn",
+  "label": "LLM evaluation",
+  "t": 2027.2
+ },
+ {
+  "lane": "sec",
+  "state": "canlearn",
+  "label": "Network security",
+  "t": 2027.4
+ },
+ {
+  "lane": "infra",
+  "state": "canlearn",
+  "label": "CI/CD pipelines",
+  "t": 2027.45
+ },
+ {
+  "lane": "sys",
+  "state": "canlearn",
+  "label": "Profiling & perf",
+  "t": 2027.6
+ },
+ {
+  "lane": "back",
+  "state": "canlearn",
+  "label": "Data pipelines",
+  "t": 2027.7
+ },
+ {
+  "lane": "web",
+  "state": "canlearn",
+  "label": "Web perf & a11y",
+  "t": 2027.8
+ },
+ {
+  "lane": "ai",
+  "state": "canlearn",
+  "label": "ML foundations",
+  "t": 2027.9
+ },
+ {
+  "lane": "sec",
+  "state": "canlearn",
+  "label": "Pentest & CTF",
+  "t": 2027.9
+ },
+ {
+  "lane": "infra",
+  "state": "canlearn",
+  "label": "Kubernetes",
+  "t": 2028
+ },
+ {
+  "lane": "sys",
+  "state": "aspires",
+  "label": "Bare-metal & embedded",
+  "t": 2028.3
+ },
+ {
+  "lane": "arch",
+  "state": "aspires",
+  "label": "Open research",
+  "t": 2028.6
+ },
+ {
+  "lane": "back",
+  "state": "aspires",
+  "label": "Distributed systems",
+  "t": 2029
+ },
+ {
+  "lane": "sec",
+  "state": "aspires",
+  "label": "Security audit",
+  "t": 2029.2
+ },
+ {
+  "lane": "ai",
+  "state": "aspires",
+  "label": "Applied AI research",
+  "t": 2029.4
+ },
+ {
+  "lane": "arch",
+  "state": "aspires",
+  "label": "Systems architect",
+  "t": 2029.5
+ }
+]
