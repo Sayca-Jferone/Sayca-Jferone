@@ -680,29 +680,46 @@ def footer() -> None:
 
 
 def banner() -> None:
-    """LinkedIn cover, 1584 x 396. Key content stays in x 400-1440:
-    the avatar covers the lower left, the edit button the top right."""
+    """LinkedIn cover, 1584 x 396, big and sparse.
+
+    Avatar covers the lower left (x 30-370, y 200+), the edit button the top
+    right, mobile trims the top and bottom ~36 px: the lockup sits centred,
+    the 42 ambassador mark top left, one status line below.
+    """
     bw, bh = 1584, 396
-    s = Svg(bw, bh, "Sayca Labs - Sayca Jason FERONE. Systems & Software "
-            "engineering. Open to work-study. Nice / Sophia Antipolis.")
+    s = Svg(bw, bh, "Sayca Labs - Sayca Jason FERONE. 42 Nice ambassador. "
+            "Open to work-study, February 2027. Nice / Sophia Antipolis.")
     ground(s, bw, bh)
     sea_marks(s, bw, bh, "43-42N 007-16E")
-    plate(s, 400, 72, 1040, 252)
-    emblem(s, 560, 198, 0.78)
-    s.text(660, 196, "SAYCA", "sig", 84, INK, ls=2.5)
-    s.text(660, 280, "LABS", "sig", 84, INK, ls=2.5)
-    s.add(f'<path d="M1096 96V300" stroke="{RULE}"/>')
-    rows = [("STATE", "Open to work-study", True),
-            ("STACK BY ORDER", "Python, C, C++, SQL, Rust...", False),
-            ("BASE", "Nice / Sophia Antipolis", False)]
-    for i, (lab, val, st) in enumerate(rows):
-        kv(s, 1120, 92 + i * 72, 296, 62, lab, val, st)
-    s.text(660, 112, "SYSTEMS & SOFTWARE ENGINEERING", "mb", 11, SOFT,
-           ls=3)
-    s.text(1416, 351, "saycalabs.com", "m", 12, ACCENT, "end", 1.2)
+    # 42 Nice ambassador, top left (white mark from the 42 logo file)
+    b64 = base64.b64encode(
+        (HERE / "img" / "42-white.png").read_bytes()).decode()
+    lh = 66
+    lw = lh * 574 / 402
+    s.add(f'<image x="40" y="40" width="{lw:.1f}" height="{lh}" '
+          f'href="data:image/png;base64,{b64}"/>')
+    s.add(f'<path d="M{40 + lw + 18:.1f} 40v{lh}" stroke="{TICK}" '
+          f'stroke-width="2"/>')
+    s.text(40 + lw + 36, 64, "NICE", "bb", 26, INK, ls=4)
+    s.text(40 + lw + 36, 98, "AMBASSADOR", "bb", 26, INK, ls=4)
+    # lockup, centred on x = 920
+    size, k = 124, 1.4
+    ew = 2 * 82.27 * k
+    gap = 44
+    word_w = width("SAYCA", "sig", size, 3.5)
+    x0 = 920 - (ew + gap + word_w) / 2
+    cy = 176
+    emblem(s, x0 + ew / 2, cy, k)
+    s.text(x0 + ew + gap, cy - 6, "SAYCA", "sig", size, INK, ls=3.5)
+    s.text(x0 + ew + gap, cy + 112, "LABS", "sig", size, INK, ls=3.5)
+    # one status line
+    s.add(f'<circle cx="{x0 + 8}" cy="338" r="8" fill="{STATE}"/>')
+    s.text(x0 + 28, 346, "OPEN TO WORK-STUDY - FEBRUARY 2027", "bb", 24,
+           INK, ls=1.5)
     out = HERE / "linkedin"
     out.mkdir(exist_ok=True)
     (out / "banner.svg").write_text(s.render(), encoding="ascii")
+
 
 
 FAQ = [
