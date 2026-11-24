@@ -332,11 +332,11 @@ def emblem(s: Svg, cx: float, cy: float, k: float) -> None:
     spokes = [(95, 42, 6.5), (42, 19, 3.4), (19, 0, 1.4)]
     out = [f'<g fill="none" stroke="{INK}" stroke-linejoin="miter">']
     for r, sw in radii:
-        out.append(f'<polygon points="{hexpts(cx, cy, r * k, 0.866)}" '
+        out.append(f'<polygon points="{hexpts(cx, cy, r * k)}" '
                    f'stroke-width="{sw * k:.2f}"/>')
     for r1, r2, sw in spokes:
         for a in range(-90, 270, 60):
-            c, sn = cos(radians(a)) * 0.866, sin(radians(a))
+            c, sn = cos(radians(a)), sin(radians(a))
             out.append(
                 f'<path d="M{cx + r1 * k * c:.2f} {cy + r1 * k * sn:.2f}'
                 f'L{cx + r2 * k * c:.2f} {cy + r2 * k * sn:.2f}" '
@@ -551,7 +551,10 @@ def project_card(name: str, icon: str, title: str, desc: str, foot: str,
     s.add(f'<path d="M24 160H246" stroke="{RULE}"/>')
     dot = STATE if active else MUTED
     s.add(f'<circle cx="30" cy="177" r="3.2" fill="{dot}"/>')
-    s.text(41, 180.5, foot, "m", 8.5, SOFT, ls=0.6)
+    fs = 8.5
+    while width(foot, "m", fs, 0.6) > 205:
+        fs -= 0.25
+    s.text(41, 180.5, foot, "m", fs, SOFT, ls=0.6)
     save(s, f"card-{name}")
 
 
@@ -665,7 +668,7 @@ def footer() -> None:
     cells = [("DRAWN BY", "Sayca Jason FERONE", "bb"),
              ("STUDIO", "Sayca Labs, independent", "bb"),
              ("POSITION", "43-42N 007-16E", "mb"),
-             ("FILES", "humans.txt llms.txt security.txt", "m")]
+             ("FILES", "humans.txt llms.txt", "m")]
     cw = 820 / 4
     for i, (lab, val, key) in enumerate(cells):
         x = 20 + i * cw
@@ -702,6 +705,97 @@ def banner() -> None:
     (out / "banner.svg").write_text(s.render(), encoding="ascii")
 
 
+FAQ = [
+    ("Which contract and rhythm?",
+     "Work-study (alternance) or internship, from February 2027. "
+     "Work-study: 35 hours a week, more where the contract allows. "
+     "Internship: flexible hours."),
+    ("Which teams fit best?",
+     "Backend and data teams first, then AI engineering and full-stack "
+     "work. Anything where correctness is measured."),
+    ("Can I see code?",
+     "Most repositories are public under Apache 2.0 on "
+     "github.com/sayca-jferone."),
+]
+METHOD = [
+    ("No standard limitation",
+     "I never reject a method because it is unusual: conventional "
+     "judgement is what hides breakthrough solutions."),
+    ("Contracts first",
+     "Each unit is specified before it is built, so blocks assemble into "
+     "a System that scales."),
+    ("Keep what was learned",
+     "Every hour of reasoning, human or AI, is captured in a reusable "
+     "form instead of being lost."),
+    ("Self-documenting projects",
+     "Humans and AI agents share the same written sources of truth."),
+]
+
+
+def intro() -> None:
+    s = Svg(W, 150, "")
+    lead = ("Open to a 6-month internship or a 12-24 month work-study "
+            "(alternance), from February 2027, Nice / Sophia Antipolis.")
+    tail = ("Ex-French Navy sonar team leader. Author of DRAFT, an open "
+            "systems method. I model a System before I code it.")
+    s.title = lead + " " + tail
+    ground(s, W, 150)
+    plate(s, 20, 20, 820, 110)
+    s.add(f'<circle cx="46" cy="49" r="4.5" fill="{STATE}"/>')
+    s.text(60, 54, "Open to a 6-month internship or a 12-24 month "
+           "work-study (alternance)", "bb", 14.5, INK)
+    s.text(60, 76, "From February 2027 - Nice / Sophia Antipolis, remote "
+           "possible", "b", 12.5, SOFT)
+    s.add(f'<path d="M40 92H820" stroke="{RULE}"/>')
+    s.para(40, 112, tail, "b", 12, 780, 16, SOFT)
+    save(s, "intro")
+
+
+def text_rows(name: str, title: str, rows: list[tuple[str, str]],
+              lw: int, label_key: str = "bb") -> None:
+    """Question/answer or principle/practice rows on one plate."""
+    heights = [max(34, len(wrap(a, "b", 11, 820 - 60 - lw)) * 15 + 18)
+               for _, a in rows]
+    h = 40 + 24 + sum(h_ + 6 for h_ in heights) + 20
+    s = Svg(W, h, title + ": " + " ".join(f"{q} {a}" for q, a in rows))
+    ground(s, W, h)
+    plate(s, 20, 20, 820, h - 40)
+    y = 44
+    for (q, a), rh in zip(rows, heights):
+        s.add(f'<rect x="36" y="{y}" width="788" height="{rh}" '
+              f'fill="{ROW}"/>')
+        s.text(50, y + 21, q, label_key, 11.5, INK)
+        for i, line in enumerate(wrap(a, "b", 11, 820 - 60 - lw)):
+            s.text(50 + lw, y + 21 + i * 15, line, "b", 11, SOFT)
+        y += rh + 6
+    save(s, name)
+
+
+def cta() -> None:
+    s = Svg(W, 96, "Price on quote. Describe the need in the brief "
+            "composer on saycalabs.com or write to contact@saycalabs.com")
+    ground(s, W, 96)
+    plate(s, 20, 20, 820, 56)
+    s.text(40, 44, "PRICE", "m", 8.5, MUTED, ls=1.6)
+    s.text(40, 62, "On quote", "bb", 13, INK)
+    s.text(160, 44, "DESCRIBE THE NEED", "m", 8.5, MUTED, ls=1.6)
+    s.text(160, 62, "Brief composer on saycalabs.com", "bb", 13, ACCENT)
+    s.text(500, 44, "OR WRITE TO", "m", 8.5, MUTED, ls=1.6)
+    s.text(500, 62, "contact@saycalabs.com", "bb", 13, INK)
+    save(s, "cta")
+
+
+def button(name: str, label: str, sub: str) -> None:
+    w, h = 270, 76
+    s = Svg(w, h, f"{label} - {sub}")
+    ground(s, w, h)
+    plate(s, 10, 10, 250, 56)
+    s.text(135, 36, label, "sig", 14, INK, "middle", 0.8)
+    s.text(135, 54, sub, "m", 8.5, ACCENT, "middle", 0.8)
+    save(s, name)
+
+
+
 def main() -> None:
     header()
     for c in CALLS:
@@ -719,6 +813,17 @@ def main() -> None:
     small_title("t-log", "LOG & AIMS")
     log_panel()
     footer()
+    intro()
+    text_rows("faq", "Which contract, which teams, which code", FAQ, 190)
+    text_rows("method", "How I work", METHOD, 190)
+    cta()
+    button("go-site", "SAYCALABS.COM", "portfolio, hire, brief")
+    button("go-linkedin", "LINKEDIN", "linkedin.com/in/sayca")
+    button("go-42", "42 CURRICULUM", "profile.intra.42.fr")
+    button("go-ethics-en", "ETHICS CHARTER", "english document")
+    button("go-ethics-fr", "CHARTE D'ETHIQUE", "french document")
+    small_title("t-method", "HOW I WORK")
+    small_title("t-elsewhere", "ELSEWHERE")
     banner()
 
 
