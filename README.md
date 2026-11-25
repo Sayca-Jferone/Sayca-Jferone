@@ -8,14 +8,6 @@
   <a href="https://saycalabs.com/#readme"><img src="assets/call-read.svg" alt="Read me: what I master, what I am learning, what I can learn, where I aim. Coverage map 2025-2030." width="32%" /></a>
 </p>
 
-<h2 align="center"><img src="assets/t-hire.svg" alt="Recruit an engineer in training" width="100%" /></h2>
-<p align="center"><img src="assets/hire.svg" alt="Looking for: work-study or internship from February 2027, backend, data, AI, full-stack, Nice / Sophia Antipolis or remote, 42 Next 2025-2030. You get: contracts before code, strict by default, team delivery, AI that stays engineered." width="100%" /></p>
-<p align="center"><img src="assets/faq.svg" alt="Which contract and rhythm? Work-study or internship from February 2027, 35 hours a week or more for work-study, flexible hours for an internship. Which teams fit best? Backend and data first, then AI engineering and full-stack. Can I see code? Most repositories are public under Apache 2.0." width="100%" /></p>
-
-<h2 align="center"><img src="assets/t-brief.svg" alt="Commission a system" width="100%" /></h2>
-<p align="center"><img src="assets/services.svg" alt="General software: backend and APIs, CLI and automation, interactive web, static sites. Specialised: LLM integration, agent systems, low-level C, container infrastructure. Audits: code, architecture, AI workflow. Method: D0 brief, D1 requirements, D2 contract, build, D3 audit." width="100%" /></p>
-<p align="center"><a href="https://saycalabs.com/#brief"><img src="assets/cta.svg" alt="Price on quote. Describe the need in the brief composer on saycalabs.com or write to contact@saycalabs.com." width="100%" /></a></p>
-
 <h2 align="center"><img src="assets/t-read.svg" alt="Coverage map" width="100%" /></h2>
 <p align="center"><img src="assets/coverage.svg" alt="Skill coverage by domain: mastered, learning, can learn, aspires. Systems, backend and data, infra, AI engineering, architecture, security, web." width="100%" /></p>
 
@@ -48,7 +40,5 @@
   <a href="ETHICS.md"><img src="assets/go-ethics-en.svg" alt="Ethics charter, English document" width="32%" /></a>
   <a href="ETHICS.fr.md"><img src="assets/go-ethics-fr.svg" alt="Charte d'ethique, document en francais" width="32%" /></a>
 </p>
-
-<p align="center"><img src="assets/footer.svg" alt="Drawn by Sayca Jason FERONE. Studio: Sayca Labs, independent. Position 43-42N 007-16E." width="100%" /></p>
 
 <p align="center"><sub>Sayca Jason FERONE (Sayca Labs) - software and systems engineering student at 42 Nice, ex-French Navy sonar team leader, based in Nice / Sophia Antipolis. Backend, data, AI engineering, full-stack, low-level C. Open to work-study or internship from February 2027. <a href="https://saycalabs.com/">saycalabs.com</a> - contact@saycalabs.com</sub></p>

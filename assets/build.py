@@ -76,7 +76,7 @@ CALLS = [
     ("call-brief", "code", "BRIEF ME",
      "Freelance builds, specialised work, code and architecture audits.",
      "services, method, brief composer", False),
-    ("call-read", "portrait", "READ ME",
+    ("call-read", "person", "READ ME",
      "What I master, what I am learning, what I can learn, where I aim.",
      "coverage map 2025-2030", False),
 ]
@@ -180,6 +180,9 @@ ICONS = {
                '<rect x="90" y="78" width="20" height="40"/>'
                '<rect x="120" y="96" width="20" height="26"/>'
                '<rect x="150" y="74" width="20" height="44"/>',
+    "person": '<circle cx="106" cy="78" r="14"/>'
+              '<path d="M78 140v-10q0-22 28-22t28 22v10z"/>'
+              '<path d="M158 76q0-14 14-14t14 14q0 9-14 15v8M172 114h.01"/>',
     "scroll": '<rect x="98" y="62" width="64" height="76" rx="2"/>'
               '<path d="M110 82h40M110 98h40M110 114h26"/>',
 }
@@ -422,17 +425,7 @@ def call_tile(name: str, icon: str, title: str, hint: str, go: str,
     px, py, pw, ph = 10, 10, 250, 296
     plate(s, px, py, pw, ph)
     shot_h = 150
-    if icon == "portrait":
-        b64 = base64.b64encode(
-            (HERE / "img" / "portrait-tile.webp").read_bytes()).decode()
-        s.add(f'<image x="{px}" y="{py}" width="{pw}" height="{shot_h}" '
-              f'preserveAspectRatio="xMidYMid slice" '
-              f'href="data:image/webp;base64,{b64}"/>')
-        s.text(px + 12, py + shot_h - 12, "ID", "m", 8.5, SOFT, ls=1.6)
-        s.text(px + pw - 12, py + shot_h - 12, "SAYCA-JFERONE", "mb", 8.5,
-               INK, "end", 1.4)
-    else:
-        icon_block(s, icon, px, py, pw, shot_h, STATE if primary else ICON)
+    icon_block(s, icon, px, py, pw, shot_h, STATE if primary else ICON)
     if primary:
         fw = width("PRIORITY", "mb", 8.5, 1.4) + 16
         s.add(f'<rect x="{px + 10}" y="{py + 10}" width="{fw:.1f}" '
@@ -680,7 +673,7 @@ def footer() -> None:
 
 
 def banner() -> None:
-    """LinkedIn cover, 1584 x 396, big and sparse.
+    """LinkedIn cover, 1584 x 396, two offers beside a compact lockup.
 
     Avatar covers the lower left (x 30-370, y 200+), the edit button the top
     right, mobile trims the top and bottom ~36 px: the lockup sits centred,
@@ -702,20 +695,26 @@ def banner() -> None:
           f'stroke-width="2"/>')
     s.text(40 + lw + 36, 64, "NICE", "bb", 26, INK, ls=4)
     s.text(40 + lw + 36, 98, "AMBASSADOR", "bb", 26, INK, ls=4)
-    # lockup, centred on x = 920
-    size, k = 124, 1.4
+    # lockup, compact, left of centre
+    size, k = 70, 0.8
     ew = 2 * 82.27 * k
-    gap = 44
-    word_w = width("SAYCA", "sig", size, 3.5)
-    x0 = 920 - (ew + gap + word_w) / 2
-    cy = 176
+    gap = 26
+    word_w = width("SAYCA", "sig", size, 2.5)
+    x0 = 430
+    cy = 196
     emblem(s, x0 + ew / 2, cy, k)
-    s.text(x0 + ew + gap, cy - 6, "SAYCA", "sig", size, INK, ls=3.5)
-    s.text(x0 + ew + gap, cy + 112, "LABS", "sig", size, INK, ls=3.5)
-    # one status line
-    s.add(f'<circle cx="{x0 + 8}" cy="338" r="8" fill="{STATE}"/>')
-    s.text(x0 + 28, 346, "OPEN TO WORK-STUDY - FEBRUARY 2027", "bb", 24,
-           INK, ls=1.5)
+    s.text(x0 + ew + gap, cy - 4, "SAYCA", "sig", size, INK, ls=2.5)
+    s.text(x0 + ew + gap, cy + 66, "LABS", "sig", size, INK, ls=2.5)
+    # two offers, right: hire me, or commission software
+    ox = x0 + ew + gap + word_w + 70
+    s.add(f'<path d="M{ox - 36:.1f} 150V256" stroke="{TICK}" '
+          f'stroke-width="2"/>')
+    offers = [(176, "HIRE ME - INTERNSHIP / WORK-STUDY"),
+              (236, "OR ORDER SOFTWARE - FREELANCE")]
+    for y, head in offers:
+        s.add(f'<circle cx="{ox + 7:.1f}" cy="{y - 9}" r="7" '
+              f'fill="{STATE}"/>')
+        s.text(ox + 26, y, head, "bb", 26, INK, ls=1.5)
     out = HERE / "linkedin"
     out.mkdir(exist_ok=True)
     (out / "banner.svg").write_text(s.render(), encoding="ascii")
