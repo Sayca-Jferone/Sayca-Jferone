@@ -70,10 +70,10 @@ HEADER_RIGHT = [
 ]
 
 CALLS = [
-    ("call-hire", "briefcase", "HIRE ME",
+    ("call-hire", "hire", "HIRE ME",
      "Work-study or internship. Backend, data, AI engineering, full-stack.",
      "contract, start date, CV, FAQ", True),
-    ("call-brief", "code", "BRIEF ME",
+    ("call-brief", "cart", "BRIEF ME",
      "Freelance builds, specialised work, code and architecture audits.",
      "services, method, brief composer", False),
     ("call-read", "person", "READ ME",
@@ -186,6 +186,30 @@ ICONS = {
     "scroll": '<rect x="98" y="62" width="64" height="76" rx="2"/>'
               '<path d="M110 82h40M110 98h40M110 114h26"/>',
 }
+# 24x24 tile icons, same drawings as the site (Hero.astro)
+_CUT = ('M14.7 22.2Q21.7 19.7 21.35 9.6H23.1L20.8 4.4L18.5 9.6H20.25'
+        'Q19.5 17.5 13.7 19Z')
+TILE24 = {
+    "hire": (
+        '<defs><mask id="hire-cut" maskUnits="userSpaceOnUse" x="0" y="0" '
+        'width="24" height="24"><rect width="24" height="24" fill="#fff"/>'
+        f'<path d="{_CUT}" fill="#000" stroke="#000" stroke-width="1.7" '
+        'stroke-linejoin="round"/><path d="M3.9 17.4V22M10.1 17.4V22" '
+        'stroke="#000" stroke-width=".75"/></mask></defs>'
+        '<g mask="url(#hire-cut)" fill="C"><path d="M12.4 6.2h10.4v2.8H12.4z'
+        'M16.2 2.4H19v10.4h-2.8z" opacity=".5"/><circle cx="7" cy="8.3" '
+        'r="3.1"/><path d="M1 21.6v-2.5c0-3.6 2.7-5.9 6-5.9s6 2.3 6 5.9v2.5z"'
+        '/></g>'
+        f'<path d="{_CUT}" fill="C"/><circle cx="12.9" cy="21.2" r=".6" '
+        'fill="C" opacity=".55"/><circle cx="11.6" cy="21.9" r=".38" '
+        'fill="C" opacity=".35"/>'),
+    "cart": (
+        '<g fill="none" stroke="C" stroke-width=".9" '
+        'stroke-linecap="square" stroke-linejoin="miter"><path d="M2 4h3l2.5 '
+        '11h10.5l2.5-8H6M10.5 8.8l-2 2 2 2M15 8.8l2 2-2 2M13.3 8.3l-1.6 5"/>'
+        '<circle cx="9" cy="19" r="1.4"/><circle cx="17" cy="19" r="1.4"/>'
+        '</g>'),
+}
 # 24x24 service glyphs (same drawings as the site)
 GLYPHS = {
     "window": "M3 5h18v14H3zM3 9h18M9.5 12l-2 2.2 2 2.2M14.5 12l2 2.2-2 2.2",
@@ -258,6 +282,13 @@ class Svg:
         self.w, self.h, self.title = w, h, title
         self.body: list[str] = []
         self.used: dict[str, set[str]] = {}
+        self.box: list[float] | None = None
+
+    def grow(self, x0: float, y0: float, x1: float, y1: float) -> None:
+        """Extend the crop box (the README ground is transparent)."""
+        b = self.box
+        self.box = [x0, y0, x1, y1] if b is None else [
+            min(b[0], x0), min(b[1], y0), max(b[2], x1), max(b[3], y1)]
 
     def add(self, s: str) -> None:
         self.body.append(s)
@@ -285,8 +316,14 @@ class Svg:
             f".{k}{{font-family:'{FONTS[k][1]}',{FONTS[k][4]};"
             f"font-weight:{FONTS[k][2]};font-style:{FONTS[k][3]}}}"
             for k in FONTS)
-        head = (f'<svg xmlns="http://www.w3.org/2000/svg" width="{self.w}" '
-                f'height="{self.h}" viewBox="0 0 {self.w} {self.h}" '
+        x0, y0, x1, y1 = 0.0, 0.0, float(self.w), float(self.h)
+        if self.box:
+            x0, y0, x1, y1 = self.box
+            if self.w >= 800:
+                x0, x1 = 14.0, self.w - 14.0
+        cw, ch = x1 - x0, y1 - y0
+        head = (f'<svg xmlns="http://www.w3.org/2000/svg" width="{cw:g}" '
+                f'height="{ch:g}" viewBox="{x0:g} {y0:g} {cw:g} {ch:g}" '
                 f'role="img" aria-label="{escape(self.title)}">'
                 f'<title>{escape(self.title)}</title>'
                 f'<style>{css}{cls}</style>')
@@ -316,6 +353,7 @@ def plate(s: Svg, x: float, y: float, w: float, h: float,
           f'stroke="{RULE}" stroke-width="1"/>')
     t = 4
     k = 10
+    s.grow(x - 6, y - 6, x + w + 6, y + h + 6)
     corners = [
         f"M{x - t} {y + k}V{y - t}H{x + k}",
         f"M{x + w + t} {y + k}V{y - t}H{x + w - k}",
@@ -412,7 +450,12 @@ def icon_block(s: Svg, kind: str, x: float, y: float, w: float,
         f'<path d="M{x} {yy}h{w}"/>' for yy in range(int(y) + 4,
                                                        int(y + h), 6))
         + "</g>")
-    if kind in ICONS:
+    if kind in TILE24:
+        sc = 88 / 24
+        s.add(f'<g transform="translate({x + w / 2 - 44:.1f},'
+              f'{y + h / 2 - 44:.1f}) scale({sc:.4f})">'
+              + TILE24[kind].replace('"C"', f'"{color}"') + '</g>')
+    elif kind in ICONS:
         s.add(f'<g transform="translate({x + w / 2 - 130:.1f},'
               f'{y + h / 2 - 100:.1f})" fill="none" stroke="{color}" '
               f'stroke-width="3" stroke-linejoin="miter" '
@@ -446,6 +489,7 @@ def section_title(name: str, text: str, tag: str) -> None:
     ground(s, W, h)
     s.text(24, 40, text, "sig", 27, INK, ls=0.8)
     s.add(f'<path d="M24 52H{W - 24}" stroke="{RULE}"/>')
+    s.grow(0, 14, W, 56)
     s.text(W - 24, 36, tag, "m", 9, CHART_LABEL, "end", 1.6)
     save(s, name)
 
@@ -456,6 +500,7 @@ def small_title(name: str, text: str) -> None:
     ground(s, W, h)
     s.text(24, 28, text, "mb", 10.5, SOFT, ls=3)
     s.add(f'<path d="M24 36H{W - 24}" stroke="{RULE}"/>')
+    s.grow(0, 14, W, 40)
     save(s, name)
 
 
