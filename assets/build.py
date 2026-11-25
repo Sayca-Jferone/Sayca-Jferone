@@ -293,7 +293,10 @@ class Svg:
         return head + "".join(self.body) + "</svg>\n"
 
 
-def ground(s: Svg, w: int, h: int) -> None:
+def ground(s: Svg, w: int, h: int, chart: bool = False) -> None:
+    """Sea-chart ground, only where asked; README plates stay bare."""
+    if not chart:
+        return
     s.add(f'<rect width="{w}" height="{h}" fill="{GROUND}"/>')
     lines = "".join(
         f'<path d="M{x} 0V{h}" />' for x in range(0, w + 1, 72))
@@ -386,7 +389,6 @@ def header() -> None:
     s = Svg(W, h, "Sayca Labs, Sayca Jason FERONE: name, state, stack, "
             "domains, base, school")
     ground(s, W, h)
-    sea_marks(s, W, h, "43-42N 007-16E")
     plate(s, 20, 20, 820, 212)
     for i, (lab, val, st) in enumerate(HEADER_LEFT):
         kv(s, 40, 34 + i * 64, 230, 54, lab, val, st)
@@ -682,7 +684,7 @@ def banner() -> None:
     bw, bh = 1584, 396
     s = Svg(bw, bh, "Sayca Labs - Sayca Jason FERONE. 42 Nice ambassador. "
             "Open to work-study, February 2027. Nice / Sophia Antipolis.")
-    ground(s, bw, bh)
+    ground(s, bw, bh, True)
     sea_marks(s, bw, bh, "43-42N 007-16E")
     # 42 Nice ambassador, top left (white mark from the 42 logo file)
     b64 = base64.b64encode(
