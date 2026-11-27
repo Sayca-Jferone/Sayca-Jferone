@@ -1,6 +1,7 @@
 <h1 align="center"><img src="assets/header.svg" alt="Sayca Jason FERONE - Sayca Labs. Systems and software engineer, open to work-study. Python, C, C++, SQL, Rust. Backend, data, AI, full-stack. Nice / Sophia Antipolis. 42 Nice, 42 Next." width="100%" /></h1>
 
-<p align="center"><img src="assets/intro.svg" alt="Open to a 6-month internship or a 12-24 month work-study (alternance), from February 2027, Nice / Sophia Antipolis. Ex-French Navy sonar team leader. Author of DRAFT, an open systems method. I model a System before I code it." width="100%" /></p>
+<!-- <p align="center"><img src="assets/intro.svg" alt="Open to a 6-month internship or a 12-24 month work-study (alternance), from February 2027, Nice / Sophia Antipolis. Ex-French Navy sonar team leader. Author of DRAFT, an open systems method. I model a System before I code it." width="100%" /></p>
+-->
 
 <p align="center">
   <a href="https://saycalabs.com/#hire"><img src="assets/call-hire.svg" alt="Hire me: work-study or internship. Contract, start date, CV, FAQ." width="32%" /></a>
@@ -11,14 +12,16 @@
 <h2 align="center"><img src="assets/t-read.svg" alt="Coverage map" width="100%" /></h2>
 <p align="center"><img src="assets/coverage.svg" alt="Skill coverage by domain: mastered, learning, can learn, aspires. Systems, backend and data, infra, AI engineering, architecture, security, web." width="100%" /></p>
 
-<h3 align="center"><img src="assets/t-projects.svg" alt="Current projects" width="100%" /></h3>
+##
+
+<h2 align="center">Current projects</h2>
 <p align="center">
   <a href="https://github.com/Sayca-Jferone/DRAFT"><img src="assets/card-draft.svg" alt="DRAFT - open source methods and tools for systems and software development" width="32%" /></a>
   <img src="assets/card-ficanas.svg" alt="Ficanas - 42 Nice correction points economy as a live market graph, in progress" width="32%" />
   <img src="assets/card-codexion.svg" alt="Coffman Codexion - deadlock-free threads in C, FIFO and EDF schedulers" width="32%" />
 </p>
 
-<h3 align="center"><img src="assets/t-rnd.svg" alt="Current R&D" width="100%" /></h3>
+<h2 align="center">Current R&D</h2>
 <p align="center">
   <img src="assets/card-noesis.svg" alt="NOESIS and BASSO - private R&D, knowledge engine for AI agents" width="32%" />
   <img src="assets/card-hexis.svg" alt="HEXIS Honeycomb - private R&D, shared memory for an AI agentic hive-mind" width="32%" />
